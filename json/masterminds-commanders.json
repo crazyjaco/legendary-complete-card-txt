@@ -2050,10 +2050,29 @@ If you fight Hybrid while he's bonded to a Villain, defeat that Villain and resc
 		"Poison Thanos": {
 Poison Thanos gets +1 Attack for each different cost among cards in his \"Poisoned Souls\" pile.
 			"Always Leads": "Poisons",
-			"Master Strike": "Each player reveals their hand and puts one of their non-grey Heroes next to Thanos in a \"Poisoned Souls: pile.\",
+			"Master Strike": "Each player reveals their hand and puts one of their non-grey Heroes next to Thanos in a \"Poisoned Souls: pile.\"",
 			"Attack": "12+",
 			"VP": "7",
 
+			"Mastermind Tactics": [
+				{
+					"title": "Desperate Rescue",
+					"Fight": "You may gain a Hero from Poison Thanos' \"Poisoned Souls\" pile.",
+				},
+				{
+					"title": "Poisoned Loyalties",
+					"Fight": "Each other player puts a Poisons card from their discard pile into Poison Thanos' \"Poisoned Souls\" pile.",
+				},
+				{
+					"title": "Searing Poisons",
+					"Fight": "Each other player discards a Poisons card from their hand or gains a Wound.",
+				},
+				{
+					"title": "Soul Seize",
+					"Fight": "Put all Heroes that cost 5 or more from the HQ into Poison Thanos' \"Poisoned Souls\" pile.",
+				},
+			]
+		}
 	},
 	{
 		"Epic Poison Thanos": {
