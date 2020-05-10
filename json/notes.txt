@@ -1,0 +1,49 @@
+masterminds = {
+	"legendary": [
+		"kingpin": {
+			mastermind_tactic: {
+				title: '',
+
+			}
+			mastermind_tactic: 'text',
+
+		}
+
+	],
+	"dark-city": [
+
+	],
+}
+
+
+Set
+Search: ==\ (.+)\ ==
+Replace: ],\n\"$1\": [
+
+Mastermind name
+Search: \[size=10\]\[i\]\[b\](.+)\[\/b\]\[\/i\]\[\/size\]
+Replace: \t\t\"$1\": {
+
+Mastermind closing bracket
+Search: ^\n\n
+Replace: \n\t\t},\n
+
+Most key:value pairs
+Search: \[b\](.+)\[/b]:\ (.+)\n
+Replace: \t\t\t\"$1\":\ \"$2\",\n
+
+Attack/VP
+Search: ^([Attack,VP].+):\ (.+)\n
+Replace: \t\t\t\"$1\":\ \"$2\",\n 
+
+Mastermind Tactics:
+Search: \[i\](.+)\[\/i\]\n\t\t\t(.+),\n\n\[i\](.+)\[\/i\]\n\t\t\t(.+),\n\n\[i\](.+)\[\/i\]\n\t\t\t(.+),\n\n\[i\](.+)\[\/i\]\n\t\t\t(.+),\n\n
+Replace: \t\t\t\"Mastermind Tactics\": [\n\t\t\t\t\{\n\t\t\t\t\t\"title\": \"$1\",\n\t\t\t\t\t$2,\n\t\t\t\t},\n\t\t\t\t{\n\t\t\t\t\t\"title\": \"$3\",\n\t\t\t\t\t$4,\n\t\t\t\t},\n\t\t\t\t\{\n\t\t\t\t\t\"title\": \"$5\",\n\t\t\t\t\t$6,\n\t\t\t\t},\n\t\t\t\t\{\n\t\t\t\t\t\"title\": \"$7\",\n\t\t\t\t\t$8,\n\t\t\t\t}\n\t\t\t],\n
+
+Fix Mastermind enclosure:
+Search: ^\t\t(\".+)\n
+Replace: \t},\n\t{\n\t\t$1\n
+
+Fix Set enclosure:
+Search: ^(\t\t\}),(\n\n\])(,\n)(.+\n\n\t)},\n\t
+Replace: $1\n\t}$2\n}$3{\n$4
