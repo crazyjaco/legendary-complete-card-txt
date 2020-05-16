@@ -1,2172 +1,2400 @@
-"Masterminds and Commanders": [
-	{
-"Legendary": [
 
-	{
-		"Dr. Doom": {
-
-			"Always Leads": "Doombot Legion",
-			"Master Strike": "Each player with exactly 6 cards in hand reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or puts 2 cards from their hand on top of their deck.",
-			"Attack": "9",
- 			"VP": "5",
- 
-			"Mastermind Tactics": [
-				{
-					"title": "Dark Technology",
-					"Fight": "You may recruit a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] or [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Hero from the HQ for free.",
-				},
-				{
-					"title": "Monarch's Decree",
-					"Fight": "Choose one: each other player draws a card or each other player discards a card.",
-				},
-				{
-					"title": "Secrets of Time Travel",
-					"Fight": "Take another turn after this one.",
-				},
-				{
-					"title": "Treasures of Latveria",
-					"Fight": "When you draw a new hand of cards at the end of this turn, draw three extra cards.",
-				}
-			],
-		},
-	},
-	{
-		"Loki": {
-
-			"Always Leads": "Enemies of Asgard",
-			"Master Strike": "Each player reveals a [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero or gains a Wound",
-			"Attack": "10",
- 			"VP": "5",
- 
-			"Mastermind Tactics": [
-				{
-					"title": "Cruel Ruler",
-					"Fight": "Defeat a Villain in the City for free.",
-				},
-				{
-					"title": "Maniacal Tyrant",
-					"Fight": "KO up to four cards from your discard pile.",
-				},
-				{
-					"title": "Vanishing Illusions",
-					"Fight": "Each other player KOs a Villain from their Victory Pile.",
-				},
-				{
-					"title": "Whispers and Lies",
-					"Fight": "Each other player KOs two Bystanders from their Victory Pile.",
-				}
-			],
-		},
-	},
-	{
-		"Magneto": {
-
-			"Always Leads": "Brotherhood",
-			"Master Strike": "Each player reveals an X-Men Hero or discards down to four cards.",
-			"Attack": "8",
- 			"VP": "5",
- 
-			"Mastermind Tactics": [
-				{
-					"title": "Bitter Captor",
-					"Fight": "Recruit an X-Men Hero from the HQ for free.",
-				},
-				{
-					"title": "Crushing Shockwave",
-					"Fight": "Each other player reveals an X-Men Hero or gains two Wounds.",
-				},
-				{
-					"title": "Electromagnetic Bubble",
-					"Fight": "Choose one of your X-Men Heroes. When you draw a new hand of cards at the end of this turn, add that Hero to your hand as a seventh card.",
-				},
-				{
-					"title": "Xavier's Nemesis",
-					"Fight": "For each of your X-Men Heroes, rescue a Bystander.",
-				}
-			],
-		},
-	},
-	{
-		"Red Skull": {
-
-			"Always Leads": "HYDRA",
-			"Master Strike": "Each player KOs a Hero from their hand.",
-			"Attack": "7",
- 			"VP": "5",
- 
-			"Mastermind Tactics": [
-				{
-					"title": "Endless Resources",
-					"Fight": "You get +4 Recruit.",
-				},
-				{
-					"title": "HYDRA Conspiracy",
-					"Fight": "Draw two cards. Then draw another card for each HYDRA Villain in your Victory Pile.",
-				},
-				{
-					"title": "Negablast Grenades",
-					"Fight": "You get +3 Attack.",
-				},
-				{
-					"title": "Ruthless Dictator",
-					"Fight": "Look at the top three cards of your deck. KO one, discard one and put one back on top of your deck.",
-				}
-			],
-		}
-	}
-
-]
-},
 {
-"Dark City": [
+	 "masterminds": [
+		{
+			"Legendary": [
 
-	{
-		"Apocalypse": {
+				{
+					"Dr. Doom": {
 
-			"Always Leads": "Four Horsemen",
-Four Horsemen Villains get +2 Attack
-			"Apocalypse Wins": "When Famine, Pestilence, War, and Death have escaped",
- 			"Master Strike": "Each player reveals their hand and puts all their Heroes that cost 1 or more on top of their deck.",
-			"Attack": "12",
- 			"VP": "6",
- 
-			"Mastermind Tactics": [
-				{
-					"title": "Apocalyptic Destruction",
-					"Fight": "Each other player KOs two Heroes from their discard pile that each cost 1 or more.",
+						"Always Leads": "Doombot Legion",
+						"Master Strike": "Each player with exactly 6 cards in hand reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[\/COLOR][\/BGCOLOR] Hero or puts 2 cards from their hand on top of their deck.",
+						"Attack": "9",
+			 			"VP": "5",
+			 
+						"Mastermind Tactics": [
+							{
+								"title": "Dark Technology",
+								"Fight": "You may recruit a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] or [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Hero from the HQ for free."
+							},
+							{
+								"title": "Monarch's Decree",
+								"Fight": "Choose one: each other player draws a card or each other player discards a card."
+							},
+							{
+								"title": "Secrets of Time Travel",
+								"Fight": "Take another turn after this one."
+							},
+							{
+								"title": "Treasures of Latveria",
+								"Fight": "When you draw a new hand of cards at the end of this turn, draw three extra cards."
+							}
+						]
+					}
 				},
 				{
-					"title": "The End of All Things",
-					"Fight": "Each other player reveals the top three cards of their deck, KOs each one of those cards that cost 1 or more, and puts the rest back in any order.",
+					"Loki": {
+
+						"Always Leads": "Enemies of Asgard",
+						"Master Strike": "Each player reveals a [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero or gains a Wound",
+						"Attack": "10",
+			 			"VP": "5",
+			 
+						"Mastermind Tactics": [
+							{
+								"title": "Cruel Ruler",
+								"Fight": "Defeat a Villain in the City for free."
+							},
+							{
+								"title": "Maniacal Tyrant",
+								"Fight": "KO up to four cards from your discard pile."
+							},
+							{
+								"title": "Vanishing Illusions",
+								"Fight": "Each other player KOs a Villain from their Victory Pile."
+							},
+							{
+								"title": "Whispers and Lies",
+								"Fight": "Each other player KOs two Bystanders from their Victory Pile."
+							}
+						]
+					}
 				},
 				{
-					"title": "Horsemen Are Drawing Nearer",
-					"Fight": "Each other player plays a Four Horsemen Villain from their Victory Pile as if playing it from the Villain Deck.",
+					"Magneto": {
+
+						"Always Leads": "Brotherhood",
+						"Master Strike": "Each player reveals an X-Men Hero or discards down to four cards.",
+						"Attack": "8",
+			 			"VP": "5",
+			 
+						"Mastermind Tactics": [
+							{
+								"title": "Bitter Captor",
+								"Fight": "Recruit an X-Men Hero from the HQ for free."
+							},
+							{
+								"title": "Crushing Shockwave",
+								"Fight": "Each other player reveals an X-Men Hero or gains two Wounds."
+							},
+							{
+								"title": "Electromagnetic Bubble",
+								"Fight": "Choose one of your X-Men Heroes. When you draw a new hand of cards at the end of this turn, add that Hero to your hand as a seventh card."
+							},
+							{
+								"title": "Xavier's Nemesis",
+								"Fight": "For each of your X-Men Heroes, rescue a Bystander."
+							}
+						]
+					}
 				},
 				{
-					"title": "Immortal and Undefeated",
-					"Fight": "If this is not the final Tactic, rescue six Bystanders and shuffle this Tactic back into the other Tactics.",
+					"Red Skull": {
+
+						"Always Leads": "HYDRA",
+						"Master Strike": "Each player KOs a Hero from their hand.",
+						"Attack": "7",
+			 			"VP": "5",
+			 
+						"Mastermind Tactics": [
+							{
+								"title": "Endless Resources",
+								"Fight": "You get +4 Recruit."
+							},
+							{
+								"title": "HYDRA Conspiracy",
+								"Fight": "Draw two cards. Then draw another card for each HYDRA Villain in your Victory Pile."
+							},
+							{
+								"title": "Negablast Grenades",
+								"Fight": "You get +3 Attack."
+							},
+							{
+								"title": "Ruthless Dictator",
+								"Fight": "Look at the top three cards of your deck. KO one, discard one and put one back on top of your deck."
+							}
+						]
+					}
 				}
-			],
-		},
-	},
-	{
-		"Kingpin": {
 
-Bribe
-			"Always Leads": "Streets of New York",
-			"Master Strike": "Each player reveals a Marvel Knights Hero or discards their hand and draws 5 cards.",
-			"Attack": "13*",
- 			"VP": "6",
- 
-			"Mastermind Tactics": [
-				{
-					"title": "Call a Hit",
-					"Fight": "Choose a Hero from each player's discard pile and KO it.",
-				},
-				{
-					"title": "Criminal Empire",
-					"Fight": "If this is not the final Tactic, reveal the top three cards of the Villain Deck. Play all the Villains you revealed. Put the rest back in random order.",
-				},
-				{
-					"title": "Dirty Cops",
-					"Fight": "Put a 0 Cost Hero from the KO pile on top of each other player's deck.",
-				},
-				{
-					"title": "Mob War",
-					"Fight": "Each other player plays a Henchman Villain from their Victory Pile as if playing it from the Villain Deck.",
-				}
-			],
-		},
-	},
-	{
-		"Mephisto": {
-
-Whenever a player gains a Wound, put it on top of that player's deck.
-			"Always Leads": "Underworld",
-			"Master Strike": "Each player reveals a Marvel Knights Hero or gains a Wound.",
-			"Attack": "10",
- 			"VP": "6",
- 
-			"Mastermind Tactics": [
-				{
-					"title": "Damned If You Do...",
-					"Fight": "Each other player KOs a Bystander from their Victory Pile or gains a Wound.",
-				},
-				{
-					"title": "Devilish Torment",
-					"Fight": "Each other player puts all 0 Cost cards from their discard pile on top of their deck in any order.",
-				},
-				{
-					"title": "Pain Begets Pain",
-					"Fight": "Choose any number of Wounds from your hand and discard pile. The player to your right gains them.",
-				},
-				{
-					"title": "The Price of Failure",
-					"Fight": "Each other player without a Mastermind Tactic in their Victory Pile gains a Wound.",
-				}
-			],
-		},
-	},
-	{
-		"Mr. Sinister": {
-
-Mr. Sinister gets +1 Attack for each Bystander he has.
-			"Always Leads": "Marauders",
-			"Master Strike": "Mr. Sinister captures a Bystander. Then each player with exactly 6 cards reveals a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero or discards cards equal to the number of Bystanders Mr. Sinister has.",
-			"Attack": "8",
- 			"VP": "6",
- 
-			"Mastermind Tactics": [
-				{
-					"title": "Human Experimentation",
-					"Fight": "Mr. Sinister captures Bystanders equal to the number of Villains in the city.",
-				},
-				{
-					"title": "Master Geneticist",
-					"Fight": "Reveal the top seven cards of the Villain Deck. Mr. Sinister captures all of the Bystanders you revealed. Put the rest back in random order.",
-				},
-				{
-					"title": "Plans Within Plans",
-					"Fight": "Mr. Sinister captures a Bystander for each Mr. Sinister Tactic in players' Victory Piles, including this Tactic.",
-				},
-				{
-					"title": "Telepathic Manipulation",
-					"Fight": "Mr. Sinister captures a Bystander from each other player's Victory Pile.",
-				}
-			],
-		},
-	},
-	{
-		"Stryfe": {
-
-			"Always Leads": "MLF",
-			"Master Strike": "Stack this Master Strike next to Stryfe.",
-Stryfe gets +1 Attack for each Master Strike stacked next to him. Each player reveals an X-Force Hero or discards a card at random.
-			"Attack": "7",
- 			"VP": "6",
- 
-			"Mastermind Tactics": [
-				{
-					"title": "Furious Wrath",
-					"Fight": "Reveal the top six cards of the Villain Deck. Play all the Master Strikes you revealed. Put the rest back in random order.",
-				},
-				{
-					"title": "Psychic Torment",
-					"Fight": "Look at the top five cards of your deck. Put one into your hand and discard the rest.",
-				},
-				{
-					"title": "Swift Vengeance",
-					"Fight": "A Wound from the Wound Stack becomes a Master Strike that takes effect immediately.",
-				},
-				{
-					"title": "Tide of Retribution",
-					"Fight": "Each other player reveals an X-Force Hero or gains a Wound.",
-				}
-			],
-		}
-	}
-
-]
-},
-{
-"Fantastic Four": [
-
-	{
-		"Galactus": {
-
-			"Cosmic Threat": "[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]",
- 			"Always Leads": "Heralds of Galactus",
-			"Master Strike": "Destroy the city space closest to Galactus. Any Villain there escapes. Put this Master Strike there.",
-Galactus Wins: When the city is destroyed.
-			"Attack": "20*",
- 			"VP": "7",
- 
-			"Mastermind Tactics": [
-				{
-					"title": "Cosmic Entity",
-					"Fight": "Choose [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR], [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR], [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] or [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]. Each player reveals any number of cards of that class, then draws that many cards.",
-				},
-				{
-					"title": "Force of Eternity",
-					"Fight": "When you draw a new hand of cards at the end of this turn, draw six extra cards, then discard six cards.",
-				},
-				{
-					"title": "Panicked Mobs",
-					"Fight": "Choose [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR], [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR], [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] or [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]. Each player reveals any number of cards of that class, then rescues that many Bystanders.",
-				},
-				{
-					"title": "Sunder the Earth",
-					"Fight": "Each other player KOs all Heroes from their discard pile with the same card name as a Hero in the HQ.",
-				}
-			],
-		},
-	},
-	{
-		"Mole Man": {
-
-Mole Man gets +1 Attack for each Subterranea Villain that has escaped.
-			"Always Leads": "Subterranea",
-			"Master Strike": "All Subterranea Villains in the city escape. If any Villains escaped this way, each player gains a Wound.",
-			"Attack": "7+",
- 			"VP": "6",
- 
-			"Mastermind Tactics": [
-				{
-					"title": "Dig to Freedom",
-					"Fight": "Each other player chooses a Subterranea Villain in their Victory Pile and puts it into the Escaped Villains pile.",
-				},
-				{
-					"title": "Master of Monsters",
-					"Fight": "If this is not the final Tactic, reveal the top six cards of the Villain Deck. Play all the Subterranea Villains you revealed. Put the rest on the bottom of the Villain Deck in random order.",
-				},
-				{
-					"title": "Secret Tunnel",
-					"Fight": "You get +6 Attack usable only against Villains in the Streets.",
-				},
-				{
-					"title": "Underground Riches",
-					"Fight": "You get +6 Recruit usable only to recruit Heroes in the HQ space under the Streets.",
-				}
-			],
-		}
-	}
-
-]
-},
-{
-"Paint the Town Red": [
-
-	{
-		"Carnage": {
-
-			"Always Leads": "Maximum Carnage",
-			"Master Strike": "Feast on each player. Whenever this Master Strike feasts on a player's 0-cost Hero, that player gains a Wound.",
-			"Attack": "9",
- 			"VP": "6",
-
-			"Mastermind Tactics": [
-				{
-					"title": "Drooling Jaws",
-					"Fight": "Each player reveals the top card of their deck. Then Carnage feasts on the player of your choice.",
-				},
-				{
-					"title": "Endless Hunger",
-					"Fight": "Feast\nIf Carnage feasts on a 0-cost Hero this way, repeat this process.",
-				},
-				{
-					"title": "Feed Me",
-					"Fight": "Feast\nYou get + Recruit equal to the Cost of the card Carnage feasts on.",
-				},
-				{
-					"title": "Om Nom Nom",
-					"Fight": "Feast\nIf Carnage feasts on a 0-cost Hero this way, each other player KOs a Bystander from their Victory Pile.",
-				}
 			]
 		},
-	},
-	{
-		"Mysterio": {
+		{
+			"Dark City": [
 
-			"Always Leads": "Sinister Six",
-			"Master Strike": "Shuffle this Master Strike into Mysterio's face down Mastermind Tactics. That card becomes a Mastermind Tactic worth 6 VP.",
-			"Attack": "8",
- 			"VP": "6",
- 
-			"Mastermind Tactics": [
 				{
-					"title": "Blurring Images",
-					"Fight": "You get +1 Recruit for each Mastermind Tactic Mysterio has left after this one.",
+					"Apocalypse": {
+
+						"Always Leads": "Four Horsemen",
+						"description": "Four Horsemen Villains get +2 Attack",
+						"Apocalypse Wins": "When Famine, Pestilence, War, and Death have escaped",
+			 			"Master Strike": "Each player reveals their hand and puts all their Heroes that cost 1 or more on top of their deck.",
+						"Attack": "12",
+			 			"VP": "6",
+			 
+						"Mastermind Tactics": [
+							{
+								"title": "Apocalyptic Destruction",
+								"Fight": "Each other player KOs two Heroes from their discard pile that each cost 1 or more."
+							},
+							{
+								"title": "The End of All Things",
+								"Fight": "Each other player reveals the top three cards of their deck, KOs each one of those cards that cost 1 or more, and puts the rest back in any order."
+							},
+							{
+								"title": "Horsemen Are Drawing Nearer",
+								"Fight": "Each other player plays a Four Horsemen Villain from their Victory Pile as if playing it from the Villain Deck."
+							},
+							{
+								"title": "Immortal and Undefeated",
+								"Fight": "If this is not the final Tactic, rescue six Bystanders and shuffle this Tactic back into the other Tactics."
+							}
+						]
+					}
 				},
 				{
-					"title": "Captive Audience",
-					"Fight": "Rescue a Bystander for each Mastermind Tactic Mysterio has left after this one.",
+					"Kingpin": {
+
+						"keyword": "Bribe",
+						"Always Leads": "Streets of New York",
+						"Master Strike": "Each player reveals a Marvel Knights Hero or discards their hand and draws 5 cards.",
+						"Attack": "13*",
+			 			"VP": "6",
+			 
+						"Mastermind Tactics": [
+							{
+								"title": "Call a Hit",
+								"Fight": "Choose a Hero from each player's discard pile and KO it."
+							},
+							{
+								"title": "Criminal Empire",
+								"Fight": "If this is not the final Tactic, reveal the top three cards of the Villain Deck. Play all the Villains you revealed. Put the rest back in random order."
+							},
+							{
+								"title": "Dirty Cops",
+								"Fight": "Put a 0 Cost Hero from the KO pile on top of each other player's deck."
+							},
+							{
+								"title": "Mob War",
+								"Fight": "Each other player plays a Henchman Villain from their Victory Pile as if playing it from the Villain Deck."
+							}
+						]
+					}
 				},
 				{
-					"title": "Master of Illusions",
-					"Fight": "If this is not the final Tactic, shuffle a Master Strike Tactic from each other player's Victory Pile back into Mysterio's Mastermind Tactics.",
+					"Mephisto": {
+
+						"description": "Whenever a player gains a Wound, put it on top of that player's deck.",
+						"Always Leads": "Underworld",
+						"Master Strike": "Each player reveals a Marvel Knights Hero or gains a Wound.",
+						"Attack": "10",
+			 			"VP": "6",
+			 
+						"Mastermind Tactics": [
+							{
+								"title": "Damned If You Do...",
+								"Fight": "Each other player KOs a Bystander from their Victory Pile or gains a Wound."
+							},
+							{
+								"title": "Devilish Torment",
+								"Fight": "Each other player puts all 0 Cost cards from their discard pile on top of their deck in any order."
+							},
+							{
+								"title": "Pain Begets Pain",
+								"Fight": "Choose any number of Wounds from your hand and discard pile. The player to your right gains them."
+							},
+							{
+								"title": "The Price of Failure",
+								"Fight": "Each other player without a Mastermind Tactic in their Victory Pile gains a Wound."
+							}
+						]
+					}
 				},
 				{
-					"title": "Mists of Deception",
-					"Fight": "If this is not the final Tactic, reveal the top five cards of the Villain Deck. Play all the Master Strikes you revealed. Put the rest on the bottom of that deck in random order.",
+					"Mr. Sinister": {
+
+						"description": "Mr. Sinister gets +1 Attack for each Bystander he has.",
+						"Always Leads": "Marauders",
+						"Master Strike": "Mr. Sinister captures a Bystander. Then each player with exactly 6 cards reveals a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero or discards cards equal to the number of Bystanders Mr. Sinister has.",
+						"Attack": "8",
+			 			"VP": "6",
+			 
+						"Mastermind Tactics": [
+							{
+								"title": "Human Experimentation",
+								"Fight": "Mr. Sinister captures Bystanders equal to the number of Villains in the city."
+							},
+							{
+								"title": "Master Geneticist",
+								"Fight": "Reveal the top seven cards of the Villain Deck. Mr. Sinister captures all of the Bystanders you revealed. Put the rest back in random order."
+							},
+							{
+								"title": "Plans Within Plans",
+								"Fight": "Mr. Sinister captures a Bystander for each Mr. Sinister Tactic in players' Victory Piles, including this Tactic."
+							},
+							{
+								"title": "Telepathic Manipulation",
+								"Fight": "Mr. Sinister captures a Bystander from each other player's Victory Pile."
+							}
+						]
+					}
+				},
+				{
+					"Stryfe": {
+
+						"Always Leads": "MLF",
+						"Master Strike": "Stack this Master Strike next to Stryfe.",
+						"description": "Stryfe gets +1 Attack for each Master Strike stacked next to him. Each player reveals an X-Force Hero or discards a card at random.",
+						"Attack": "7",
+			 			"VP": "6",
+			 
+						"Mastermind Tactics": [
+							{
+								"title": "Furious Wrath",
+								"Fight": "Reveal the top six cards of the Villain Deck. Play all the Master Strikes you revealed. Put the rest back in random order."
+							},
+							{
+								"title": "Psychic Torment",
+								"Fight": "Look at the top five cards of your deck. Put one into your hand and discard the rest."
+							},
+							{
+								"title": "Swift Vengeance",
+								"Fight": "A Wound from the Wound Stack becomes a Master Strike that takes effect immediately."
+							},
+							{
+								"title": "Tide of Retribution",
+								"Fight": "Each other player reveals an X-Force Hero or gains a Wound."
+							}
+						]
+					}
 				}
-			],
-		}
-	}
 
-]
-},
-{
-"Villains": [
-
-	{
-		"Dr. Strange": {
-
-			"Always Leads": "Defenders.",
-			"Command Strike": "Reveal the top three cards of the Adversary Deck. Put the Adversary you revealed with the highest printed Attack on top of that deck. Then play a Plot Twist from among the cards you revealed. Then put the rest of those cards on the bottom of that deck in random order.",
- 			"Attack": "8",
- 			"VP": "6",
- 
-			"Mastermind Tactics": [
-				{
-					"title": "Book of the Vishanti",
-					"Fight": "Each other player reveals a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Ally or discards all the cards in their hand, then draws as many cards as they discarded.",
-				},
-				{
-					"title": "Crimson Bands of Cyttorak",
-					"Fight": "Each other player reveals their hand, then gains a Bindings for each non-grey Ally that player has.",
-				},
-				{
-					"title": "Eye of Agamotto",
-					"Fight": "Reveal cards from the Ally Deck equal to the number of players. Put one of those cards into each player's discard pile.",
-				},
-				{
-					"title": "Winds of Watoomb",
-					"Fight": "After you draw a new hand of cards at the end of this turn, each player simultaneously passes a non-grey Ally from their hand to the hand of the player on their left.",
-				}
-			],
-		},
-	},
-	{
-		"Nick Fury": {
-
-			"Always Leads": "Avengers.",
-			"Command Strike": "Stack this Strike next to Nick Fury. Then demolish each player once for each Strike stacked here.",
- 			"Attack": "9",
- 			"VP": "6",
- 
-			"Mastermind Tactics": [
-				{
-					"title": "Bounty on Fury's Head",
-					"Fight": "KO any number of your Hydra Allies. For each Ally you KO'd this way, you may gain a Madame HYDRA.",
-				},
-				{
-					"title": "Purge Hydra",
-					"Fight": "Each other player reveals their hand and discards two Hydra Allies.",
-				},
-				{
-					"title": "The Avengers Initiative",
-					"Fight": "Each other player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Ally or chooses an Avengers Adversary from their Victory Pile and it enters the Bridge.",
-				},
-				{
-					"title": "Total Fury",
-					"Fight": "Defeat an Adversary whose Attack is less than the number of Hydra Allies in the KO pile.",
-				}
-			],
-		},
-	},
-	{
-		"Odin": {
-
-			"Always Leads": "Asgardian Warriors.",
-Odin gets +1 Attack for each Asgardian Warrior in the city and in the Overrun Pile.
-			"Command Strike": "Each player puts an Asgardian Warrior from their Victory Pile into an empty city space. Any player who cannot do so gains a Bindings.",
- 			"Attack": "10+",
- 			"VP": "6",
- 
-			"Mastermind Tactics": [
-				{
-					"title": "Divine Justice",
-					"Fight": "Each other player with a Bindings in their discard pile gains another Bindings.",
-				},
-				{
-					"title": "Might of Valhalla",
-					"Fight": "Draw a card for each Asgardian Warrior in your Victory Pile.",
-				},
-				{
-					"title": "Riches of Asgard",
-					"Fight": "You get +1 Recruit for each Asgardian Warrior in your Victory Pile.",
-				},
-				{
-					"title": "Ride of the Valkyries",
-					"Fight": "Each other player reveals a Foes of Asgard Ally or discards a card for each Asgardian Warrior in the Overrun Pile.",
-				}
-			],
-		},
-	},
-	{
-		"Professor X": {
-
-			"Always Leads": "X-men First Class.",
-			"Command Strike": "Choose the two highest-cost Allies in the Lair. Stack them next to Professor X as \"Telepathic Pawns.\" Professor X gets +1 Attack for each Ally stacked next to him. Players can recrut the top Ally in the stack next to Professor X.",
- 			"Attack": "8",
- 			"VP": "6",
- 
-			"Mastermind Tactics": [
-				{
-					"title": "Cerebro Device",
-					"Fight": "Reveal the top three cards of the Adversary Deck. Play any Adversaries you revealed that have \"X-Treme Attack\". Put the rest back in random order.",
-				},
-				{
-					"title": "Mental Dominance",
-					"Fight": "Stack the top three cards of the Ally Deck next to Professor X in random order as \"Telepathic Pawns.\"",
-				},
-				{
-					"title": "Mightiest Mutant Mind",
-					"Fight": "Each other player reveals a Brotherhood Ally or stacks a non-grey Ally from their hand next to Professor X as a \"Telepathic Pawn.\"",
-				},
-				{
-					"title": "Telepathic Imprisonment",
-					"Fight": "Each other player reveals a Brotherhood Ally or gains a Bindings.",
-				}
-			],
-		}
-	}
-
-]
-},
-{
-"Guardians of the Galaxy": [
-
-	{
-		"Supreme Intelligence of the Kree": {
-
-			"Always Leads": "Kree Starforce",
-			"Master Strike": "The Supreme Intelligence gains a Shard. Then each player reveals their hand and discards each with cost equal to, and cost one higher than, the number of Shards on the Supreme Intelligence.",
-			"Attack": "9",
- 			"VP": "6",
- 
-			"Mastermind Tactics": [
-				{
-					"title": "Combined Knowledge of All Kree",
-					"Fight": "The Supreme Intelligence gains a Shard for each Kree Villain in the city and/or the Escape Pile.",
-				},
-				{
-					"title": "Cosmic Omniscience",
-					"Fight": "The Supreme Intelligence gains a Shard for each Master Strike in the KO pile.",
-				},
-				{
-					"title": "Countermeasure Protocols",
-					"Fight": "The Supreme Intelligence gains a Shard for each Mastermind Tactic (including this one) in any player's Victory Pile.",
-				},
-				{
-					"title": "Guide Kree Evolution",
-					"Fight": "The Supreme Intelligence and Kree Villains in the city each gain a Shard.",
-				}
-			],
-		},
-	},
-	{
-		"Thanos": {
-
-			"Always Leads": "Infinity Gems",
-Thanos gets -2 Attack for each Infinity Gem Artifact card controlled by any player.
-			"Master Strike": "Each player reveals their hand and puts one of their non-grey Heroes next to Thanos in a \"Bound Souls\" pile.",
-			"Attack": "24",
- 			"VP": "7",
- 
-			"Mastermind Tactics": [
-				{
-					"title": "Centuries of Envy",
-					"Fight": "Each other player discards an Infinity Gem Artifact card they control.",
-				},
-				{
-					"title": "God of Death",
-					"Fight": "Each other player reveals their hand and gains a Wound for each card that player has with the same card name as any card in Thanos' Bound Souls pile.",
-				},
-				{
-					"title": "Keeper of Souls",
-					"Fight": "Gain a Hero from Thanos' Bound Souls pile. Then each other player puts a non-grey Hero from their discard pile into Thanos' Bound Souls pile.",
-				},
-				{
-					"title": "The Mad Titan",
-					"Fight": "Each other player reveals their hand and discards all cards with the same card name as any card in Thanos' Bound Souls pile.",
-				}
-			],
-		}
-	}
-
-]
-},
-{
-"Fear Itself": [
-
-	{
-		"Uru-Enchanted Iron Man": {
-
-			"Always Leads": "The Mighty.",
-			"Command Strike": "Demolish each player. Then stack this Strike next to Iron Man. Uru-Enchanted Iron Man has an Uru-Enchanted Weapon for each Strike stacked here.",
- 			"Attack": "7*",
- 			"VP": "6",
- 
-			"Mastermind Tactics": [
-				{
-					"title": "Armor of the Destroyer",
-					"Fight": "For each [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Ally you have, demolish each other player.",
-				},
-				{
-					"title": "Pepper Potts in Rescue Armor",
-					"Fight": "A Bystander from the Bystander Stack becomes a Command Strike that takes effect immediately.",
-				},
-				{
-					"title": "Quantum Inventions",
-					"Fight": "Draw two cards. Then, if you reveal a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] card, draw two more cards.",
-				},
-				{
-					"title": "Repulsor Coils",
-					"Fight": "Each other player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] ally or gains a Bindings.",
-				}
-			],
-		}
-	}
-
-]
-},
-{
-"Secret Wars Volume 1": [
-
-	{
-		"Madelyne Pryor, Goblin Queen": {
-
-Bystanders captured by Madelyne are "Demon Goblin" Villains with 2 Attack. You can fight them to rescue them as Bystanders. You can't fight her while she has any Demon Goblins.
-			"Always Leads": "Limbo",
-			"Master Strike": "Madelyne captures 4 Bystanders. If she already had any Bystanders before that, then each player gains a Wound.",
-			"Attack": "10*",
- 			"VP": "6",
- 
-			"Mastermind Tactics": [
-				{
-					"title": "City of Demon Goblins",
-					"Fight": "Madelyne captures five Bystanders.",
-				},
-				{
-					"title": "Corrupted Clone of Jean Grey",
-					"Fight": "Each other player reveals an X-Men Hero or gains a Wound.",
-				},
-				{
-					"title": "Everyone's a Demon on the Inside",
-					"Fight": "Madelyne captures a Bystander from each other player's Victory Pile.",
-				},
-				{
-					"title": "Gather the Harvest",
-					"Fight": "For each Limbo Villain in the city and/or Escape Pile, Madelyne captures a Bystander.",
-				}
-			],
-		},
-	},
-	{
-		"Nimrod, Super Sentinel": {
-
-You can't fight Nimrod unless you made at least 6 Recruit this turn.
-			"Always Leads": "Sentinel Territories",
-			"Master Strike": "Each player who does not reveal a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero must choose Recruit or Attack, then discard all their cards with that icon.",
-			"Attack": "6*",
- 			"VP": "6",
- 
-			"Mastermind Tactics": [
-				{
-					"title": "Adapt and Destroy",
-					"Fight": "Choose Recruit or Attack. Each other player reveals their hand and discards a card with that icon.",
-				},
-				{
-					"title": "Detect Mutation",
-					"Fight": "Choose Recruit or Attack. Then, reveal the top card of your deck. If that card has that icon, draw it and repeat this process.",
-				},
-				{
-					"title": "Scatter the Mutants",
-					"Fight": "Choose Recruit or Attack. Put all Heroes from the HQ with that icon on the bottom of the Hero Deck.",
-				},
-				{
-					"title": "Teleport and Incarcerate",
-					"Fight": "Choose Recruit or Attack. Then, reveal the top card of that Hero Deck. If that card has that icon, gain that card, and Teleport it.",
-				}
-			],
-		},
-	},
-	{
-		"Wasteland Hulk": {
-
-Wasteland Hulk gets +3 Attack for each of his Mastermind Tactics among all players' Victory Piles.
-			"Always Leads": "Wasteland",
-			"Master Strike": "Cross-Dimensional Hulk Rampage",
-			"Attack": "7+",
- 			"VP": "6",
- 
-			"Mastermind Tactics": [
-				{
-					"title": "Brutal Beating",
-					"Fight": "Each other player counts the number of Wounds in their discard pile, then discards that many cards.",
-				},
-				{
-					"title": "Memories of Pain",
-					"Fight": "Each other player puts two Wounds from their discard pile on top of their deck.",
-				},
-				{
-					"title": "Radioactive Regeneration",
-					"Fight": "KO up to two Wounds from your hand and/or discard pile.",
-				},
-				{
-					"title": "Revert to Bruce Banner",
-					"Fight": "You gain a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero from the HQ for free.",
-				}
-			],
-		},
-	},
-	{
-		"Zombie Green Goblin": {
-
-Zombie Green Goblin gets +1 Attack for each Hero in the KO pile that costs 7 or more.
-			"Always Leads": "The Deadlands",
-			"Master Strike": "Rise of the Living Dead. KO each Hero in the HQ that costs 7 or more. Then, each player discards a card for each Hero in the KO pile that costs 7 or more.",
-			"Attack": "11+",
- 			"VP": "6",
- 
-			"Mastermind Tactics": [
-				{
-					"title": "Army of Cadavers",
-					"Fight": "Rise of the Living Dead (this effect never makes Mastermind Tactics return.) Then, each other player discards a card for each Villain in the city that has "Rise of the Living Dead."",
-				},
-				{
-					"title": "The Hungry Dead",
-					"Fight": "Rise of the Living Dead (this effect never makes Mastermind Tactics return.) Then, each other player gains a Wound if there are any Villains in the city with "Rise of the Living Dead".",
-				},
-				{
-					"title": "Love To Have You For Dinner",
-					"Fight": "Rise of the Living Dead (this effect never makes Mastermind Tactics return.) Then, reveal the top 5 cards of the Hero Deck. KO all those Heroes that cost 7 or more. Put the rest on the bottom of the Hero Deck in random order.",
-				},
-				{
-					"title": "Reign of Terror",
-					"Fight": "Rise of the Living Dead (this effect never makes Mastermind Tactics return.) Then, put all Heroes from the HQ that cost 6 or less on the bottom of the Hero Deck.",
-				}
-			],
-		}
-	}
-
-]
-},
-{
-"Secret Wars Volume 2": [
-
-	{
-		"Immortal Emperor Zheng-Zhu": {
-
-7th Circle of Kung-Fu
-			"Always Leads": "K'un-Lun",
-			"Master Strike": "Each player reveals a Hero that costs 7 or more, or they discard down to 3 cards.",
-			"Attack": "7+",
- 			"VP": "5",
- 
-			"Mastermind Tactics": [
-				{
-					"title": "Ultimate Kung-Fu Mastery",
-					"Fight": "Each other player reveals a card with \"Circle of Kung-Fu\" from their Victory Pile or gains a Wound.",
-				},
-				{
-					"title": "Emperor's Justice",
-					"Fight": "Each other player reveals a Marvel Knight Hero or gains a Wound.",
-				},
-				{
-					"title": "Humble the Pretenders",
-					"Fight": "Each other player reveals a Marvel Knight Hero or discards a card that costs less than 7.",
-				},
-				{
-					"title": "Imperial Edict",
-					"Fight": "Choose any number of Heroes from the HQ. Put them on the bottom of the Hero Deck in random order.",
-				}
-			],
-		},
-	},
-	{
-		"King Hyperion": {
-
-			"Always Leads": "Utopolis",
-			"Master Strike": "King Hyperion enters the city if he was not already there. Then, he [b]charges[/b] three spaces.",
-Escape: Each player gains a wound. Put King Hyperion on the Mastermind space.
-			"Attack": "12",
- 			"VP": "6",
- 
-			"Mastermind Tactics": [
-				{
-					"title": "Worshipped by Millions",
-					"Fight": "If King Hyperion is in the city, put him back on the Mastermind space and shuffle this Tactic back into his Tactics. If you do, rescue six Bystanders.",
-				},
-				{
-					"title": "Royal Treasury",
-					"Fight": "If King Hyperion is in the city, put him back on the Mastermind space and shuffle this Tactic back into his Tactics. If you do, you get +5 Recruit.",
-				},
-				{
-					"title": "Monarch of Utopolis",
-					"Fight": "If King Hyperion is in the city, put him back on the Mastermind space and shuffle this Tactic back into his Tactics. If you do, when you drew a new hand of cards at the end of this turn, draw three extra cards.",
-				},
-				{
-					"title": "Rule with an Iron Fist",
-					"Fight": "If King Hyperion is in the city, put him back on the Mastermind space and shuffle this Tactic back into his Tactics. If you do, you may defeat a Villain in the city for free.",
-				}
-			],
-		},
-	},
-	{
-		"Shiklah, the Demon Bride": {
-
-			"Always Leads": "Monster Metropolis",
-			"Master Strike": "Reveal the top three cards of the Villain Deck. Put all the Scheme Twists you revealed on top of the Villain Deck. Put the rest on the bottom of that deck in random order.",
-			"Attack": "9",
- 			"VP": "6",
- 
-[i]Enslavement Beam[/i]
-			"Fight": "[b]Fateful Resurrection[/b]. If she resurrects, rescue four bystanders.",
-
-[i]Shiklah's Husband, Deadpool[/i]
-			"Fight": "Gain this as a Hero.",
---------
-(Unaffiliated)
-[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]
-You get +1 Attack for each Hero with an odd-numbered cost you played this turn. [i](0 is even.)[/i]
-5+ Attack
-
-[i]Drain Life[/i]
-			"Fight": "[b]Fateful Resurrection[/b]. If she resurrects, defeat a Villain in the city for free.",
-
-[i]Infernal Power[/i]
-			"Fight": "[b]Fateful Resurrection[/b]. If she resurrects, draw two cards.",
-
-		},
-	},
-	{
-		"Spider-Queen": {
-
-Spider-Queen gets +1 Attack for each Bystander in the Escape pile.
-			"Always Leads": "Spider-Infected",
-			"Master Strike": "Each player puts a Spider-Infected from their Victory Pile into an empty city space. Any player who cannot do so gains a Wound.",
-			"Attack": "8+",
- 			"VP": "6",
- 
-			"Mastermind Tactics": [
-				{
-					"title": "Sonic Scream",
-					"Fight": "Reveal the top eight cards of the Villain Deck. Put all the Bystanders you revealed into the Escape pile. Put the rest on the bottom of the Villain Deck in random orders.",
-				},
-				{
-					"title": "Infect the Entire City",
-					"Fight": "Put a Bystander from the Bystander Deck into the Escape Pile. Then, each Spider-Infected in the city captures a Bystander.",
-				},
-				{
-					"title": "Control Arachnid Genes",
-					"Fight": "You may gain a Spider-Friend Hero from the HQ.",
-				},
-				{
-					"title": "Web the Skyscrapers",
-					"Fight": "Each other player reveals a Spider-Friend Hero or puts a Bystander from their Victory Pile into the Escape pile.",
-				}
-			],
-		}
-	}
-
-]
-},
-{
-"Captain America 75th Anniversary": [
-
-	{
-		"Arnim Zola": {
-
-Ultimate Abomination
-			"Always Leads": "Zola's Creations",
-			"Master Strike": "For each Hero in the HQ that has less than 2 printed Attack, put that Hero on the bottom of the Hero Deck, and each player discards a card of that Hero's cost.",
-			"Attack": "6+",
-			"VP": "6",
-
-			"Mastermind Tactics": [
-				{
-					"title": "Dominate the Weak",
-					"Fight": "The player of your choice gains a Hero from the HQ that has less than 2 printed Attack.",
-				},
-				{
-					"title": "Computer-Uploaded Genius",
-					"Fight": "Each other player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or discards a card.",
-				},
-				{
-					"title": "Pet Projects",
-					"Fight": "Each other player reveals a Zola's Creations Villain from their Victory Pile or gains a Wound.",
-				},
-				{
-					"title": "Crush Pacifist Resistance",
-					"Fight": "KO up to two of your Heroes that have less than 2 printed Attack.",
-				}
-			],
-		},
-	},
-	{
-		"Baron Heinrich Zemo": {
-
-Whenever you fight a Villain, you may use 2 Recruit to rescue a Bystander. Baron Zemo gets +9 Attack unless you are a Savior.
-			"Always Leads": "Masters of Evil (WWII)",
-			"Master Strike": "Each player KOs a Bystander from their Victory Pile. Any player who cannot do so gains a Wound.",
-			"Attack": "9+",
-			"VP": "6",
-
-			"Mastermind Tactics": [
-				{
-					"title": "Fallen Idols",
-					"Fight": "Each other player that is not a Savior discards a card.",
-				},
-				{
-					"title": "Finding Zemo",
-					"Fight": "Reveal the top five cards of the Villain Deck. If you revealed any Bystanders, KO them and each other player gains a Wound. Put the rest back in random order.",
-				},
-				{
-					"title": "Hatred for the Avengers",
-					"Fight": "For each of your Avengers Heroes, rescue a Bystander.",
-				},
-				{
-					"title": "Prisoners of War",
-					"Fight": "Each other player reveals an Avengers Hero or chooses a Bystander from their Victory Pile, and you rescue that Bystander.",
-				}
-			],
-		}
-	}
-
-]
-},
-{
-"Civil War": [
-
-	{
-		"Authoritarian Iron Man": {
-
-			"Always Leads": "Superhuman Registration Act",
-			"Master Strike": "Authoritarian Iron Man fortifies the next city space to his right, starting with the Bridge. You can't fight him while there's a Villain in that space.",
-Villains in that space get +3 Attack.
-			"Attack": "12",
- 			"VP": "6",
- 
-			"Mastermind Tactics": [
-				{
-					"title": "Armada of Armors",
-					"Fight": "You get +6 Recruit usable only to recruit Ranged and/or Tech Heroes.",
-				},
-				{
-					"title": "Freeze Domestic Assets",
-					"Fight": "Each other player reveals their hand and discards all their cards with Recruit icons.",
-				},
-				{
-					"title": "Man the Fortifications",
-					"Fight": "Reveal the top card of the Villain Deck. If it's a Villain, it enters the city space that Authoritarian Iron Man is fortifying.",
-				},
-				{
-					"title": "Recall to Service",
-					"Fight": "The Villain with the highest printed Attack in the Escape Pile enters the city space that Authoritarian Iron Man is fortifying.",
-				}
-			],
-		},
-	},
-	{
-		"Baron Helmut Zemo": {
-
-Baron Zemo gets -1 Attack for each Villain in your Victory Pile.
-			"Always Leads": "Thunderbolts",
-			"Master Strike": "Each player KOs a Villain from their Victory Pile. Any player who cannot do so gains a Wound.",
-			"Attack": "16*",
- 			"VP": "6",
- 
-			"Mastermind Tactics": [
-				{
-					"title": "Blasted Henchmen!",
-					"Fight": "Each other player reveals a Tech Hero or KOs a Villain from their Victory Pile.",
-				},
-				{
-					"title": "Cursed Dynasty",
-					"Fight": "When you draw a new hand of cards at the end of this turn, draw two extra cards.",
-				},
-				{
-					"title": "Endless Minions",
-					"Fight": "Each other player reveals a Tech Hero or chooses a Villain from their Victory Pile and it enters the city.",
-				},
-				{
-					"title": "Revenge for My Father",
-					"Fight": "Each other player reveals their hand. Each player who revealed an Avengers Hero gains a Wound.",
-				}
-			],
-		},
-	},
-	{
-		"Maria Hill, Director of S.H.I.E.L.D.": {
-
-Double S.H.I.E.L.D. Clearance. You can't fight Maria Hill while there are any S.H.I.E.L.D. Elite or Officers in the city.
-			"Always Leads": "S.H.I.E.L.D. Elite.",
-			"Master Strike": "Two S.H.I.E.L.D. Officers enter the city as 3 Attack Villains. When you fight them, gain them as Heroes.",
-			"Attack": "7*",
- 			"VP": "6",
- 
-			"Mastermind Tactics": [
-				{
-					"title": "Crash the Helicarrier",
-					"Fight": "KO any number of your S.H.I.E.L.D. Heroes.",
-				},
-				{
-					"title": "Declare Martial Law",
-					"Fight": "Put a S.H.I.E.L.D. Officer into each empty city space as 3 Attack Villains. When you fight them, gain them as Heroes.",
-				},
-				{
-					"title": "Evacuation Code Epsilon",
-					"Fight": "Each other player reveals their hand and discards a S.H.I.E.L.D. card.",
-				},
-				{
-					"title": "Rapid Response Team",
-					"Fight": "Two S.H.I.E.L.D. Officers enter the city as 3 Attack Villains. When you fight them, gain them as Heroes.",
-				}
-			],
-		},
-	},
-	{
-		"Misty Knight": {
-
-Bribe
-			"Always Leads": "Heroes for Hire",
-			"Master Strike": "Each player reveals 4 cards with Recruit icons or gains a Wound.",
-			"Attack": "14*",
- 			"VP": "6",
- 
-			"Mastermind Tactics": [
-				{
-					"title": "Bionic Repulsor Field",
-					"Fight": "Each other player reveals a Marvel Knight Hero or puts two cards from their hand on top of the deck.",
-				},
-				{
-					"title": "Cyborg Detective",
-					"Fight": "Reveal the top three cards of the Villain Deck. Put them back in any order.",
-				},
-				{
-					"title": "Trusted Bodyguard",
-					"Fight": "Going clockwise, the fist other player with Colleen Wing in their Victory Pile rescues 5 Bystanders and returns Colleen Wing to play fortifying Misty Knight.",
-				},
-				{
-					"title": "Vibranium Cyber Arm",
-					"Fight": "Each other player reveals a Marvel Knight Hero or gains a Wound.",
-				}
-			],
-		},
-	},
-	{
-		"Ragnarok": {
-
-Ragnarok gets +2 Attack for each Hero Class among Heroes in the HQ.
-			"Always Leads": "Registration Enforcers",
-			"Master Strike": "Each player says \"zero\" or \"not zero.\" Then, each player discards all their cards with that cost.",
-			"Attack": "6+",
- 			"VP": "6",
- 
-			"Mastermind Tactics": [
-				{
-					"title": "Electrical Charge",
-					"Fight": "Count how many Ranged Heroes you have. Draw that many cards.",
-				},
-				{
-					"title": "God of Cyborg Thunder",
-					"Fight": "You can spend Recruit as Attack this turn.",
-				},
-				{
-					"title": "Hammer Goliath",
-					"Fight": "KO each Hero from the HQ that costs 7 or more.",
-				},
-				{
-					"title": "Unnatural Storm Clouds",
-					"Fight": "Put all Heroes from the HQ on the bottom of the Hero Deck in random order.",
-				}
-			],
-		}
-	}
-
-]
-},
-{
-"Deadpool": [
-
-	{
-		"Evil Deadpool": {
-[b]Revenge for Mastermind Tactics[/b]
-			"Always Leads": "Evil Deadpool Corpse",
-			"Master Strike": "Without talking, each player simultaneously discards a card. Whoever discards the lowest-costing card [i](or tied for lowest)[/i] gains a Wound.",
-			"Attack": "11+",
- 			"VP": "6",
-
-			"Mastermind Tactics": [
-				{
-					"title": "Evil Even Oddball",
-					"Fight": "Each other player reveals their hand. Whoever has the fewest cards with odd-numbered costs (or tied for fewest) gains a Wound.",
-				},
-				{
-					"title": "Hyper-Insane Healing Factor",
-					"Fight": "If this is not the final Tactic, you get +6 Recruit and shuffle this Tactic back into the other Tactics.",
-				},
-				{
-					"title": "Of Course it's Corpse",
-					"Fight": "The other player with the fewest Evil Deadpool Corpse Villains in their Victory Pile (or tied for fewest) gains a Wound.",
-				},
-				{
-					"title": "Stitched from Dead (Pool) Parts",
-					"Fight": "Each other player discards the top card of their deck. Whoever discards the lowest-costing card (or tied for lowest) gains a Wound.",
-				},
-			],
-		},
-	},
-	{
-		"Macho Gomez": {
-[b]Revenge for Deadpool's "Friends"[/b]
-			"Always Leads": "Deadpool's \"Friends\"",
-			"Master Strike": "Put this Strike in front of you as a \"Bounty on Your Head.\" Then, each player gains a Wound for each Bounty on them. Any number of times during your turn, you may pay 1 Recruit to move a Bounty from you to the player on your left.",
-			"Attack": "9+",
- 			"VP": "6",
- 
- 			"Mastermind Tactics": [
-				{
-					"title": "Bounty Payout",
-					"Fight": "You get +1 Recruit for each \"Bounty on Your Head\" on other players.",
-				},
-				{
-					"title": "Interstellar Assassin",
-					"Fight": "Each other player with at least one \"Bounty on Your Head\" discards down to 4 cards.",
-				},
-				{
-					"title": "Renegotiate the Contract",
-					"Fight": "Redistribute the \"Bounty on Your Head\" cards among any number of players.",
-				},
-				{
-					"title": "Super Macho Man",
-					"Fight": "Rescue a Bystander for each \"Bounty on Your Head\" on other players.",
-				},
-			]
-		}
-	}
-
-]
-},
-{
-"Noir": [
-
-	{
-		"Charles Xavier": {
-Charles Xavier gets +1 Attack for each Bystander in the HQ and city.
-			"Always Leads": "X-Men Noir",
-			"Master Strike": "Four Heroes in the HQ capture [b]Hidden Witnesses[/b].",
-			"Attack": "8*",
- 			"VP": "6",
- 
-			"Mastermind Tactics": [
-				{
-					"title": "X-Con Men",
-					"Fight": "Each other player reveals an X-Men Hero or gains a Wound.",
-				},
-				{
-					"title": "Commit to the Asylum",
-					"Fight": "Each other player [b]Investigates[/b] their deck for a card with an Attack icon and KOs it. Players reveal all the cards they investigated.",
-				},
-				{
-					"title": "Master Manipulator",
-					"Fight": "[b]Investigate[/b] the Hero Deck for an X-Men card and put it into your discard pile.",
-				},
-				{
-					"title": "Corrupt Weak Minds",
-					"Fight": "Each other player puts a random Bystander from their Victory Pile onto a Hero in the HQ as a [b]Hidden Witness[/b].",
-				}
-			],
-		},
-	},
-	{
-		"The Goblin, Underworld Boss": {
-			"Start of Game": "The Goblin captures 2 [b]Hidden Witnesses[/b].",
-			"Always Leads": "Goblin's Freak Show",
-			"Master Strike": "Two random Bystanders from each player's Victory Pile become [b]Hidden Witnesses[/b] held by The Goblin. Any player who didn't have two Bystanders gains a Wound instead.",
-			"Attack": "10*",
- 			"VP": "6",
- 
-			"Mastermind Tactics": [
-				{
-					"title": "Sinister Dreams",
-					"Fight": "Each other player reveals a Sinister Six or Spider-Friends Hero or gains a Wound.",
-				},
-				{
-					"title": "Blackmail the Judges",
-					"Fight": "For each Goblin's Freak Show Villain in the city, The Goblin captures 2 [b]Hidden Witnesses[/b].",
-				},
-				{
-					"title": "Carnival of Carnage",
-					"Fight": "For each Goblin's Freak Show Villain in the city, each other player discards a card.",
-				},
-				{
-					"title": "Blind Loyalty",
-					"Fight": "[b]Investigate[/b] the Villain Deck for a Goblin's Freak Show Villain and put it into your Victory Pile.",
-				}
-			],
-		}
-	}
-
-]
-},
-{
-"X-Men": [
-
-	{
-		"Arcade": {
-			"Start of Game": "Arcade captures 5 [b]Human Shields[/b].",
-			"Always Leads": "Murderworld",
-			"Master Strike": "Arcade captures a random Bystander from each player's Victory Pile as a [b]Human Shield[/b]. Each player who didn't have a Bystander gains a Wound instead.",
-			"Attack": "3*",
- 			"VP": "5",
- 
-	},
-	{
-		"Epic Arcade": {
-			"Start of Game": "Arcade captures 8 [b]Human Shields[/b]. Play a random Horror.",
-			"Always Leads": "Murderworld",
-			"Master Strike": "Arcade captures two random Bystanders from each player's Victory Pile as a [b]Human Shield[/b]. Each player who didn't have two Bystanders gains a Wound instead.",
-			"Attack": "4*",
- 			"VP": "5",
- 
-			"Mastermind Tactics": [
-				{
-					"title": "I Love a Parade!",
-					"Fight": "Arcade captures two [b]Human Shields[/b]. Play an extra card from the Villain Deck next turn.",
-				},
-				{
-					"title": "I Need an Audience",
-					"Fight": "Arcade captures [b]Human Shields[/b] equal to the number of Villains in the city.",
-				},
-				{
-					"title": "Roulette Wheel of Death",
-					"Fight": "Arcade captures a random Bystander as a [b]Human Shield[/b] from each of these places: The Bystander Stack, the Escape Pile, each city space, and each other player's Victory Pile.",
-				},
-				{
-					"title": "Welcome to my Theme Park!",
-					"Fight": "Arcade and each Murderworld Villain in the city capture two [b]Human Shields[/b].",
-				}
-			],
-		},
-	},
-	{
-		"Dark Phoenix": {
-			"Always Leads": "Hellfire Club",
-			"Master Strike": "KO the top card of the Hero Deck and each card in the Hero Deck that shares a color with it. Shuffle the Hero Deck.",
-Dark Phoenix Wins: When the Hero Deck is empty.
-13 Attack
-			"VP": "7",
- 
-	},
-	{
-		"Epic Dark Phoenix": {
-			"Always Leads": "Hellfire Club",
-			"Master Strike": "KO the top card of the Hero Deck and each card in the Hero Deck that shares a color with it. Shuffle the Hero Deck. Then, each player plays a Hellfire Club card from their victory Pile. Next, play a random Horror.",
-Dark Phoenix Wins: When the Hero Deck is empty.
-15 Attack
-			"VP": "7",
- 
-			"Mastermind Tactics": [
-				{
-					"title": "Burn the World to Ashes",
-					"Fight": "Each other player discards each card from their hand that has the same name as any card in the KO pile.",
-				},
-				{
-					"title": "Consume an Entire Galaxy",
-					"Fight": "Each other player chooses a card from their discard pile that costs 1 or more and KOs it.",
-				},
-				{
-					"title": "Fiery Reincarnation",
-					"Fight": "Gain a Hero from the KO pile that costs 7 or more.",
-				},
-				{
-					"title": "Worship Me as a God",
-					"Fight": "Each other player gains two 0-cost cards from the KO pile.",
-				}
-			],
-		},
-	},
-	{
-		"Deathbird": {
-Deathbird gets +1 Attack for each Shi'ar Villain in the city and Escape Pile.
-			"Always Leads": "Shi'ar Imperial Guard and a Shi'ar Henchmen Group.",
-			"Master Strike": "If there are already any Shi'ar Villains in the city, each player gains a Wound. Then this strike enters the city as a Shi'ar Battle Cruiser Token Villain with 7 Attack worth 5 VP.",
-			"Attack": "8+",
- 			"VP": "6",
- 
-	},
-	{
-		"Epic Deathbird": {
-Deathbird gets +2 Attack for each Shi'ar Villain in the city and Escape Pile.
-			"Always Leads": "Shi'ar Imperial Guard and a Shi'ar Henchmen Group.",
-			"Master Strike": "If there are already any Shi'ar Villains in the city, play a random Horror. Then this strike enters the city as a Shi'ar Battle Cruiser Token Villain with 9 Attack worth 6 VP.",
-			"Attack": "8+",
- 			"VP": "6",
- 
-			"Mastermind Tactics": [
-				{
-					"title": "Shi'ar Elite Bodyguards",
-					"Fight": "Rescue 4 Bystanders. This Tactic enters the city as a Villain whose only ability is \"Escape\": \"Shuffle this card back into Deathbird's Mastermind Tactics as another Tactic.\"",
-				},
-				{
-					"title": "Shi'ar Extermination Legion",
-					"Fight": "Rescue 4 Bystanders. This Tactic enters the city as a Villain whose only ability is: \"Escape\": \"Each player discards two cards.\"",
-				},
-				{
-					"title": "Shi'ar Hovertake Battalion",
-					"Fight": "Rescue 4 Bystanders. This Tactic enters the city as a Villain whose only ability is: \"Escape\": \"Each player gains a Wound.\"",
-				},
-				{
-					"title": "Shi'ar Master Spies",
-					"Fight": "Rescue 4 Bystanders. This Tactic enters the city as a Villain whose only ability is \"Escape\": \"This card becomes a Scheme Twist that takes effect immediately.\"",
-				}
-			],
-		},
-	},
-	{
-		"Mojo": {
-			"Start of Game": "Mojo captures 3 [b]Human Shields[/b]. All Bystanders in Victory Piles are worth 3 VP.",
-			"Always Leads": "Mojoverse",
-			"Master Strike": "Mojo captures a [b]Human Shield[/b]. Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or discards a card at random.",
-			"Attack": "6*",
- 			"VP": "5",
- 
-	},
-	{
-		"Epic Mojo": {
-			"Start of Game": "Mojo captures 6 [b]Human Shields[/b]. Play a random Horror. All Bystanders in Victory Piles are worth 4 VP.",
-			"Always Leads": "Mojoverse",
-			"Master Strike": "Mojo and each Mojoverse Villain capture a [b]Human Shield[/b]. Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or discards down to 4 cards each.",
-			"Attack": "7*",
- 			"VP": "5",
- 
-			"Mastermind Tactics": [
-				{
-					"title": "Billions of TV Viewers",
-					"Fight": "Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or chooses a random Bystander from their Victory Pile. Mojo captures those Bystanders as [b]Human Shields[/b].",
-				},
-				{
-					"title": "Brain-Melting TV Marathon",
-					"Fight": "Each other player without a Mojo Tactic in their Victory Pile gains a Wound.",
-				},
-				{
-					"title": "Cross-Dimensional Marketing",
-					"Fight": "You get +1 Recruit for each Bystander in your Victory Pile. Mojo captures a [b]Human Shield[/b].",
-				},
-				{
-					"title": "Mojo Branding Opportunity",
-					"Fight": "Draw a card for each Mojoverse Villain in your Victory Pile. Mojo captures a [b]Human Shield[/b].",
-				}
-			],
-		},
-	},
-	{
-		"Onslaught": {
-Each player's hand size is 1 less.
-			"Always Leads": "Dark Descendants",
-			"Master Strike": "KO all Heroes Dominated by Onslaught. Then each player reveals their hand and chooses one of their non-grey Heroes. Onslaught Dominates those Heroes.",
-			"Attack": "10+",
- 			"VP": "7",
- 
-	},
-	{
-		"Epic Onslaught": {
-Each player's hand size is 1 less.
-			"Always Leads": "Dark Descendants",
-			"Master Strike": "KO all Heroes Dominated by Onslaught. Then each player reveals their hand and chooses two of their non-grey Heroes. Onslaught Dominates those Heroes. Then play a random Horror.",
-			"Attack": "12+",
- 			"VP": "7",
- 
-			"Mastermind Tactics": [
-				{
-					"title": "Godlike Psionic Entity",
-					"Fight": "Onslaught Dominates all five Heroes from the HQ.",
-				},
-				{
-					"title": "Sins of X-Men Past",
-					"Fight": "Each other player reveals the top six cards of their deck and chooses an X-Men Hero revealed this way. Onslaught Dominates those Heroes. Put the rest back in random order.",
-				},
-				{
-					"title": "Xavier and Magneto Combined",
-					"Fight": "Reveal the top three cards of the Hero Deck. Onslaught Dominates all the X-Men and Brotherhood Heroes you revealed. Put the rest back in random order.",
-				},
-				{
-					"title": "Worldwide Mental Control",
-					"Fight": "Onslaught Dominates four 0-cost Heroes from the KO pile. The next time a player fights Onslaught, KO those 0-cost Heroes.",
-				}
-			],
-		},
-	},
-	{
-		"Shadow King": {
-			"Always Leads": "Shadow-X",
-			"Master Strike": "KO all Heroes Dominated by Shadow King. Then each player chooses a non-grey Hero from their discard pile. Shadow King Dominates those Heroes.",
-			"Attack": "7+",
- 			"VP": "6",
- 
-	},
-	{
-		"Epic Shadow King": {
-			"Start of Game": "Play two random Horrors.",
-			"Always Leads": "Shadow-X",
-			"Master Strike": "KO all Heroes Dominated by Shadow King. Then each player chooses a non-grey Hero from their discard pile. Shadow King Dominates those Heroes.",
-			"Attack": "9+",
- 			"VP": "6",
- 
-			"Mastermind Tactics": [
-				{
-					"title": "Fiend of the Astral Plane",
-					"Fight": "Each other player reveals their hand and shuffles two cards with Recruit icons from their hand back into their deck.",
-				},
-				{
-					"title": "Poison their Minds",
-					"Fight": "Each other player reveals their hand and chooses one of their non-grey Heroes. Shadow King Dominates those Heroes.",
-				},
-				{
-					"title": "Psychic Seduction",
-					"Fight": "Shadow King Dominates each Hero that costs 5 or less from the HQ.",
-				},
-				{
-					"title": "Telepathic Betrayal",
-					"Fight": "If the \"Betrayal of the Shadow\" Trap is in any Victory Pile or the KO pile, put it on top of the Villain Deck.",
-				}
-			],
-		}
-	}
-
-]
-},
-{
-"Spider-Man Homecoming": [
-
-	{
-		"Adrian Toomes": {
-[b]Double Striker[/b]
-			"Always Leads": "Salvagers",
-			"Master Strike": "Starting from the Sewers, each Villain in the city uses its \"Escape\" ability.",
-			"Attack": "5+",
-			"VP": "6",
-
-	},
-	{
-		"Epic Adrian Toomes": {
-[b]Triple Striker[/b]
-			"Always Leads": "Salvagers",
-			"Master Strike": "Starting from the Sewers, each Villain in the city uses its \"Ambush\" ability, then its \"Escape\" ability.",
-			"Attack": "5+",
-			"VP": "6",
-
-			"Mastermind Tactics": [
-				{
-					"title": "Don't Interfere",
-					"Fight": "[b]Danger Sense 4[/b]. If this revealed any Bystanders, rescue them.",
-				},
-				{
-					"title": "More Harm than Good",
-					"Fight": "Each other player discards a Spider Friends Hero or gains a Wound.",
-					"flavor": "Don't mess with me. Because I will kill you and everyone you care about.",
-				},
-				{
-					"title": "Take Everything",
-					"Fight": "You may put a card from your discard pile on top of your deck.",
-					"flavor": "The world's changed. Time we change with it.",
-				},
-				{
-					"title": "The World's Changed",
-					"Fight": "[b]Danger Sense 3[/b]. Put all Henchmen Villains revealed this way into your Victory Pile, then do their \"Fight\" abilities.",
-				}
 			]
 		},
-[b]Vulture[/b]
-[b]Striker[/b]
-			"Always Leads": "Vulture Tech",
-			"Master Strike": "Put a Wound from the Wound Stack below each HQ space as a \"Winged Assault.\" Whenever a player gains or KOs a Hero from the HQ, the player on their right gains one of the Wounds below that HQ space.",
-			"Attack": "8+",
-			"VP": "6",
+		{
+			"Fantastic Four": [
 
-[b]Epic Vulture[/b]
-[b]Striker[/b]
-			"Always Leads": "Vulture Tech",
-			"Master Strike": "Put a Wound from the Wound Stack or KO pile below each HQ space as a \"Winged Assault.\" Whenever a player gains or KOs a Hero from the HQ, the player on their right gains one of the Wounds below that HQ space, putting it on top of their deck.",
-			"Attack": "10+",
-			"VP": "6",
+				{
+					"Galactus": {
 
-			"Mastermind Tactics": [
-				{
-					"title": "Bird of Prey",
-					"Fight": "Each other player discards a Spider Friends Hero or discards two cards.",
+						"Cosmic Threat": "[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]",
+			 			"Always Leads": "Heralds of Galactus",
+						"Master Strike": "Destroy the city space closest to Galactus. Any Villain there escapes. Put this Master Strike there.",
+						"description": "Galactus Wins: When the city is destroyed.",
+						"Attack": "20*",
+			 			"VP": "7",
+			 
+						"Mastermind Tactics": [
+							{
+								"title": "Cosmic Entity",
+								"Fight": "Choose [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR], [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR], [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] or [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]. Each player reveals any number of cards of that class, then draws that many cards."
+							},
+							{
+								"title": "Force of Eternity",
+								"Fight": "When you draw a new hand of cards at the end of this turn, draw six extra cards, then discard six cards."
+							},
+							{
+								"title": "Panicked Mobs",
+								"Fight": "Choose [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR], [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR], [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] or [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]. Each player reveals any number of cards of that class, then rescues that many Bystanders."
+							},
+							{
+								"title": "Sunder the Earth",
+								"Fight": "Each other player KOs all Heroes from their discard pile with the same card name as a Hero in the HQ."
+							}
+						]
+					}
 				},
 				{
-					"title": "Lurking Shadow",
-					"Fight": "[b]Danger Sense 2[/b]. If the Rooftops are empty, a Villain you revealed enters the Rooftops.",
-				},
-				{
-					"title": "Mid Air Heist",
-					"Fight": "You get +5 Recruit usable only to recruit [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Heroes.",
-				},
-				{
-					"title": "Winged Assault",
-					"Fight": "Put two \"Winged Assault\" Wounds from under the HQ into each other player's discard pile.",
+					"Mole Man": {
+
+						"description": "Mole Man gets +1 Attack for each Subterranea Villain that has escaped.",
+						"Always Leads": "Subterranea",
+						"Master Strike": "All Subterranea Villains in the city escape. If any Villains escaped this way, each player gains a Wound.",
+						"Attack": "7+",
+			 			"VP": "6",
+			 
+						"Mastermind Tactics": [
+							{
+								"title": "Dig to Freedom",
+								"Fight": "Each other player chooses a Subterranea Villain in their Victory Pile and puts it into the Escaped Villains pile."
+							},
+							{
+								"title": "Master of Monsters",
+								"Fight": "If this is not the final Tactic, reveal the top six cards of the Villain Deck. Play all the Subterranea Villains you revealed. Put the rest on the bottom of the Villain Deck in random order."
+							},
+							{
+								"title": "Secret Tunnel",
+								"Fight": "You get +6 Attack usable only against Villains in the Streets."
+							},
+							{
+								"title": "Underground Riches",
+								"Fight": "You get +6 Recruit usable only to recruit Heroes in the HQ space under the Streets."
+							}
+						]
+					}
 				}
-			],
+
+			]
+		},
+		{
+			"Paint the Town Red": [
+
+				{
+					"Carnage": {
+
+						"Always Leads": "Maximum Carnage",
+						"Master Strike": "Feast on each player. Whenever this Master Strike feasts on a player's 0-cost Hero, that player gains a Wound.",
+						"Attack": "9",
+			 			"VP": "6",
+
+						"Mastermind Tactics": [
+							{
+								"title": "Drooling Jaws",
+								"Fight": "Each player reveals the top card of their deck. Then Carnage feasts on the player of your choice."
+							},
+							{
+								"title": "Endless Hunger",
+								"Fight": "Feast\nIf Carnage feasts on a 0-cost Hero this way, repeat this process."
+							},
+							{
+								"title": "Feed Me",
+								"Fight": "Feast\nYou get + Recruit equal to the Cost of the card Carnage feasts on."
+							},
+							{
+								"title": "Om Nom Nom",
+								"Fight": "Feast\nIf Carnage feasts on a 0-cost Hero this way, each other player KOs a Bystander from their Victory Pile."
+							}
+						]
+					}
+				},
+				{
+					"Mysterio": {
+
+						"Always Leads": "Sinister Six",
+						"Master Strike": "Shuffle this Master Strike into Mysterio's face down Mastermind Tactics. That card becomes a Mastermind Tactic worth 6 VP.",
+						"Attack": "8",
+			 			"VP": "6",
+			 
+						"Mastermind Tactics": [
+							{
+								"title": "Blurring Images",
+								"Fight": "You get +1 Recruit for each Mastermind Tactic Mysterio has left after this one."
+							},
+							{
+								"title": "Captive Audience",
+								"Fight": "Rescue a Bystander for each Mastermind Tactic Mysterio has left after this one."
+							},
+							{
+								"title": "Master of Illusions",
+								"Fight": "If this is not the final Tactic, shuffle a Master Strike Tactic from each other player's Victory Pile back into Mysterio's Mastermind Tactics."
+							},
+							{
+								"title": "Mists of Deception",
+								"Fight": "If this is not the final Tactic, reveal the top five cards of the Villain Deck. Play all the Master Strikes you revealed. Put the rest on the bottom of that deck in random order."
+							}
+						]
+					}
+				}
+
+			]
+		},
+		{
+			"Villains": [
+
+				{
+					"Dr. Strange": {
+
+						"Always Leads": "Defenders.",
+						"Command Strike": "Reveal the top three cards of the Adversary Deck. Put the Adversary you revealed with the highest printed Attack on top of that deck. Then play a Plot Twist from among the cards you revealed. Then put the rest of those cards on the bottom of that deck in random order.",
+			 			"Attack": "8",
+			 			"VP": "6",
+			 
+						"Mastermind Tactics": [
+							{
+								"title": "Book of the Vishanti",
+								"Fight": "Each other player reveals a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Ally or discards all the cards in their hand, then draws as many cards as they discarded."
+							},
+							{
+								"title": "Crimson Bands of Cyttorak",
+								"Fight": "Each other player reveals their hand, then gains a Bindings for each non-grey Ally that player has."
+							},
+							{
+								"title": "Eye of Agamotto",
+								"Fight": "Reveal cards from the Ally Deck equal to the number of players. Put one of those cards into each player's discard pile."
+							},
+							{
+								"title": "Winds of Watoomb",
+								"Fight": "After you draw a new hand of cards at the end of this turn, each player simultaneously passes a non-grey Ally from their hand to the hand of the player on their left."
+							}
+						]
+					}
+				},
+				{
+					"Nick Fury": {
+
+						"Always Leads": "Avengers.",
+						"Command Strike": "Stack this Strike next to Nick Fury. Then demolish each player once for each Strike stacked here.",
+			 			"Attack": "9",
+			 			"VP": "6",
+			 
+						"Mastermind Tactics": [
+							{
+								"title": "Bounty on Fury's Head",
+								"Fight": "KO any number of your Hydra Allies. For each Ally you KO'd this way, you may gain a Madame HYDRA."
+							},
+							{
+								"title": "Purge Hydra",
+								"Fight": "Each other player reveals their hand and discards two Hydra Allies."
+							},
+							{
+								"title": "The Avengers Initiative",
+								"Fight": "Each other player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Ally or chooses an Avengers Adversary from their Victory Pile and it enters the Bridge."
+							},
+							{
+								"title": "Total Fury",
+								"Fight": "Defeat an Adversary whose Attack is less than the number of Hydra Allies in the KO pile."
+							}
+						]
+					}
+				},
+				{
+					"Odin": {
+
+						"Always Leads": "Asgardian Warriors.",
+						"description": "Odin gets +1 Attack for each Asgardian Warrior in the city and in the Overrun Pile.",
+						"Command Strike": "Each player puts an Asgardian Warrior from their Victory Pile into an empty city space. Any player who cannot do so gains a Bindings.",
+			 			"Attack": "10+",
+			 			"VP": "6",
+			 
+						"Mastermind Tactics": [
+							{
+								"title": "Divine Justice",
+								"Fight": "Each other player with a Bindings in their discard pile gains another Bindings."
+							},
+							{
+								"title": "Might of Valhalla",
+								"Fight": "Draw a card for each Asgardian Warrior in your Victory Pile."
+							},
+							{
+								"title": "Riches of Asgard",
+								"Fight": "You get +1 Recruit for each Asgardian Warrior in your Victory Pile."
+							},
+							{
+								"title": "Ride of the Valkyries",
+								"Fight": "Each other player reveals a Foes of Asgard Ally or discards a card for each Asgardian Warrior in the Overrun Pile."
+							}
+						]
+					}
+				},
+				{
+					"Professor X": {
+
+						"Always Leads": "X-men First Class.",
+						"Command Strike": "Choose the two highest-cost Allies in the Lair. Stack them next to Professor X as \"Telepathic Pawns.\" Professor X gets +1 Attack for each Ally stacked next to him. Players can recrut the top Ally in the stack next to Professor X.",
+			 			"Attack": "8",
+			 			"VP": "6",
+			 
+						"Mastermind Tactics": [
+							{
+								"title": "Cerebro Device",
+								"Fight": "Reveal the top three cards of the Adversary Deck. Play any Adversaries you revealed that have \"X-Treme Attack\". Put the rest back in random order."
+							},
+							{
+								"title": "Mental Dominance",
+								"Fight": "Stack the top three cards of the Ally Deck next to Professor X in random order as \"Telepathic Pawns.\""
+							},
+							{
+								"title": "Mightiest Mutant Mind",
+								"Fight": "Each other player reveals a Brotherhood Ally or stacks a non-grey Ally from their hand next to Professor X as a \"Telepathic Pawn.\""
+							},
+							{
+								"title": "Telepathic Imprisonment",
+								"Fight": "Each other player reveals a Brotherhood Ally or gains a Bindings."
+							}
+						]
+					}
+				}
+
+			]
+		},
+		{
+			"Guardians of the Galaxy": [
+
+				{
+					"Supreme Intelligence of the Kree": {
+
+						"Always Leads": "Kree Starforce",
+						"Master Strike": "The Supreme Intelligence gains a Shard. Then each player reveals their hand and discards each with cost equal to, and cost one higher than, the number of Shards on the Supreme Intelligence.",
+						"Attack": "9",
+			 			"VP": "6",
+			 
+						"Mastermind Tactics": [
+							{
+								"title": "Combined Knowledge of All Kree",
+								"Fight": "The Supreme Intelligence gains a Shard for each Kree Villain in the city and/or the Escape Pile."
+							},
+							{
+								"title": "Cosmic Omniscience",
+								"Fight": "The Supreme Intelligence gains a Shard for each Master Strike in the KO pile."
+							},
+							{
+								"title": "Countermeasure Protocols",
+								"Fight": "The Supreme Intelligence gains a Shard for each Mastermind Tactic (including this one) in any player's Victory Pile."
+							},
+							{
+								"title": "Guide Kree Evolution",
+								"Fight": "The Supreme Intelligence and Kree Villains in the city each gain a Shard."
+							}
+						]
+					}
+				},
+				{
+					"Thanos": {
+
+						"Always Leads": "Infinity Gems",
+						"description": "Thanos gets -2 Attack for each Infinity Gem Artifact card controlled by any player.",
+						"Master Strike": "Each player reveals their hand and puts one of their non-grey Heroes next to Thanos in a \"Bound Souls\" pile.",
+						"Attack": "24",
+			 			"VP": "7",
+			 
+						"Mastermind Tactics": [
+							{
+								"title": "Centuries of Envy",
+								"Fight": "Each other player discards an Infinity Gem Artifact card they control."
+							},
+							{
+								"title": "God of Death",
+								"Fight": "Each other player reveals their hand and gains a Wound for each card that player has with the same card name as any card in Thanos' Bound Souls pile."
+							},
+							{
+								"title": "Keeper of Souls",
+								"Fight": "Gain a Hero from Thanos' Bound Souls pile. Then each other player puts a non-grey Hero from their discard pile into Thanos' Bound Souls pile."
+							},
+							{
+								"title": "The Mad Titan",
+								"Fight": "Each other player reveals their hand and discards all cards with the same card name as any card in Thanos' Bound Souls pile."
+							}
+						]
+					}
+				}
+
+			]
+		},
+		{
+			"Fear Itself": [
+
+				{
+					"Uru-Enchanted Iron Man": {
+
+						"Always Leads": "The Mighty.",
+						"Command Strike": "Demolish each player. Then stack this Strike next to Iron Man. Uru-Enchanted Iron Man has an Uru-Enchanted Weapon for each Strike stacked here.",
+			 			"Attack": "7*",
+			 			"VP": "6",
+			 
+						"Mastermind Tactics": [
+							{
+								"title": "Armor of the Destroyer",
+								"Fight": "For each [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Ally you have, demolish each other player."
+							},
+							{
+								"title": "Pepper Potts in Rescue Armor",
+								"Fight": "A Bystander from the Bystander Stack becomes a Command Strike that takes effect immediately."
+							},
+							{
+								"title": "Quantum Inventions",
+								"Fight": "Draw two cards. Then, if you reveal a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] card, draw two more cards."
+							},
+							{
+								"title": "Repulsor Coils",
+								"Fight": "Each other player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] ally or gains a Bindings."
+							}
+						]
+					}
+				}
+
+			]
+		},
+		{
+			"Secret Wars Volume 1": [
+
+				{
+					"Madelyne Pryor, Goblin Queen": {
+
+						"description": "Bystanders captured by Madelyne are \"Demon Goblin\" Villains with 2 Attack. You can fight them to rescue them as Bystanders. You can't fight her while she has any Demon Goblins.",
+						"Always Leads": "Limbo",
+						"Master Strike": "Madelyne captures 4 Bystanders. If she already had any Bystanders before that, then each player gains a Wound.",
+						"Attack": "10*",
+			 			"VP": "6",
+			 
+						"Mastermind Tactics": [
+							{
+								"title": "City of Demon Goblins",
+								"Fight": "Madelyne captures five Bystanders."
+							},
+							{
+								"title": "Corrupted Clone of Jean Grey",
+								"Fight": "Each other player reveals an X-Men Hero or gains a Wound."
+							},
+							{
+								"title": "Everyone's a Demon on the Inside",
+								"Fight": "Madelyne captures a Bystander from each other player's Victory Pile."
+							},
+							{
+								"title": "Gather the Harvest",
+								"Fight": "For each Limbo Villain in the city and/or Escape Pile, Madelyne captures a Bystander."
+							}
+						]
+					}
+				},
+				{
+					"Nimrod, Super Sentinel": {
+
+						"description": "You can't fight Nimrod unless you made at least 6 Recruit this turn.",
+						"Always Leads": "Sentinel Territories",
+						"Master Strike": "Each player who does not reveal a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero must choose Recruit or Attack, then discard all their cards with that icon.",
+						"Attack": "6*",
+			 			"VP": "6",
+			 
+						"Mastermind Tactics": [
+							{
+								"title": "Adapt and Destroy",
+								"Fight": "Choose Recruit or Attack. Each other player reveals their hand and discards a card with that icon."
+							},
+							{
+								"title": "Detect Mutation",
+								"Fight": "Choose Recruit or Attack. Then, reveal the top card of your deck. If that card has that icon, draw it and repeat this process."
+							},
+							{
+								"title": "Scatter the Mutants",
+								"Fight": "Choose Recruit or Attack. Put all Heroes from the HQ with that icon on the bottom of the Hero Deck."
+							},
+							{
+								"title": "Teleport and Incarcerate",
+								"Fight": "Choose Recruit or Attack. Then, reveal the top card of that Hero Deck. If that card has that icon, gain that card, and Teleport it."
+							}
+						]
+					}
+				},
+				{
+					"Wasteland Hulk": {
+
+						"description": "Wasteland Hulk gets +3 Attack for each of his Mastermind Tactics among all players' Victory Piles.",
+						"Always Leads": "Wasteland",
+						"Master Strike": "Cross-Dimensional Hulk Rampage",
+						"Attack": "7+",
+			 			"VP": "6",
+			 
+						"Mastermind Tactics": [
+							{
+								"title": "Brutal Beating",
+								"Fight": "Each other player counts the number of Wounds in their discard pile, then discards that many cards."
+							},
+							{
+								"title": "Memories of Pain",
+								"Fight": "Each other player puts two Wounds from their discard pile on top of their deck."
+							},
+							{
+								"title": "Radioactive Regeneration",
+								"Fight": "KO up to two Wounds from your hand and/or discard pile."
+							},
+							{
+								"title": "Revert to Bruce Banner",
+								"Fight": "You gain a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero from the HQ for free."
+							}
+						]
+					}
+				},
+				{
+					"Zombie Green Goblin": {
+
+						"description": "Zombie Green Goblin gets +1 Attack for each Hero in the KO pile that costs 7 or more.",
+						"Always Leads": "The Deadlands",
+						"Master Strike": "Rise of the Living Dead. KO each Hero in the HQ that costs 7 or more. Then, each player discards a card for each Hero in the KO pile that costs 7 or more.",
+						"Attack": "11+",
+			 			"VP": "6",
+			 
+						"Mastermind Tactics": [
+							{
+								"title": "Army of Cadavers",
+								"Fight": "Rise of the Living Dead (this effect never makes Mastermind Tactics return.) Then, each other player discards a card for each Villain in the city that has \"Rise of the Living Dead.\""
+							},
+							{
+								"title": "The Hungry Dead",
+								"Fight": "Rise of the Living Dead (this effect never makes Mastermind Tactics return.) Then, each other player gains a Wound if there are any Villains in the city with \"Rise of the Living Dead\"."
+							},
+							{
+								"title": "Love To Have You For Dinner",
+								"Fight": "Rise of the Living Dead (this effect never makes Mastermind Tactics return.) Then, reveal the top 5 cards of the Hero Deck. KO all those Heroes that cost 7 or more. Put the rest on the bottom of the Hero Deck in random order."
+							},
+							{
+								"title": "Reign of Terror",
+								"Fight": "Rise of the Living Dead (this effect never makes Mastermind Tactics return.) Then, put all Heroes from the HQ that cost 6 or less on the bottom of the Hero Deck."
+							}
+						]
+					}
+				}
+
+			]
+		},
+		{
+			"Secret Wars Volume 2": [
+
+				{
+					"Immortal Emperor Zheng-Zhu": {
+
+						"keyword": "7th Circle of Kung-Fu",
+						"Always Leads": "K'un-Lun",
+						"Master Strike": "Each player reveals a Hero that costs 7 or more, or they discard down to 3 cards.",
+						"Attack": "7+",
+			 			"VP": "5",
+			 
+						"Mastermind Tactics": [
+							{
+								"title": "Ultimate Kung-Fu Mastery",
+								"Fight": "Each other player reveals a card with \"Circle of Kung-Fu\" from their Victory Pile or gains a Wound."
+							},
+							{
+								"title": "Emperor's Justice",
+								"Fight": "Each other player reveals a Marvel Knight Hero or gains a Wound."
+							},
+							{
+								"title": "Humble the Pretenders",
+								"Fight": "Each other player reveals a Marvel Knight Hero or discards a card that costs less than 7."
+							},
+							{
+								"title": "Imperial Edict",
+								"Fight": "Choose any number of Heroes from the HQ. Put them on the bottom of the Hero Deck in random order."
+							}
+						]
+					}
+				},
+				{
+					"King Hyperion": {
+
+						"Always Leads": "Utopolis",
+						"Master Strike": "King Hyperion enters the city if he was not already there. Then, he [b]charges[/b] three spaces.",
+						"Escape": "Each player gains a wound. Put King Hyperion on the Mastermind space.",
+						"Attack": "12",
+			 			"VP": "6",
+			 
+						"Mastermind Tactics": [
+							{
+								"title": "Worshipped by Millions",
+								"Fight": "If King Hyperion is in the city, put him back on the Mastermind space and shuffle this Tactic back into his Tactics. If you do, rescue six Bystanders."
+							},
+							{
+								"title": "Royal Treasury",
+								"Fight": "If King Hyperion is in the city, put him back on the Mastermind space and shuffle this Tactic back into his Tactics. If you do, you get +5 Recruit."
+							},
+							{
+								"title": "Monarch of Utopolis",
+								"Fight": "If King Hyperion is in the city, put him back on the Mastermind space and shuffle this Tactic back into his Tactics. If you do, when you drew a new hand of cards at the end of this turn, draw three extra cards."
+							},
+							{
+								"title": "Rule with an Iron Fist",
+								"Fight": "If King Hyperion is in the city, put him back on the Mastermind space and shuffle this Tactic back into his Tactics. If you do, you may defeat a Villain in the city for free."
+							}
+						]
+					}
+				},
+				{
+					"Shiklah, the Demon Bride": {
+
+						"Always Leads": "Monster Metropolis",
+						"Master Strike": "Reveal the top three cards of the Villain Deck. Put all the Scheme Twists you revealed on top of the Villain Deck. Put the rest on the bottom of that deck in random order.",
+						"Attack": "9",
+			 			"VP": "6",
+
+						"Mastermind Tactics": [
+							{
+								"title": "Enslavement Beam",
+								"Fight": "[b]Fateful Resurrection[/b]. If she resurrects, rescue four bystanders."
+							},
+							{
+								"title": "Shiklah's Husband, Deadpool",
+								"Fight": "Gain this as a Hero.",
+								"text": "You get +1 Attack for each Hero with an odd-numbered cost you played this turn. (0 is even.)",
+								"Attack": "5+"
+							},
+							{
+								"title": "Drain Life",
+								"Fight": "[b]Fateful Resurrection[/b]. If she resurrects, defeat a Villain in the city for free."
+							},
+							{
+								"title": "Infernal Power",
+								"Fight": "[b]Fateful Resurrection[/b]. If she resurrects, draw two cards."
+							}
+						]
+					}
+				},
+				{
+					"Spider-Queen": {
+
+						"description": "Spider-Queen gets +1 Attack for each Bystander in the Escape pile.",
+						"Always Leads": "Spider-Infected",
+						"Master Strike": "Each player puts a Spider-Infected from their Victory Pile into an empty city space. Any player who cannot do so gains a Wound.",
+						"Attack": "8+",
+			 			"VP": "6",
+			 
+						"Mastermind Tactics": [
+							{
+								"title": "Sonic Scream",
+								"Fight": "Reveal the top eight cards of the Villain Deck. Put all the Bystanders you revealed into the Escape pile. Put the rest on the bottom of the Villain Deck in random orders."
+							},
+							{
+								"title": "Infect the Entire City",
+								"Fight": "Put a Bystander from the Bystander Deck into the Escape Pile. Then, each Spider-Infected in the city captures a Bystander."
+							},
+							{
+								"title": "Control Arachnid Genes",
+								"Fight": "You may gain a Spider-Friend Hero from the HQ."
+							},
+							{
+								"title": "Web the Skyscrapers",
+								"Fight": "Each other player reveals a Spider-Friend Hero or puts a Bystander from their Victory Pile into the Escape pile."
+							}
+						]
+					}
+				}
+
+			]
+		},
+		{
+			"Captain America 75th Anniversary": [
+
+				{
+					"Arnim Zola": {
+
+						"keyword": "Ultimate Abomination",
+						"Always Leads": "Zola's Creations",
+						"Master Strike": "For each Hero in the HQ that has less than 2 printed Attack, put that Hero on the bottom of the Hero Deck, and each player discards a card of that Hero's cost.",
+						"Attack": "6+",
+						"VP": "6",
+
+						"Mastermind Tactics": [
+							{
+								"title": "Dominate the Weak",
+								"Fight": "The player of your choice gains a Hero from the HQ that has less than 2 printed Attack."
+							},
+							{
+								"title": "Computer-Uploaded Genius",
+								"Fight": "Each other player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or discards a card."
+							},
+							{
+								"title": "Pet Projects",
+								"Fight": "Each other player reveals a Zola's Creations Villain from their Victory Pile or gains a Wound."
+							},
+							{
+								"title": "Crush Pacifist Resistance",
+								"Fight": "KO up to two of your Heroes that have less than 2 printed Attack."
+							}
+						]
+					}
+				},
+				{
+					"Baron Heinrich Zemo": {
+
+						"description": "Whenever you fight a Villain, you may use 2 Recruit to rescue a Bystander. Baron Zemo gets +9 Attack unless you are a Savior.",
+						"Always Leads": "Masters of Evil (WWII)",
+						"Master Strike": "Each player KOs a Bystander from their Victory Pile. Any player who cannot do so gains a Wound.",
+						"Attack": "9+",
+						"VP": "6",
+
+						"Mastermind Tactics": [
+							{
+								"title": "Fallen Idols",
+								"Fight": "Each other player that is not a Savior discards a card."
+							},
+							{
+								"title": "Finding Zemo",
+								"Fight": "Reveal the top five cards of the Villain Deck. If you revealed any Bystanders, KO them and each other player gains a Wound. Put the rest back in random order."
+							},
+							{
+								"title": "Hatred for the Avengers",
+								"Fight": "For each of your Avengers Heroes, rescue a Bystander."
+							},
+							{
+								"title": "Prisoners of War",
+								"Fight": "Each other player reveals an Avengers Hero or chooses a Bystander from their Victory Pile, and you rescue that Bystander."
+							}
+						]
+					}
+				}
+
+			]
+		},
+		{
+			"Civil War": [
+
+				{
+					"Authoritarian Iron Man": {
+
+						"Always Leads": "Superhuman Registration Act",
+						"Master Strike": "Authoritarian Iron Man fortifies the next city space to his right, starting with the Bridge. You can't fight him while there's a Villain in that space. Villains in that space get +3 Attack.",
+						"Attack": "12",
+			 			"VP": "6",
+			 
+						"Mastermind Tactics": [
+							{
+								"title": "Armada of Armors",
+								"Fight": "You get +6 Recruit usable only to recruit Ranged and/or Tech Heroes."
+							},
+							{
+								"title": "Freeze Domestic Assets",
+								"Fight": "Each other player reveals their hand and discards all their cards with Recruit icons."
+							},
+							{
+								"title": "Man the Fortifications",
+								"Fight": "Reveal the top card of the Villain Deck. If it's a Villain, it enters the city space that Authoritarian Iron Man is fortifying."
+							},
+							{
+								"title": "Recall to Service",
+								"Fight": "The Villain with the highest printed Attack in the Escape Pile enters the city space that Authoritarian Iron Man is fortifying."
+							}
+						]
+					}
+				},
+				{
+					"Baron Helmut Zemo": {
+
+						"description": "Baron Zemo gets -1 Attack for each Villain in your Victory Pile.",
+						"Always Leads": "Thunderbolts",
+						"Master Strike": "Each player KOs a Villain from their Victory Pile. Any player who cannot do so gains a Wound.",
+						"Attack": "16*",
+			 			"VP": "6",
+			 
+						"Mastermind Tactics": [
+							{
+								"title": "Blasted Henchmen!",
+								"Fight": "Each other player reveals a Tech Hero or KOs a Villain from their Victory Pile."
+							},
+							{
+								"title": "Cursed Dynasty",
+								"Fight": "When you draw a new hand of cards at the end of this turn, draw two extra cards."
+							},
+							{
+								"title": "Endless Minions",
+								"Fight": "Each other player reveals a Tech Hero or chooses a Villain from their Victory Pile and it enters the city."
+							},
+							{
+								"title": "Revenge for My Father",
+								"Fight": "Each other player reveals their hand. Each player who revealed an Avengers Hero gains a Wound."
+							}
+						]
+					}
+				},
+				{
+					"Maria Hill, Director of S.H.I.E.L.D.": {
+
+						"description": "Double S.H.I.E.L.D. Clearance. You can't fight Maria Hill while there are any S.H.I.E.L.D. Elite or Officers in the city.",
+						"Always Leads": "S.H.I.E.L.D. Elite.",
+						"Master Strike": "Two S.H.I.E.L.D. Officers enter the city as 3 Attack Villains. When you fight them, gain them as Heroes.",
+						"Attack": "7*",
+			 			"VP": "6",
+			 
+						"Mastermind Tactics": [
+							{
+								"title": "Crash the Helicarrier",
+								"Fight": "KO any number of your S.H.I.E.L.D. Heroes."
+							},
+							{
+								"title": "Declare Martial Law",
+								"Fight": "Put a S.H.I.E.L.D. Officer into each empty city space as 3 Attack Villains. When you fight them, gain them as Heroes."
+							},
+							{
+								"title": "Evacuation Code Epsilon",
+								"Fight": "Each other player reveals their hand and discards a S.H.I.E.L.D. card."
+							},
+							{
+								"title": "Rapid Response Team",
+								"Fight": "Two S.H.I.E.L.D. Officers enter the city as 3 Attack Villains. When you fight them, gain them as Heroes."
+							}
+						]
+					}
+				},
+				{
+					"Misty Knight": {
+
+						"keyword": "Bribe",
+						"Always Leads": "Heroes for Hire",
+						"Master Strike": "Each player reveals 4 cards with Recruit icons or gains a Wound.",
+						"Attack": "14*",
+			 			"VP": "6",
+			 
+						"Mastermind Tactics": [
+							{
+								"title": "Bionic Repulsor Field",
+								"Fight": "Each other player reveals a Marvel Knight Hero or puts two cards from their hand on top of the deck."
+							},
+							{
+								"title": "Cyborg Detective",
+								"Fight": "Reveal the top three cards of the Villain Deck. Put them back in any order."
+							},
+							{
+								"title": "Trusted Bodyguard",
+								"Fight": "Going clockwise, the fist other player with Colleen Wing in their Victory Pile rescues 5 Bystanders and returns Colleen Wing to play fortifying Misty Knight."
+							},
+							{
+								"title": "Vibranium Cyber Arm",
+								"Fight": "Each other player reveals a Marvel Knight Hero or gains a Wound."
+							}
+						]
+					}
+				},
+				{
+					"Ragnarok": {
+
+						"description": "Ragnarok gets +2 Attack for each Hero Class among Heroes in the HQ.",
+						"Always Leads": "Registration Enforcers",
+						"Master Strike": "Each player says \"zero\" or \"not zero.\" Then, each player discards all their cards with that cost.",
+						"Attack": "6+",
+			 			"VP": "6",
+			 
+						"Mastermind Tactics": [
+							{
+								"title": "Electrical Charge",
+								"Fight": "Count how many Ranged Heroes you have. Draw that many cards."
+							},
+							{
+								"title": "God of Cyborg Thunder",
+								"Fight": "You can spend Recruit as Attack this turn."
+							},
+							{
+								"title": "Hammer Goliath",
+								"Fight": "KO each Hero from the HQ that costs 7 or more."
+							},
+							{
+								"title": "Unnatural Storm Clouds",
+								"Fight": "Put all Heroes from the HQ on the bottom of the Hero Deck in random order."
+							}
+						]
+					}
+				}
+
+			]
+		},
+		{
+			"Deadpool": [
+
+				{
+					"Evil Deadpool": {
+						"description": "[b]Revenge for Mastermind Tactics[/b]",
+						"Always Leads": "Evil Deadpool Corpse",
+						"Master Strike": "Without talking, each player simultaneously discards a card. Whoever discards the lowest-costing card [i](or tied for lowest)[/i] gains a Wound.",
+						"Attack": "11+",
+			 			"VP": "6",
+
+						"Mastermind Tactics": [
+							{
+								"title": "Evil Even Oddball",
+								"Fight": "Each other player reveals their hand. Whoever has the fewest cards with odd-numbered costs (or tied for fewest) gains a Wound."
+							},
+							{
+								"title": "Hyper-Insane Healing Factor",
+								"Fight": "If this is not the final Tactic, you get +6 Recruit and shuffle this Tactic back into the other Tactics."
+							},
+							{
+								"title": "Of Course it's Corpse",
+								"Fight": "The other player with the fewest Evil Deadpool Corpse Villains in their Victory Pile (or tied for fewest) gains a Wound."
+							},
+							{
+								"title": "Stitched from Dead (Pool) Parts",
+								"Fight": "Each other player discards the top card of their deck. Whoever discards the lowest-costing card (or tied for lowest) gains a Wound."
+							}
+						]
+					}
+				},
+				{
+					"Macho Gomez": {
+						"description": "[b]Revenge for Deadpool's \"Friends\"[/b]",
+						"Always Leads": "Deadpool's \"Friends\"",
+						"Master Strike": "Put this Strike in front of you as a \"Bounty on Your Head.\" Then, each player gains a Wound for each Bounty on them. Any number of times during your turn, you may pay 1 Recruit to move a Bounty from you to the player on your left.",
+						"Attack": "9+",
+			 			"VP": "6",
+			 
+			 			"Mastermind Tactics": [
+							{
+								"title": "Bounty Payout",
+								"Fight": "You get +1 Recruit for each \"Bounty on Your Head\" on other players."
+							},
+							{
+								"title": "Interstellar Assassin",
+								"Fight": "Each other player with at least one \"Bounty on Your Head\" discards down to 4 cards."
+							},
+							{
+								"title": "Renegotiate the Contract",
+								"Fight": "Redistribute the \"Bounty on Your Head\" cards among any number of players."
+							},
+							{
+								"title": "Super Macho Man",
+								"Fight": "Rescue a Bystander for each \"Bounty on Your Head\" on other players."
+							}
+						]
+					}
+				}
+
+			]
+		},
+		{
+			"Noir": [
+
+				{
+					"Charles Xavier": {
+						"description": "Charles Xavier gets +1 Attack for each Bystander in the HQ and city.",
+						"Always Leads": "X-Men Noir",
+						"Master Strike": "Four Heroes in the HQ capture [b]Hidden Witnesses[/b].",
+						"Attack": "8*",
+			 			"VP": "6",
+			 
+						"Mastermind Tactics": [
+							{
+								"title": "X-Con Men",
+								"Fight": "Each other player reveals an X-Men Hero or gains a Wound."
+							},
+							{
+								"title": "Commit to the Asylum",
+								"Fight": "Each other player [b]Investigates[/b] their deck for a card with an Attack icon and KOs it. Players reveal all the cards they investigated."
+							},
+							{
+								"title": "Master Manipulator",
+								"Fight": "[b]Investigate[/b] the Hero Deck for an X-Men card and put it into your discard pile."
+							},
+							{
+								"title": "Corrupt Weak Minds",
+								"Fight": "Each other player puts a random Bystander from their Victory Pile onto a Hero in the HQ as a [b]Hidden Witness[/b]."
+							}
+						]
+					}
+				},
+				{
+					"The Goblin, Underworld Boss": {
+						"Start of Game": "The Goblin captures 2 [b]Hidden Witnesses[/b].",
+						"Always Leads": "Goblin's Freak Show",
+						"Master Strike": "Two random Bystanders from each player's Victory Pile become [b]Hidden Witnesses[/b] held by The Goblin. Any player who didn't have two Bystanders gains a Wound instead.",
+						"Attack": "10*",
+			 			"VP": "6",
+			 
+						"Mastermind Tactics": [
+							{
+								"title": "Sinister Dreams",
+								"Fight": "Each other player reveals a Sinister Six or Spider-Friends Hero or gains a Wound."
+							},
+							{
+								"title": "Blackmail the Judges",
+								"Fight": "For each Goblin's Freak Show Villain in the city, The Goblin captures 2 [b]Hidden Witnesses[/b]."
+							},
+							{
+								"title": "Carnival of Carnage",
+								"Fight": "For each Goblin's Freak Show Villain in the city, each other player discards a card."
+							},
+							{
+								"title": "Blind Loyalty",
+								"Fight": "[b]Investigate[/b] the Villain Deck for a Goblin's Freak Show Villain and put it into your Victory Pile."
+							}
+						]
+					}
+				}
+
+			]
+		},
+		{
+			"X-Men": [
+
+				{
+					"Arcade": {
+						"Start of Game": "Arcade captures 5 [b]Human Shields[/b].",
+						"Always Leads": "Murderworld",
+						"Master Strike": "Arcade captures a random Bystander from each player's Victory Pile as a [b]Human Shield[/b]. Each player who didn't have a Bystander gains a Wound instead.",
+						"Attack": "3*",
+			 			"VP": "5",
+			  
+						"Mastermind Tactics": [
+							{
+								"title": "I Love a Parade!",
+								"Fight": "Arcade captures two [b]Human Shields[/b]. Play an extra card from the Villain Deck next turn."
+							},
+							{
+								"title": "I Need an Audience",
+								"Fight": "Arcade captures [b]Human Shields[/b] equal to the number of Villains in the city."
+							},
+							{
+								"title": "Roulette Wheel of Death",
+								"Fight": "Arcade captures a random Bystander as a [b]Human Shield[/b] from each of these places: The Bystander Stack, the Escape Pile, each city space, and each other player's Victory Pile."
+							},
+							{
+								"title": "Welcome to my Theme Park!",
+								"Fight": "Arcade and each Murderworld Villain in the city capture two [b]Human Shields[/b]."
+							}
+						]
+					}
+				},
+				{
+					"Epic Arcade": {
+						"Start of Game": "Arcade captures 8 [b]Human Shields[/b]. Play a random Horror.",
+						"Always Leads": "Murderworld",
+						"Master Strike": "Arcade captures two random Bystanders from each player's Victory Pile as a [b]Human Shield[/b]. Each player who didn't have two Bystanders gains a Wound instead.",
+						"Attack": "4*",
+			 			"VP": "5",
+			 
+						"Mastermind Tactics": [
+							{
+								"title": "I Love a Parade!",
+								"Fight": "Arcade captures two [b]Human Shields[/b]. Play an extra card from the Villain Deck next turn."
+							},
+							{
+								"title": "I Need an Audience",
+								"Fight": "Arcade captures [b]Human Shields[/b] equal to the number of Villains in the city."
+							},
+							{
+								"title": "Roulette Wheel of Death",
+								"Fight": "Arcade captures a random Bystander as a [b]Human Shield[/b] from each of these places: The Bystander Stack, the Escape Pile, each city space, and each other player's Victory Pile."
+							},
+							{
+								"title": "Welcome to my Theme Park!",
+								"Fight": "Arcade and each Murderworld Villain in the city capture two [b]Human Shields[/b]."
+							}
+						]
+					}
+				},
+				{
+					"Dark Phoenix": {
+						"Always Leads": "Hellfire Club",
+						"Master Strike": "KO the top card of the Hero Deck and each card in the Hero Deck that shares a color with it. Shuffle the Hero Deck.",
+						"description": "Dark Phoenix Wins: When the Hero Deck is empty.",
+						"Attack": "13",
+						"VP": "7",
+			  
+						"Mastermind Tactics": [
+							{
+								"title": "Burn the World to Ashes",
+								"Fight": "Each other player discards each card from their hand that has the same name as any card in the KO pile."
+							},
+							{
+								"title": "Consume an Entire Galaxy",
+								"Fight": "Each other player chooses a card from their discard pile that costs 1 or more and KOs it."
+							},
+							{
+								"title": "Fiery Reincarnation",
+								"Fight": "Gain a Hero from the KO pile that costs 7 or more."
+							},
+							{
+								"title": "Worship Me as a God",
+								"Fight": "Each other player gains two 0-cost cards from the KO pile."
+							}
+						]
+					}
+				},
+				{
+					"Epic Dark Phoenix": {
+						"Always Leads": "Hellfire Club",
+						"Master Strike": "KO the top card of the Hero Deck and each card in the Hero Deck that shares a color with it. Shuffle the Hero Deck. Then, each player plays a Hellfire Club card from their victory Pile. Next, play a random Horror.",
+						"description": "Dark Phoenix Wins: When the Hero Deck is empty.",
+						"Attack": "15",
+						"VP": "7",
+			 
+						"Mastermind Tactics": [
+							{
+								"title": "Burn the World to Ashes",
+								"Fight": "Each other player discards each card from their hand that has the same name as any card in the KO pile."
+							},
+							{
+								"title": "Consume an Entire Galaxy",
+								"Fight": "Each other player chooses a card from their discard pile that costs 1 or more and KOs it."
+							},
+							{
+								"title": "Fiery Reincarnation",
+								"Fight": "Gain a Hero from the KO pile that costs 7 or more."
+							},
+							{
+								"title": "Worship Me as a God",
+								"Fight": "Each other player gains two 0-cost cards from the KO pile."
+							}
+						]
+					}
+				},
+				{
+					"Deathbird": {
+						"description": "Deathbird gets +1 Attack for each Shi'ar Villain in the city and Escape Pile.",
+						"Always Leads": "Shi'ar Imperial Guard and a Shi'ar Henchmen Group.",
+						"Master Strike": "If there are already any Shi'ar Villains in the city, each player gains a Wound. Then this strike enters the city as a Shi'ar Battle Cruiser Token Villain with 7 Attack worth 5 VP.",
+						"Attack": "8+",
+			 			"VP": "6",
+			  
+						"Mastermind Tactics": [
+							{
+								"title": "Shi'ar Elite Bodyguards",
+								"Fight": "Rescue 4 Bystanders. This Tactic enters the city as a Villain whose only ability is \"Escape\": \"Shuffle this card back into Deathbird's Mastermind Tactics as another Tactic.\""
+							},
+							{
+								"title": "Shi'ar Extermination Legion",
+								"Fight": "Rescue 4 Bystanders. This Tactic enters the city as a Villain whose only ability is: \"Escape\": \"Each player discards two cards.\""
+							},
+							{
+								"title": "Shi'ar Hovertake Battalion",
+								"Fight": "Rescue 4 Bystanders. This Tactic enters the city as a Villain whose only ability is: \"Escape\": \"Each player gains a Wound.\""
+							},
+							{
+								"title": "Shi'ar Master Spies",
+								"Fight": "Rescue 4 Bystanders. This Tactic enters the city as a Villain whose only ability is \"Escape\": \"This card becomes a Scheme Twist that takes effect immediately.\""
+							}
+						]
+					}
+				},
+				{
+					"Epic Deathbird": {
+						"description": "Deathbird gets +2 Attack for each Shi'ar Villain in the city and Escape Pile.",
+						"Always Leads": "Shi'ar Imperial Guard and a Shi'ar Henchmen Group.",
+						"Master Strike": "If there are already any Shi'ar Villains in the city, play a random Horror. Then this strike enters the city as a Shi'ar Battle Cruiser Token Villain with 9 Attack worth 6 VP.",
+						"Attack": "8+",
+			 			"VP": "6",
+			 
+						"Mastermind Tactics": [
+							{
+								"title": "Shi'ar Elite Bodyguards",
+								"Fight": "Rescue 4 Bystanders. This Tactic enters the city as a Villain whose only ability is \"Escape\": \"Shuffle this card back into Deathbird's Mastermind Tactics as another Tactic.\""
+							},
+							{
+								"title": "Shi'ar Extermination Legion",
+								"Fight": "Rescue 4 Bystanders. This Tactic enters the city as a Villain whose only ability is: \"Escape\": \"Each player discards two cards.\""
+							},
+							{
+								"title": "Shi'ar Hovertake Battalion",
+								"Fight": "Rescue 4 Bystanders. This Tactic enters the city as a Villain whose only ability is: \"Escape\": \"Each player gains a Wound.\""
+							},
+							{
+								"title": "Shi'ar Master Spies",
+								"Fight": "Rescue 4 Bystanders. This Tactic enters the city as a Villain whose only ability is \"Escape\": \"This card becomes a Scheme Twist that takes effect immediately.\""
+							}
+						]
+					}
+				},
+				{
+					"Mojo": {
+						"Start of Game": "Mojo captures 3 [b]Human Shields[/b]. All Bystanders in Victory Piles are worth 3 VP.",
+						"Always Leads": "Mojoverse",
+						"Master Strike": "Mojo captures a [b]Human Shield[/b]. Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or discards a card at random.",
+						"Attack": "6*",
+			 			"VP": "5",
+			  
+						"Mastermind Tactics": [
+							{
+								"title": "Billions of TV Viewers",
+								"Fight": "Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or chooses a random Bystander from their Victory Pile. Mojo captures those Bystanders as [b]Human Shields[/b]."
+							},
+							{
+								"title": "Brain-Melting TV Marathon",
+								"Fight": "Each other player without a Mojo Tactic in their Victory Pile gains a Wound."
+							},
+							{
+								"title": "Cross-Dimensional Marketing",
+								"Fight": "You get +1 Recruit for each Bystander in your Victory Pile. Mojo captures a [b]Human Shield[/b]."
+							},
+							{
+								"title": "Mojo Branding Opportunity",
+								"Fight": "Draw a card for each Mojoverse Villain in your Victory Pile. Mojo captures a [b]Human Shield[/b]."
+							}
+						]
+					}
+				},
+				{
+					"Epic Mojo": {
+						"Start of Game": "Mojo captures 6 [b]Human Shields[/b]. Play a random Horror. All Bystanders in Victory Piles are worth 4 VP.",
+						"Always Leads": "Mojoverse",
+						"Master Strike": "Mojo and each Mojoverse Villain capture a [b]Human Shield[/b]. Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or discards down to 4 cards each.",
+						"Attack": "7*",
+			 			"VP": "5",
+			 
+						"Mastermind Tactics": [
+							{
+								"title": "Billions of TV Viewers",
+								"Fight": "Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or chooses a random Bystander from their Victory Pile. Mojo captures those Bystanders as [b]Human Shields[/b]."
+							},
+							{
+								"title": "Brain-Melting TV Marathon",
+								"Fight": "Each other player without a Mojo Tactic in their Victory Pile gains a Wound."
+							},
+							{
+								"title": "Cross-Dimensional Marketing",
+								"Fight": "You get +1 Recruit for each Bystander in your Victory Pile. Mojo captures a [b]Human Shield[/b]."
+							},
+							{
+								"title": "Mojo Branding Opportunity",
+								"Fight": "Draw a card for each Mojoverse Villain in your Victory Pile. Mojo captures a [b]Human Shield[/b]."
+							}
+						]
+					}
+				},
+				{
+					"Onslaught": {
+						"description": "Each player's hand size is 1 less.",
+						"Always Leads": "Dark Descendants",
+						"Master Strike": "KO all Heroes Dominated by Onslaught. Then each player reveals their hand and chooses one of their non-grey Heroes. Onslaught Dominates those Heroes.",
+						"Attack": "10+",
+			 			"VP": "7",
+			  
+						"Mastermind Tactics": [
+							{
+								"title": "Godlike Psionic Entity",
+								"Fight": "Onslaught Dominates all five Heroes from the HQ."
+							},
+							{
+								"title": "Sins of X-Men Past",
+								"Fight": "Each other player reveals the top six cards of their deck and chooses an X-Men Hero revealed this way. Onslaught Dominates those Heroes. Put the rest back in random order."
+							},
+							{
+								"title": "Xavier and Magneto Combined",
+								"Fight": "Reveal the top three cards of the Hero Deck. Onslaught Dominates all the X-Men and Brotherhood Heroes you revealed. Put the rest back in random order."
+							},
+							{
+								"title": "Worldwide Mental Control",
+								"Fight": "Onslaught Dominates four 0-cost Heroes from the KO pile. The next time a player fights Onslaught, KO those 0-cost Heroes."
+							}
+						]
+					}
+				},
+				{
+					"Epic Onslaught": {
+						"description": "Each player's hand size is 1 less.",
+						"Always Leads": "Dark Descendants",
+						"Master Strike": "KO all Heroes Dominated by Onslaught. Then each player reveals their hand and chooses two of their non-grey Heroes. Onslaught Dominates those Heroes. Then play a random Horror.",
+						"Attack": "12+",
+			 			"VP": "7",
+			 
+						"Mastermind Tactics": [
+							{
+								"title": "Godlike Psionic Entity",
+								"Fight": "Onslaught Dominates all five Heroes from the HQ."
+							},
+							{
+								"title": "Sins of X-Men Past",
+								"Fight": "Each other player reveals the top six cards of their deck and chooses an X-Men Hero revealed this way. Onslaught Dominates those Heroes. Put the rest back in random order."
+							},
+							{
+								"title": "Xavier and Magneto Combined",
+								"Fight": "Reveal the top three cards of the Hero Deck. Onslaught Dominates all the X-Men and Brotherhood Heroes you revealed. Put the rest back in random order."
+							},
+							{
+								"title": "Worldwide Mental Control",
+								"Fight": "Onslaught Dominates four 0-cost Heroes from the KO pile. The next time a player fights Onslaught, KO those 0-cost Heroes."
+							}
+						]
+					}
+				},
+				{
+					"Shadow King": {
+						"Always Leads": "Shadow-X",
+						"Master Strike": "KO all Heroes Dominated by Shadow King. Then each player chooses a non-grey Hero from their discard pile. Shadow King Dominates those Heroes.",
+						"Attack": "7+",
+			 			"VP": "6",
+			  
+						"Mastermind Tactics": [
+							{
+								"title": "Fiend of the Astral Plane",
+								"Fight": "Each other player reveals their hand and shuffles two cards with Recruit icons from their hand back into their deck."
+							},
+							{
+								"title": "Poison their Minds",
+								"Fight": "Each other player reveals their hand and chooses one of their non-grey Heroes. Shadow King Dominates those Heroes."
+							},
+							{
+								"title": "Psychic Seduction",
+								"Fight": "Shadow King Dominates each Hero that costs 5 or less from the HQ."
+							},
+							{
+								"title": "Telepathic Betrayal",
+								"Fight": "If the \"Betrayal of the Shadow\" Trap is in any Victory Pile or the KO pile, put it on top of the Villain Deck."
+							}
+						]
+					}
+				},
+				{
+					"Epic Shadow King": {
+						"Start of Game": "Play two random Horrors.",
+						"Always Leads": "Shadow-X",
+						"Master Strike": "KO all Heroes Dominated by Shadow King. Then each player chooses a non-grey Hero from their discard pile. Shadow King Dominates those Heroes.",
+						"Attack": "9+",
+			 			"VP": "6",
+			 
+						"Mastermind Tactics": [
+							{
+								"title": "Fiend of the Astral Plane",
+								"Fight": "Each other player reveals their hand and shuffles two cards with Recruit icons from their hand back into their deck."
+							},
+							{
+								"title": "Poison their Minds",
+								"Fight": "Each other player reveals their hand and chooses one of their non-grey Heroes. Shadow King Dominates those Heroes."
+							},
+							{
+								"title": "Psychic Seduction",
+								"Fight": "Shadow King Dominates each Hero that costs 5 or less from the HQ."
+							},
+							{
+								"title": "Telepathic Betrayal",
+								"Fight": "If the \"Betrayal of the Shadow\" Trap is in any Victory Pile or the KO pile, put it on top of the Villain Deck."
+							}
+						]
+					}
+				}
+
+			]
+		},
+		{
+			"Spider-Man Homecoming": [
+
+				{
+					"Adrian Toomes": {
+						"keyword": "Double Striker",
+						"Always Leads": "Salvagers",
+						"Master Strike": "Starting from the Sewers, each Villain in the city uses its \"Escape\" ability.",
+						"Attack": "5+",
+						"VP": "6",
+
+						"Mastermind Tactics": [
+							{
+								"title": "Don't Interfere",
+								"Fight": "[b]Danger Sense 4[/b]. If this revealed any Bystanders, rescue them."
+							},
+							{
+								"title": "More Harm than Good",
+								"Fight": "Each other player discards a Spider Friends Hero or gains a Wound.",
+								"flavor": "Don't mess with me. Because I will kill you and everyone you care about."
+							},
+							{
+								"title": "Take Everything",
+								"Fight": "You may put a card from your discard pile on top of your deck.",
+								"flavor": "The world's changed. Time we change with it."
+							},
+							{
+								"title": "The World's Changed",
+								"Fight": "[b]Danger Sense 3[/b]. Put all Henchmen Villains revealed this way into your Victory Pile, then do their \"Fight\" abilities."
+							}
+						]
+					}
+				},	
+				{
+					"Epic Adrian Toomes": {
+						"keyword": "Triple Striker",
+						"Always Leads": "Salvagers",
+						"Master Strike": "Starting from the Sewers, each Villain in the city uses its \"Ambush\" ability, then its \"Escape\" ability.",
+						"Attack": "5+",
+						"VP": "6",
+
+						"Mastermind Tactics": [
+							{
+								"title": "Don't Interfere",
+								"Fight": "[b]Danger Sense 4[/b]. If this revealed any Bystanders, rescue them."
+							},
+							{
+								"title": "More Harm than Good",
+								"Fight": "Each other player discards a Spider Friends Hero or gains a Wound.",
+								"flavor": "Don't mess with me. Because I will kill you and everyone you care about."
+							},
+							{
+								"title": "Take Everything",
+								"Fight": "You may put a card from your discard pile on top of your deck.",
+								"flavor": "The world's changed. Time we change with it."
+							},
+							{
+								"title": "The World's Changed",
+								"Fight": "[b]Danger Sense 3[/b]. Put all Henchmen Villains revealed this way into your Victory Pile, then do their \"Fight\" abilities."
+							}
+						]
+					}
+				},
+				{
+					"Vulture": {
+						"keyword": "Striker",
+						"Always Leads": "Vulture Tech",
+						"Master Strike": "Put a Wound from the Wound Stack below each HQ space as a \"Winged Assault.\" Whenever a player gains or KOs a Hero from the HQ, the player on their right gains one of the Wounds below that HQ space.",
+						"Attack": "8+",
+						"VP": "6",
+
+						"Mastermind Tactics": [
+							{
+								"title": "Bird of Prey",
+								"Fight": "Each other player discards a Spider Friends Hero or discards two cards."
+							},
+							{
+								"title": "Lurking Shadow",
+								"Fight": "[b]Danger Sense 2[/b]. If the Rooftops are empty, a Villain you revealed enters the Rooftops."
+							},
+							{
+								"title": "Mid Air Heist",
+								"Fight": "You get +5 Recruit usable only to recruit [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Heroes."
+							},
+							{
+								"title": "Winged Assault",
+								"Fight": "Put two \"Winged Assault\" Wounds from under the HQ into each other player's discard pile."
+							}
+						]
+					}
+				},
+				{
+					"Epic Vulture": {
+						"keyword": "Striker",
+						"Always Leads": "Vulture Tech",
+						"Master Strike": "Put a Wound from the Wound Stack or KO pile below each HQ space as a \"Winged Assault.\" Whenever a player gains or KOs a Hero from the HQ, the player on their right gains one of the Wounds below that HQ space, putting it on top of their deck.",
+						"Attack": "10+",
+						"VP": "6",
+
+						"Mastermind Tactics": [
+							{
+								"title": "Bird of Prey",
+								"Fight": "Each other player discards a Spider Friends Hero or discards two cards."
+							},
+							{
+								"title": "Lurking Shadow",
+								"Fight": "[b]Danger Sense 2[/b]. If the Rooftops are empty, a Villain you revealed enters the Rooftops."
+							},
+							{
+								"title": "Mid Air Heist",
+								"Fight": "You get +5 Recruit usable only to recruit [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Heroes."
+							},
+							{
+								"title": "Winged Assault",
+								"Fight": "Put two \"Winged Assault\" Wounds from under the HQ into each other player's discard pile."
+							}
+						]
+					}
+				}
+
+			]
+		},
+		{
+			"Champions": [
+
+				{
+					"Fin Fang Foom": {
+						"Size-Changing": "[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR], [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR], [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]",
+						"Always Leads": "Monsters Unleashed",
+						"Master Strike": "[b]Demolish[/b] each player, then do it again for each Monsters Unleashed Villain in the city and Escape Pile.",
+						"Attack": "20*",
+						"VP": "7",
+
+						"Mastermind Tactics": [
+							{
+								"title": "Alien Dragon Technology",
+								"Fight[/b]: A Hero in the HQ gets [b]Size-Changing": "[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR], [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR], [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] this turn."
+							},
+							{
+								"title": "Flammable Acid Breath",
+								"Fight": "KO the top card of the Hero Deck. Then each other player KOs a Hero of that Hero class from their discard pile ([BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR])."
+							},
+							{
+								"title": "Multipronged Assault",
+								"Fight": "Each other player reveals at least 3 Hero Classes ([BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]) or gains a Wound."
+							},
+							{
+								"title": "Supersonic Dive Attack",
+								"Fight": "KO the top card of the Hero Deck. Then each other player reveals their hand and discards a Hero of that Hero Class ([BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR])."
+							}
+						]
+					}
+				},
+				{
+					"Epic Fin Fang Foom": {
+						"Size-Changing": "[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR], [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR], [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]",
+						"Always Leads": "Monsters Unleashed",
+						"Master Strike": "[b]Demolish[/b] each player, then do it again for each Monsters Unleashed Villain in the city and Escape Pile. KO all the Heroes [b]Demolished[/b] this way.",
+						"Attack": "24*",
+						"VP": "7",
+
+						"Mastermind Tactics": [
+							{
+								"title": "Alien Dragon Technology",
+								"Fight[/b]: A Hero in the HQ gets [b]Size-Changing": "[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR], [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR], [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] this turn."
+							},
+							{
+								"title": "Flammable Acid Breath",
+								"Fight": "KO the top card of the Hero Deck. Then each other player KOs a Hero of that Hero class from their discard pile ([BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR])."
+							},
+							{
+								"title": "Multipronged Assault",
+								"Fight": "Each other player reveals at least 3 Hero Classes ([BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]) or gains a Wound."
+							},
+							{
+								"title": "Supersonic Dive Attack",
+								"Fight": "KO the top card of the Hero Deck. Then each other player reveals their hand and discards a Hero of that Hero Class ([BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR])."
+							}
+						]
+					}
+				},
+				{
+					"Pagliacci": {
+						"Always Leads": "Wrecking Crew",
+						"Master Strike 1, 5": "This card becomes a Scheme Twist that takes effect immediately.",
+						"Master Strike 2, 3, 4": "[b]Demolish[/b] each player.",
+						"Attack": "9",
+						"VP": "6",
+
+						"Mastermind Tactics": [
+							{
+								"title": "Commedia Dell'Morte",
+								"Fight": "Each other player may gain two Wounds. [b]Demolish[/b] each of those players who does not."
+							},
+							{
+								"title": "Creative Assassin",
+								"Fight": "You get [b]Versatile 3[/b].",
+								"flavor": "As killer clowns go, Pagliacci is not one you want to find under your bed."
+							},
+							{
+								"title": "Insane Clown Has a Posse",
+								"Fight": "Each other player may KO a Wrecking Crew Villain from their Victory Pile. [b]Demolish[/b] each of those players who does not."
+							},
+							{
+								"title": "Jester of a Twisted Opera",
+								"Fight": "Each other player may KO a card from their discard pile that costs 1 or more. [b]Demolish[/b] each of those players who does not."
+							}
+						]
+					}
+				},
+				{
+					"Epic Pagliacci": {
+						"Always Leads": "Wrecking Crew",
+						"Master Strike 1, 3, 5": "This card becomes a Scheme Twist that takes effect immediately.",
+						"Master Strike 2, 4": "[b]Demolish[/b] each player.",
+						"Attack": "11",
+						"VP": "6",
+
+						"Mastermind Tactics": [
+							{
+								"title": "Commedia Dell'Morte",
+								"Fight": "Each other player may gain two Wounds. [b]Demolish[/b] each of those players who does not."
+							},
+							{
+								"title": "Creative Assassin",
+								"Fight": "You get [b]Versatile 3[/b].",
+								"flavor": "As killer clowns go, Pagliacci is not one you want to find under your bed."
+							},
+							{
+								"title": "Insane Clown Has a Posse",
+								"Fight": "Each other player may KO a Wrecking Crew Villain from their Victory Pile. [b]Demolish[/b] each of those players who does not."
+							},
+							{
+								"title": "Jester of a Twisted Opera",
+								"Fight": "Each other player may KO a card from their discard pile that costs 1 or more. [b]Demolish[/b] each of those players who does not."
+							}
+						]
+					}
+				}
+
+			]
+		},
+		{
+			"World War Hulk": [
+
+				{
+					"General Ross": {
+
+						"description": "Start of Game:[/b] Stack 8 Bystanders next to General Ross as \"Helicopter\" Villains with 2 Attack. You can fight them to rescue them as Bystanders. You can't fight General Ross while he has any Helicopters.",
+						"Always Leads": "Code Red",
+						"Master Strike": " General Ross Transforms, then [b]Cross-Dimensional Hulk Rampage[/b].",
+						"Attack": "6*",
+						"VP": "6",
+						"transformation" :	{
+							"Red Hulk (Mastermind, Transformed)": {
+								"keyword": "Wounded Fury",
+								"description": "You can't fight Helicopters, and they don't stop you from fighting Red Hulk.",
+								"Master Strike": "Red Hulk [b]Transforms[/b], then stack a random Bystander from each player's Victory Pile next to this as a Helicopter. Each player who didn't have a Bystander gains a Wound instead.",
+								"Attack": "9+",
+								"VP": "6"
+							}
+						},
+						"Mastermind Tactics": [
+							{
+								"title": "Bust You Down to Private",
+								"Fight": "Each other player puts a non-grey Hero from their hand on the bottom of the Hero Deck, then puts a 0-cost Hero from the KO pile into their hand.\n This Mastermind Transforms."
+							},
+							{
+								"title": "Call Out the Army",
+								"Fight": "Put 3 Bystanders from the Bystander Stack next to this Mastermind as \"Helicopters.\".\n This Mastermind Transforms."
+							},
+							{
+								"title": "Personal Arsenal",
+								"Fight": "For each Master Strike in the KO pile, put a Bystander from the Bystander Stack next to the Mastermind as a \"Helicopter.\".\n This Mastermind Transforms."
+							},
+							{
+								"title": "Urban Warfare",
+								"Fight": "Put a random Bystander next to the Mastermind as a \"Helicopter\" from each of these places: The Bystander Stack, the Escape Pile, each city space, and each other player's Victory Pile.\n This Mastermind Transforms."
+							}
+						]
+					}
+				},
+				{
+					"Illuminati, Secret Society": {
+
+						"description": "This Mastermind gets +4 Attack unless you [b]Outwit[/b] them.",
+						"Always Leads": "Illuminati.",
+						"Master Strike": "Each player reveals their hand and discards two cards that each cost between 1 and 4. The Illuminati [b]Transform[/b].",
+						"Attack": "11+",
+						"VP": "7",
+						"transformation": {
+							"Illuminati, Open Warfare (Mastermind, Transformed)": {
+								"description": "Whenever a card effect causes a player to draw any number of cards, that player must then also discard a card.",
+								"Master Strike": "Each player reveals their hand and discards two cards that each cost between 5 and 8. The Illuminati [b]Transform[/b].",
+								"Attack": "13",
+								"VP": "7"
+							}
+						},
+
+						"Mastermind Tactics": [
+							{
+								"title": "Black Bolt's Omni-Shout",
+								"Fight": "Each other player reveals their hand and discards two cards with no rules text. The Illuminati [b]Transform[/b]."
+							},
+							{
+								"title": "Dr. Strange's Orb of Agamotto",
+								"Fight": "Each other player reveals their hand and discards a [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] or [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] Hero. The Illuminati [b]Transform[/b]."
+							},
+							{
+								"title": "Hulkbuster's Hammer Fist",
+								"Fight": "Each other player reveals their hand and KOs a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] or [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero from their hand or discard pile. The Illuminati [b]Transform[/b]."
+							},
+							{
+								"title": "Zom's Manacles of Living Bondage",
+								"Fight": "Each other player reveals a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero or gains a Wound. The Illuminati [b]Transform[/b]."
+							}
+						]
+					}
+				},
+				{
+					"King Hulk, Sakaarson": {
+
+						"description": "King Hulk gets +1 Attack for each Warbound Villain in the city and in the Escape Pile.",
+						"Always Leads": "Warbound.",
+						"Master Strike": "Each player KO's a Warbound Villain from their Victory Pile or gains a Wound. King Hulk [b]Transforms[/b].",
+						"Attack": "9+",
+						"VP": "6",
+						"transformation": {
+							"King Hulk, Worldbreaker [COLOR=#FF0000](Mastermind, Transformed}[/COLOR]": {
+								"keyword": "Wounded Fury",
+								"Master Strike": "Each player reveals their hand, then KO's a card from their hand or discard pile that has the same card name as a card in the HQ. King Hulk [b]Transforms[/b].",
+								"Attack": "10+",
+								"VP": "6"
+							}
+						},
+						"Mastermind Tactics": [
+							{
+								"title": "Fury of the Green Scar",
+								"Fight": "Each other player reveals their hand and discards a Hero that isn't grey and isn't [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]. King Hulk [b]Transforms[/b]."
+							},
+							{
+								"title": "Oath of the Warbound",
+								"Fight": "The Villain in the Escape Pile with the highest printed Attack enters the Sewers. King Hulk [b]Transforms[/b]."
+							},
+							{
+								"title": "Revenge From the Stars",
+								"Fight": "After you put this in your Victory Pile, [b]Cross-Dimensional Hulk Rampage[/b]. King Hulk [b]Transforms[/b]."
+							},
+							{
+								"title": "Rule By the Strongest",
+								"Fight": "You get +1 Recruit for each of your [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Heroes. King Hulk [b]Transforms[/b]."
+							}
+						]
+					}
+				},
+				{
+					"M.O.D.O.K.": {
+						"description": "All cards' [b]Outwit[/b] abilities require four different costs instead of three.",
+						"Always Leads": "Intelligencia.",
+						"Master Strike": "Each player who can't [b]Outwit[/b] M.O.D.O.K. gains a Wound, then M.O.D.O.K. [b]Transforms[/b].",
+						"Attack": "9",
+						"VP": "6",
+						"transformation": {
+							"M.O.D.O.K., Network Nightmare [COLOR=#FF0000](Mastermind, Transformed)[/COLOR]": {
+								"description": "You can only fight M.O.D.O.K with Recruit, not Attack.",
+								"Master Strike": "Each player who can't [b]Outwit[/b] M.O.D.O.K. KO's a non-grey Hero from their discard pile. M.O.D.O.K. [b]Transforms[/b].",
+								"Attack": "8*",
+								"VP": "6"
+							}
+						},
+
+						"Mastermind Tactics": [
+							{
+								"title": "Brain Scramble",
+								"Fight": "Each other player discards their hand, then draws as many cards as they discarded. M.O.D.O.K. [b]Transforms[/b]."
+							},
+							{
+								"title": "Designed Only For...K.O.ING",
+								"Fight": "Reveal the top three cards of your deck. KO one of them, draw one, and discard one. M.O.D.O.K. [b]Transforms[/b]."
+							},
+							{
+								"title": "Don't Get a Big head About It",
+								"Fight": "Draw a card for each Intelligencia Villain in your Victory Pile. M.O.D.O.K. [b]Transforms[/b]."
+							},
+							{
+								"title": "Redundancy Algorithim",
+								"Fight": "Each other player reveals their hand and discards two cards that hand the same cost. M.O.D.O.K. [b]Transforms[/b]."
+							}
+						]
+					}
+				},
+				{
+					"The Red King": {
+						"description": "You can't fight the Red King while any Villains are in the city.",
+						"Always Leads": "Sakaar Imperial Guard.",
+						"Master Strike": "The Red King [b]Transforms[/b], then each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] card or gains a Wound.",
+						"Attack": "7*",
+						"VP": "6",
+						"transformation": {
+							"The Red King, Power Armored [COLOR=#FF0000](Mastermind, Transformed)[/COLOR]": {
+								"Master Strike": "The Red King Transforms, then play another card from the Villain Deck.",
+								"Attack": "10",
+								"VP": "6"
+							}
+						},
+						"Mastermind Tactics": [
+							{
+								"title": "Haughty Spite",
+								"Fight": "Each other player without a Red King Tactic in their Victory Pile gains a Wound. The Red King [b]Transforms[/b]."
+							},
+							{
+								"title": "Royal Bodyguard",
+								"Fight": "Reveal cards from the Villain Deck until you reveal a Sakaar Imperial Guard. If you find one, play it. Either way, shuffle all the other revealed cards back into the Villain Deck. The Red King [b]Transforms[/b]."
+							},
+							{
+								"title": "Treasury of Sakaar",
+								"Fight": "You get +1 Recruit for each Sakaar Imperial Guard and Red King Tactic in your Victory Pile, including this one. The Red King [b]Transforms[/b]."
+							},
+							{
+								"title": "Vast Armies of Sakaar",
+								"Fight": "If this is not the final Tactic, reveal the top three cards of the Villain Deck. Play all the Villains you revealed. Put the rest back in random order. The Red King [b]Transforms[/b]."
+							}
+						]
+					}
+				},
+				{
+					"The Sentry": {
+						"Start of Game": "Shuffle 2 Wounds into each player's deck before drawing starting hands.",
+						"Always Leads": "Aspects of the Void.",
+						"Master Strike": "The Sentry [b]Transforms[/b], then [b]Cross-Dimensional Void Rampage[/b].",
+						"Attack": "10",
+						"VP": "6",
+						"transformation": {
+							"The Void [COLOR=#FF0000](Mastermind, Transformed)[/COLOR]": {
+								"keyword": "Wounded Fury",
+								"Master Strike": "[b]Feast[/b] on each player. If this feasts on a player's grey Hero, that player gains a Wound. The Void [b]Transforms[/b].",
+								"Attack": "11+",
+								"VP": "6"
+							}
+						},
+
+						"Mastermind Tactics": [
+							{
+								"title": "Pacifying Light",
+								"Fight": "Each other player reveals their hand and discard two cards with Recruit icons. This Mastermind [b]Transforms[/b]."
+							},
+							{
+								"title": "Power of a Million Exploding Suns",
+								"Fight": "Put all Heroes from the HQ on the bottom of the Hero Deck. Each other player reveals their hand and discards each card with the same card name as any of those cards. This Mastermind [b]Transforms[/b]."
+							},
+							{
+								"title": "Reflexive Teleportation",
+								"Fight": "Choose one of your Heroes that costs 5 or less. When you draw a new hand of cards at the end of this turn, add that Hero to your hand as an extra card. This Mastermind [b]Transforms[/b]."
+							},
+							{
+								"title": "Repressed Darkness",
+								"Fight": "Each other player reveals a [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Hero or plays an Aspects of the Void Villain from their Victory Pile as if playing it from the Villain Deck. This Mastermind [b]Transforms[/b]."
+							}
+						]
+					}
+				}
+
+			]
+		},
+		{
+			"Marvel Studios Phase 1": [
+
+				{
+					"Iron Monger": {
+
+						"keyword": "Bank Conqueror 4",
+						"Always Leads": "Iron Foes",
+						"Master Strike": "If there is a Villain in the Bank, each player gains a Wound. Otherwise, put this Master Strike into the Bank as a 6 Attack 'StaneTech Weaponry' Villain worth 4VP.",
+						"Attack": "9+",
+						"VP": "5",
+
+						"Mastermind Tactics": [
+							{
+								"title": "Hostile Takeover",
+								"Fight": "If there are no Villains in the bank, reveal the top card of the Villain Deck. If it’s a Villain, it enters the Bank."
+							},
+							{
+								"title": "Overloaded Arsenal ",
+								"Fight": "Each other player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or gains a Wound. Then each other player reveals a [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Hero or gains a Wound."
+							},
+							{
+								"title": "Sonic Stunner",
+								"Fight": "Each other player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or discards down to 4 cards."
+							},
+							{
+								"title": "Unexpected Betrayal ",
+								"Fight": "If the Bank is empty, the player on your right chooses a Villain from their Victory Pile. That Villain enters the Bank.[/q]"
+							}
+						]
+					}
+				},
+				{
+					"Loki": {
+
+						"Always Leads": "Enemies of Asgard",
+						"Master Strike": "Each player reveals a [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero or gains a Wound",
+						"Attack": "10",
+			 			"VP": "5",
+			 
+						"Mastermind Tactics": [
+							{
+								"title": "Cruel Ruler",
+								"Fight": "Defeat a Villain in the City for free."
+							},
+							{
+								"title": "Maniacal Tyrant",
+								"Fight": "KO up to four cards from your discard pile."
+							},
+							{
+								"title": "Vanishing Illusions",
+								"Fight": "Each other player KOs a Villain from their Victory Pile."
+							},
+							{
+								"title": "Whispers and Lies",
+								"Fight": "Each other player KOs two Bystanders from their Victory Pile."
+							}
+						]
+					}
+				},
+				{
+					"Red Skull": {
+
+						"Always Leads": "HYDRA",
+						"Master Strike": "Each player KOs a Hero from their hand.",
+						"Attack": "7",
+			 			"VP": "5",
+			 
+						"Mastermind Tactics": [
+							{
+								"title": "Endless Resources",
+								"Fight": "You get +4 Recruit."
+							},
+							{
+								"title": "HYDRA Conspiracy",
+								"Fight": "Draw two cards. Then draw another card for each HYDRA Villain in your Victory Pile."
+							},
+							{
+								"title": "Negablast Grenades",
+								"Fight": "You get +3 Attack."
+							},
+							{
+								"title": "Ruthless Dictator",
+								"Fight": "Look at the top three cards of your deck. KO one, discard one and put one back on top of your deck."
+							}
+						]
+					}
+				}
+
+			]
+		},
+		{
+			"Ant-Man": [
+
+				{
+					"Ultron": {
+
+						"Always Leads": "Ultron's Legacy",
+						"Master Strike": "Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or puts a non-grey Hero from their discard pile into a \"Threat Analysis pile\" next to Ultron. Ultron is [b]Empowered[/b] by each color in his Threat Analysis pile.",
+						"Attack": "9+",
+			 			"VP": "6",
+			 
+			 			"Mastermind Tactics": [
+							{
+								"title": "Arrogant Blindspot",
+								"Fight": "You may gain a Hero from Ultron's Threat Analysis pile."
+							},
+							{
+								"title": "Paralyzing Encephalo-Ray",
+								"Fight": "Each other player reveals their hand and discards each card that has the same card name as any card in Ultron's Threat Analysis pile."
+							},
+							{
+								"title": "Predictive Analysis",
+								"Fight": "Put the top three cards of the Hero Deck into Ultron's Threat Analysis pile."
+							},
+							{
+								"title": "Self-Repairing Legions",
+								"Fight": "Each other player in turn reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or puts an Ultron's Legacy Villain from the Victory Pile into an empty city space."
+							}
+						]
+					}
+				},
+				{
+					"Epic Ultron": {
+
+						"Always Leads": "Ultron's Legacy",
+						"Master Strike": "Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or puts a non-grey Hero from their discard pile into a \"Threat Analysis pile\" next to Ultron. Ultron is [b]Triple Empowered[/b] by each color in his Threat Analysis pile.",
+						"Attack": "10+",
+			 			"VP": "6",
+
+			 			"Mastermind Tactics": [
+							{
+								"title": "Arrogant Blindspot",
+								"Fight": "You may gain a Hero from Ultron's Threat Analysis pile."
+							},
+							{
+								"title": "Paralyzing Encephalo-Ray",
+								"Fight": "Each other player reveals their hand and discards each card that has the same card name as any card in Ultron's Threat Analysis pile."
+							},
+							{
+								"title": "Predictive Analysis",
+								"Fight": "Put the top three cards of the Hero Deck into Ultron's Threat Analysis pile."
+							},
+							{
+								"title": "Self-Repairing Legions",
+								"Fight": "Each other player in turn reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or puts an Ultron's Legacy Villain from the Victory Pile into an empty city space."
+							}
+						]
+					}
+				},
+				{
+					"Morgana Le Fay": {
+
+						"keyword": "Chivalrous Duel",
+						"Always Leads": "Queen's Vengeance",
+						"Master Strike": "Each player in turn reveals a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero or gains a 0-cost Hero or Wound from the KO pile.",
+						"Attack": "7*",
+			 			"VP": "6",
+			 
+			  			"Mastermind Tactics": [
+							{
+								"title": "Reverse the Flow of Time",
+								"Fight": "For the rest of the game, players take turns in the opposite order around the table."
+							},
+							{
+								"title": "Sorcerous Blasts",
+								"Fight": "Each other player discards a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero or gains a Wound."
+							},
+							{
+								"title": "Stolen Tomes of Merlin",
+								"Fight": "You get +4 Recruit usable only for recruiting [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] and/or [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Heroes."
+							},
+							{
+								"title": "Transmogrify",
+								"Fight": "Each other player in turn KOs a non-grey Hero from their discard pile, then gains a card from the KO pile that has a lower cost."
+							}
+						]
+					}
+				},
+				{
+					"Epic Morgan Le Fay": {
+
+						"keyword": "Chivalrous Duel",
+						"Always Leads": "Queen's Vengeance",
+						"Master Strike": "Each player in turn gains a Wound, then gains a 0-cost Hero from the KO pile.",
+						"Attack": "9*",
+			 			"VP": "6",
+			 
+			 			"Mastermind Tactics": [
+							{
+								"title": "Reverse the Flow of Time",
+								"Fight": "For the rest of the game, players take turns in the opposite order around the table."
+							},
+							{
+								"title": "Sorcerous Blasts",
+								"Fight": "Each other player discards a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero or gains a Wound."
+							},
+							{
+								"title": "Stolen Tomes of Merlin",
+								"Fight": "You get +4 Recruit usable only for recruiting [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] and/or [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Heroes."
+							},
+							{
+								"title": "Transmogrify",
+								"Fight": "Each other player in turn KOs a non-grey Hero from their discard pile, then gains a card from the KO pile that has a lower cost."
+							}
+						]
+					}
+				}
+
+			]
+		},
+		{
+			"Venom": [
+
+				{
+					"Hybrid": {
+						"description": "If you fight Hybrid while he's bonded to a Villain, defeat that Villain and rescue three Bystanders instead of taking a Tactic.",
+						"Always Leads": "Life Foundation",
+						"Master Strike": "A Villain from the city [b]Symbiote Bonds[/b] with Hybrid, If Hybrid was already bonded, then each player gains a Wound instead.",
+						"Attack": "6",
+						"VP": "6",
+
+						"Mastermind Tactics": [
+							{
+								"title": "Alien Awakening",
+								"Fight": "If this is not the final tactic, a Henchman Villain from any Victory Pile [b]Symbiote Bonds[/b] with Hybrid."
+							},
+							{
+								"title": "Escaped Monstrosity",
+								"Fight": "If this is not the final Tactic, a Villain from the city or Escape Pile [b]Symbiote Bonds[/b] with Hybrid."
+							},
+							{
+								"title": "Life Foundation Research",
+								"Fight": "You get +1 Recruit for each Life Foundation Villain in your Victory Pile."
+							},
+							{
+								"title": "Symbiotic Call",
+								"Fight": "If this is not the final Tactic, reveal the top four cards of the Villain Deck. A Henchman Villain you revealed [b]Symbiote Bonds[/b] with Hybrid. Put the rest back in any order."
+							}
+						]
+					}
+				},
+				{
+					"Epic Hybrid": {
+						"description": "If you fight Hybrid while he's bonded to a Villain, defeat that Villain and rescue three Bystanders instead of taking a Tactic.",
+						"Always Leads": "Life Foundation",
+						"Master Strike": "The highest Attack unbonded Villain from the city and/or Escape Pile [b]Symbiote Bonds[/b] with Hybrid. If no new bond could occur, then each player gains a Wound instead.",
+						"Attack": "8",
+						"VP": "6",
+
+						"Mastermind Tactics": [
+							{
+								"title": "Alien Awakening",
+								"Fight": "If this is not the final tactic, a Henchman Villain from any Victory Pile [b]Symbiote Bonds[/b] with Hybrid."
+							},
+							{
+								"title": "Escaped Monstrosity",
+								"Fight": "If this is not the final Tactic, a Villain from the city or Escape Pile [b]Symbiote Bonds[/b] with Hybrid."
+							},
+							{
+								"title": "Life Foundation Research",
+								"Fight": "You get +1 Recruit for each Life Foundation Villain in your Victory Pile."
+							},
+							{
+								"title": "Symbiotic Call",
+								"Fight": "If this is not the final Tactic, reveal the top four cards of the Villain Deck. A Henchman Villain you revealed [b]Symbiote Bonds[/b] with Hybrid. Put the rest back in any order."
+							}
+						]
+					}
+				},
+				{
+					"Poison Thanos": {
+						"description": "Poison Thanos gets +1 Attack for each different cost among cards in his \"Poisoned Souls\" pile.",
+						"Always Leads": "Poisons",
+						"Master Strike": "Each player reveals their hand and puts one of their non-grey Heroes next to Thanos in a \"Poisoned Souls: pile.\"",
+						"Attack": "12+",
+						"VP": "7",
+
+						"Mastermind Tactics": [
+							{
+								"title": "Desperate Rescue",
+								"Fight": "You may gain a Hero from Poison Thanos' \"Poisoned Souls\" pile."
+							},
+							{
+								"title": "Poisoned Loyalties",
+								"Fight": "Each other player puts a Poisons card from their discard pile into Poison Thanos' \"Poisoned Souls\" pile."
+							},
+							{
+								"title": "Searing Poisons",
+								"Fight": "Each other player discards a Poisons card from their hand or gains a Wound."
+							},
+							{
+								"title": "Soul Seize",
+								"Fight": "Put all Heroes that cost 5 or more from the HQ into Poison Thanos' \"Poisoned Souls\" pile."
+							}
+						]
+					}
+				},
+				{
+					"Epic Poison Thanos": {
+						"description": "Poison Thanos gets +2 Attack for each different cost among cards in his \"Poisoned Souls\" pile.",
+						"Always Leads": "Poisons",
+						"Master Strike": "Each player reveals their hand and puts half (round up) of their non-grey Heroes net to Thanos in a \"Poisoned Souls\" pile. Each player that lost no Heroes this way gains a Wound.",
+						"Attack": "13+",
+						"VP": "7",
+
+						"Mastermind Tactics": [
+							{
+								"title": "Desperate Rescue",
+								"Fight": "You may gain a Hero from Poison Thanos' \"Poisoned Souls\" pile."
+							},
+							{
+								"title": "Poisoned Loyalties",
+								"Fight": "Each other player puts a Poisons card from their discard pile into Poison Thanos' \"Poisoned Souls\" pile."
+							},
+							{
+								"title": "Searing Poisons",
+								"Fight": "Each other player discards a Poisons card from their hand or gains a Wound."
+							},
+							{
+								"title": "Soul Seize",
+								"Fight": "Put all Heroes that cost 5 or more from the HQ into Poison Thanos' \"Poisoned Souls\" pile."
+							}
+						]
+					}
+				}
+
+			]
+		},
+		{
+			"Dimensions": [
+
+				{
+					"J. Jonah Jameson": {
+
+						"Start of Game": "Put 2 S.H.I.E.L.D. Officers per player into a face down \"Angry Mobs\" stack.",
+						"Special Rules": "You can spend 4 Attack to reveal a random Angry Mob and put it into any player's discard pile. You can't fight J. Jonah Jameson while he has Angry Mobs.",
+						"Always Leads": "Spider-Slayers",
+						"Master Strike": "Each player [b]Investigates[/b] their deck for a card and puts it into the Angry Mobs stack.",
+						"Attack": "4*",
+			 			"VP": "5",
+			 
+			 			"Mastermind Tactics": [
+							{
+								"title": "Incite Violent Riots",
+								"Fight": "Each player puts a Wound from the Wound Stack into the Angry Mobs stack."
+							},
+							{
+								"title": "Promote Spider-Slayer Security",
+								"Fight": "Each other player puts a Spider-Slayer from their Victory Pile into the Angry Mobs stack. When a Spider-Slayer is revealed from the Angry Mobs, it enters the city."
+							},
+							{
+								"title": "Slanderous Editorial",
+								"Fight": "Each other player [b]Investigates[/b] their deck for a non-grey Hero and puts it into the Angry Mobs stack. Players reveal all the cards they investigated."
+							},
+							{
+								"title": "That Menace Spider-Man!",
+								"Fight": "Each other player reveals their hand and discard a Spider-Friends Hero. Any player who cannot must instead put a non-grey card from their hand into the Angry Mobs stack."
+							}
+						]
+			 		}
+				},
+				{
+					"Epic J. Jonah Jameson": {
+
+						"Start of Game": "Put 3 S.H.I.E.L.D. Officers per player into a face down \"Angry Mobs\" stack.",
+						"Special Rules": "You can spend 5 Attack to reveal a random Angry Mob and put it into any player's discard pile. You can't fight J. Jonah Jameson while he has Angry Mobs.",
+						"Always Leads": "Spider-Slayers",
+						"Master Strike": "Each player [b]Investigates[/b] their deck for a card and puts it into the Angry Mobs stack. If that card cost 0, that player gains a Wound.",
+						"Attack": "5*",
+			 			"VP": "5",
+			 
+			 			"Mastermind Tactics": [
+							{
+								"title": "Incite Violent Riots",
+								"Fight": "Each player puts a Wound from the Wound Stack into the Angry Mobs stack."
+							},
+							{
+								"title": "Promote Spider-Slayer Security",
+								"Fight": "Each other player puts a Spider-Slayer from their Victory Pile into the Angry Mobs stack. When a Spider-Slayer is revealed from the Angry Mobs, it enters the city."
+							},
+							{
+								"title": "Slanderous Editorial",
+								"Fight": "Each other player [b]Investigates[/b] their deck for a non-grey Hero and puts it into the Angry Mobs stack. Players reveal all the cards they investigated."
+							},
+							{
+								"title": "That Menace Spider-Man!",
+								"Fight": "Each other player reveals their hand and discard a Spider-Friends Hero. Any player who cannot must instead put a non-grey card from their hand into the Angry Mobs stack."
+							}
+						]
+					}
+				}
+			]
 		}
-	}
-
-]
-},
-{
-"Champions": [
-
-	{
-		"Fin Fang Foom": {
-			"Size-Changing": "[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR], [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR], [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]",
-			"Always Leads": "Monsters Unleashed",
-			"Master Strike": "[b]Demolish[/b] each player, then do it again for each Monsters Unleashed Villain in the city and Escape Pile.",
-			"Attack": "20*",
-			"VP": "7",
-
-	},
-	{
-		"Epic Fin Fang Foom": {
-			"Size-Changing": "[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR], [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR], [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]",
-			"Always Leads": "Monsters Unleashed",
-			"Master Strike": "[b]Demolish[/b] each player, then do it again for each Monsters Unleashed Villain in the city and Escape Pile. KO all the Heroes [b]Demolished[/b] this way.",
-			"Attack": "24*",
-			"VP": "7",
-
-			"Mastermind Tactics": [
-				{
-					"title": "Alien Dragon Technology",
-					"Fight[/b]: A Hero in the HQ gets [b]Size-Changing": "[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR], [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR], [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] this turn.",
-				},
-				{
-					"title": "Flammable Acid Breath",
-					"Fight": "KO the top card of the Hero Deck. Then each other player KOs a Hero of that Hero class from their discard pile ([BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]).",
-				},
-				{
-					"title": "Multipronged Assault",
-					"Fight": "Each other player reveals at least 3 Hero Classes ([BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]) or gains a Wound.",
-				},
-				{
-					"title": "Supersonic Dive Attack",
-					"Fight": "KO the top card of the Hero Deck. Then each other player reveals their hand and discards a Hero of that Hero Class ([BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]).",
-				}
-			],
-		},
-	},
-	{
-		"Pagliacci": {
-			"Always Leads": "Wrecking Crew",
-			"Master Strike 1, 5": "This card becomes a Scheme Twist that takes effect immediately.",
-			"Master Strike 2, 3, 4": "[b]Demolish[/b] each player.",
-			"Attack": "9",
-			"VP": "6",
-
-	},
-	{
-		"Epic Pagliacci": {
-			"Always Leads": "Wrecking Crew",
-			"Master Strike 1, 3, 5": "This card becomes a Scheme Twist that takes effect immediately.",
-			"Master Strike 2, 4": "[b]Demolish[/b] each player.",
-			"Attack": "11",
-			"VP": "6",
-
-			"Mastermind Tactics": [
-				{
-					"title": "Commedia Dell'Morte",
-					"Fight": "Each other player may gain two Wounds. [b]Demolish[/b] each of those players who does not.",
-				},
-				{
-					"title": "Creative Assassin",
-					"Fight": "You get [b]Versatile 3[/b].",
-					"flavor": "As killer clowns go, Pagliacci is not one you want to find under your bed.",
-				},
-				{
-					"title": "Insane Clown Has a Posse",
-					"Fight": "Each other player may KO a Wrecking Crew Villain from their Victory Pile. [b]Demolish[/b] each of those players who does not.",
-				},
-				{
-					"title": "Jester of a Twisted Opera",
-					"Fight": "Each other player may KO a card from their discard pile that costs 1 or more. [b]Demolish[/b] each of those players who does not.",
-				}
-			]
-		}
-	}
-
-]
-},
-{
-"World War Hulk": [
-
-	{
-		"General Ross": {
-
-[b]Start of Game:[/b] Stack 8 Bystanders next to General Ross as "Helicopter" Villains with 2 Attack. You can fight them to rescue them as Bystanders. You can't fight General Ross while he has any Helicopters.
-			"Always Leads": "Code Red",
-			"Master Strike": " General Ross Transforms, then [b]Cross-Dimensional Hulk Rampage[/b].",
-			"Attack": "6*",
-			"VP": "6",
-
-	},
-	{
-		"Red Hulk [COLOR=#FF0000](Mastermind, Transformed)[/COLOR]": {
-
-[b]Wounded Fury[/b]
-You can't fight Helicopters, and they don't stop you from fighting Red Hulk.
-			"Master Strike": "Red Hulk [b]Transforms[/b], then stack a random Bystander from each player's Victory Pile next to this as a Helicopter. Each player who didn't have a Bystander gains a Wound instead.",
-			"Attack": "9+",
-			"VP": "6",
-
-			"Mastermind Tactics": [
-				{
-					"title": "Bust You Down to Private",
-					"Fight": "Each other player puts a non-grey Hero from their hand on the bottom of the Hero Deck, then puts a 0-cost Hero from the KO pile into their hand.",
-This Mastermind [b]Transforms[/b].
-				},
-				{
-					"title": "Call Out the Army",
-					"Fight": "Put 3 Bystanders from the Bystander Stack next to this Mastermind as \"Helicopters.\"",
-This Mastermind [b]Transforms[/b].
-				},
-				{
-					"title": "Personal Arsenal",
-					"Fight": "For each Master Strike in the KO pile, put a Bystander from the Bystander Stack next to the Mastermind as a \"Helicopter.\"",
-This Mastermind [b]Transforms[/b].
-				},
-				{
-					"title": "Urban Warfare",
-					"Fight": "Put a random Bystander next to the Mastermind as a \"Helicopter\" from each of these places: The Bystander Stack, the Escape Pile, each city space, and each other player's Victory Pile.",
-This Mastermind [b]Transforms[/b].
-				}
-			]
-		},
-	},
-	{
-		"Illuminati, Secret Society": {
-
-This Mastermind gets +4 Attack unless you [b]Outwit[/b] them.
-			"Always Leads": "Illuminati.",
-			"Master Strike": "Each player reveals their hand and discards two cards that each cost between 1 and 4. The Illuminati [b]Transform[/b].",
-			"Attack": "11+",
-			"VP": "7",
-
-	},
-	{
-		"Illuminati, Open Warfare [COLOR=#FF0000](Mastermind, Transformed)[/COLOR]": {
-
-Whenever a card effect causes a player to draw any number of cards, that player must then also discard a card.
-			"Master Strike": "Each player reveals their hand and discards two cards that each cost between 5 and 8. The Illuminati [b]Transform[/b].",
-			"Attack": "13",
-			"VP": "7",
-
-			"Mastermind Tactics": [
-				{
-					"title": "Black Bolt's Omni-Shout",
-					"Fight": "Each other player reveals their hand and discards two cards with no rules text.",
-The Illuminati [b]Transform[/b].
-				},
-				{
-					"title": "Dr. Strange's Orb of Agamotto",
-					"Fight": "Each other player reveals their hand and discards a [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] or [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] Hero.",
-The Illuminati [b]Transform[/b].
-				},
-				{
-					"title": "Hulkbuster's Hammer Fist",
-					"Fight": "Each other player reveals their hand and KOs a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] or [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero from their hand or discard pile.",
-The Illuminati [b]Transform[/b].
-				},
-				{
-					"title": "Zom's Manacles of Living Bondage",
-					"Fight": "Each other player reveals a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero or gains a Wound.",
-The Illuminati [b]Transform[/b].
-				}
-			]
-		},
-	},
-	{
-		"King Hulk, Sakaarson": {
-
-King Hulk gets +1 Attack for each Warbound Villain in the city and in the Escape Pile.
-			"Always Leads": "Warbound.",
-			"Master Strike": "Each player KO's a Warbound Villain from their Victory Pile or gains a Wound. King Hulk [b]Transforms[/b].",
-			"Attack": "9+",
-			"VP": "6",
-
-	},
-	{
-		"King Hulk, Worldbreaker [COLOR=#FF0000](Mastermind, Transformed}[/COLOR]": {
-
-[b]Wounded Fury[/b]
-			"Master Strike": "Each player reveals their hand, then KO's a card from their hand or discard pile that has the same card name as a card in the HQ. King Hulk [b]Transforms[/b].",
-			"Attack": "10+",
-			"VP": "6",
-
-			"Mastermind Tactics": [
-				{
-					"title": "Fury of the Green Scar",
-					"Fight": "Each other player reveals their hand and discards a Hero that isn't grey and isn't [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR].",
-King Hulk [b]Transforms[/b].
-				},
-				{
-					"title": "Oath of the Warbound",
-					"Fight": "The Villain in the Escape Pile with the highest printed Attack enters the Sewers.",
-King Hulk [b]Transforms[/b].
-				},
-				{
-					"title": "Revenge From the Stars",
-					"Fight": "After you put this in your Victory Pile, [b]Cross-Dimensional Hulk Rampage[/b].",
-King Hulk [b]Transforms[/b].
-				},
-				{
-					"title": "Rule By the Strongest",
-					"Fight": "You get +1 Recruit for each of your [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Heroes.",
-King Hulk [b]Transforms[/b].
-				}
-			]
-		},
-	},
-	{
-		"M.O.D.O.K.": {
-All cards' [b]Outwit[/b] abilities require four different costs instead of three.
-			"Always Leads": "Intelligencia.",
-			"Master Strike": "Each player who can't [b]Outwit[/b] M.O.D.O.K. gains a Wound, then M.O.D.O.K. [b]Transforms[/b].",
-			"Attack": "9",
-			"VP": "6",
-
-	},
-	{
-		"M.O.D.O.K., Network Nightmare [COLOR=#FF0000](Mastermind, Transformed)[/COLOR]": {
-You can only fight M.O.D.O.K with Recruit, not Attack.
-			"Master Strike": "Each player who can't [b]Outwit[/b] M.O.D.O.K. KO's a non-grey Hero from their discard pile. M.O.D.O.K. [b]Transforms[/b].",
-			"Attack": "8*",
-			"VP": "6",
-
-			"Mastermind Tactics": [
-				{
-					"title": "Brain Scramble",
-					"Fight": "Each other player discards their hand, then draws as many cards as they discarded.",
-M.O.D.O.K. [b]Transforms[/b].
-				},
-				{
-					"title": "Designed Only For...K.O.ING",
-					"Fight": "Reveal the top three cards of your deck. KO one of them, draw one, and discard one.",
-M.O.D.O.K. [b]Transforms[/b].
-				},
-				{
-					"title": "Don't Get a Big head About It",
-					"Fight": "Draw a card for each Intelligencia Villain in your Victory Pile.",
-M.O.D.O.K. [b]Transforms[/b].
-				},
-				{
-					"title": "Redundancy Algorithim",
-					"Fight": "Each other player reveals their hand and discards two cards that hand the same cost.",
-M.O.D.O.K. [b]Transforms[/b].
-				}
-			]
-		},
-	},
-	{
-		"The Red King": {
-You can't fight the Red King while any Villains are in the city.
-			"Always Leads": "Sakaar Imperial Guard.",
-			"Master Strike": "The Red King [b]Transforms[/b], then each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] card or gains a Wound.",
-			"Attack": "7*",
-			"VP": "6",
-
-	},
-	{
-		"The Red King, Power Armored [COLOR=#FF0000](Mastermind, Transformed)[/COLOR]": {
-			"Master Strike": "The Red King Transforms, then play another card from the Villain Deck.",
-			"Attack": "10",
-			"VP": "6",
-
-			"Mastermind Tactics": [
-				{
-					"title": "Haughty Spite",
-					"Fight": "Each other player without a Red King Tactic in their Victory Pile gains a Wound.",
-The Red King [b]Transforms[/b].
-				},
-				{
-					"title": "Royal Bodyguard",
-					"Fight": "Reveal cards from the Villain Deck until you reveal a Sakaar Imperial Guard. If you find one, play it. Either way, shuffle all the other revealed cards back into the Villain Deck.",
-The Red King [b]Transforms[/b].
-				},
-				{
-					"title": "Treasury of Sakaar",
-					"Fight": "You get +1 Recruit for each Sakaar Imperial Guard and Red King Tactic in your Victory Pile, including this one.",
-The Red King [b]Transforms[/b].
-				},
-				{
-					"title": "Vast Armies of Sakaar",
-					"Fight": "If this is not the final Tactic, reveal the top three cards of the Villain Deck. Play all the Villains you revealed. Put the rest back in random order.",
-The Red King [b]Transforms[/b].
-				}
-			]
-		},
-	},
-	{
-		"The Sentry": {
-			"Start of Game": "Shuffle 2 Wounds into each player's deck before drawing starting hands.",
-			"Always Leads": "Aspects of the Void.",
-			"Master Strike": "The Sentry [b]Transforms[/b], then [b]Cross-Dimensional Void Rampage[/b].",
-			"Attack": "10",
-			"VP": "6",
-
-	},
-	{
-		"The Void [COLOR=#FF0000](Mastermind, Transformed)[/COLOR]": {
-[b]Wounded Fury[/b]
-			"Master Strike": "[b]Feast[/b] on each player. If this feasts on a player's grey Hero, that player gains a Wound.",
-The Void [b]Transforms[/b].
-			"Attack": "11+",
-			"VP": "6",
-
-			"Mastermind Tactics": [
-				{
-					"title": "Pacifying Light",
-					"Fight": "Each other player reveals their hand and discard two cards with Recruit icons.",
-This Mastermind [b]Transforms[/b].
-				},
-				{
-					"title": "Power of a Million Exploding Suns",
-					"Fight": "Put all Heroes from the HQ on the bottom of the Hero Deck. Each other player reveals their hand and discards each card with the same card name as any of those cards.",
-This Mastermind [b]Transforms[/b].
-				},
-				{
-					"title": "Reflexive Teleportation",
-					"Fight": "Choose one of your Heroes that costs 5 or less. When you draw a new hand of cards at the end of this turn, add that Hero to your hand as an extra card.",
-This Mastermind [b]Transforms[/b].
-				},
-				{
-					"title": "Repressed Darkness",
-					"Fight": "Each other player reveals a [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Hero or plays an Aspects of the Void Villain from their Victory Pile as if playing it from the Villain Deck.",
-This Mastermind [b]Transforms[/b].
-				}
-			]
-		}
-	}
-
-]
-},
-{
-"Marvel Studios Phase 1": [
-
-	{
-		"Iron Monger": {
-
-[b]Bank Conqueror 4[/b]
-			"Always Leads": "Iron Foes",
-			"Master Strike": "If there is a Villain in the Bank, each player gains a Wound. Otherwise, put this Master Strike into the Bank as a 6 Attack 'StaneTech Weaponry' Villain worth 4VP.",
-			"Attack": "9+",
-			"VP": "5",
-
-			"Mastermind Tactics": [
-				{
-					"title": "Hostile Takeover",
-					"Fight": "If there are no Villains in the bank, reveal the top card of the Villain Deck. If it’s a Villain, it enters the Bank.",
-				},
-				{
-					"title": "Overloaded Arsenal ",
-					"Fight": "Each other player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or gains a Wound. Then each other player reveals a [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Hero or gains a Wound.",
-				},
-				{
-					"title": "Sonic Stunner",
-					"Fight": "Each other player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or discards down to 4 cards.",
-				},
-				{
-					"title": "Unexpected Betrayal ",
-					"Fight": "If the Bank is empty, the player on your right chooses a Villain from their Victory Pile. That Villain enters the Bank.[/q]",
-				},
-			]
-		},
-	},
-	{
-		"Loki": {
-
-			"Always Leads": "Enemies of Asgard",
-			"Master Strike": "Each player reveals a [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero or gains a Wound",
-			"Attack": "10",
- 			"VP": "5",
- 
-			"Mastermind Tactics": [
-				{
-					"title": "Cruel Ruler",
-					"Fight": "Defeat a Villain in the City for free.",
-				},
-				{
-					"title": "Maniacal Tyrant",
-					"Fight": "KO up to four cards from your discard pile.",
-				},
-				{
-					"title": "Vanishing Illusions",
-					"Fight": "Each other player KOs a Villain from their Victory Pile.",
-				},
-				{
-					"title": "Whispers and Lies",
-					"Fight": "Each other player KOs two Bystanders from their Victory Pile.",
-				}
-			],
-		},
-	},
-	{
-		"Red Skull": {
-
-			"Always Leads": "HYDRA",
-			"Master Strike": "Each player KOs a Hero from their hand.",
-			"Attack": "7",
- 			"VP": "5",
- 
-			"Mastermind Tactics": [
-				{
-					"title": "Endless Resources",
-					"Fight": "You get +4 Recruit.",
-				},
-				{
-					"title": "HYDRA Conspiracy",
-					"Fight": "Draw two cards. Then draw another card for each HYDRA Villain in your Victory Pile.",
-				},
-				{
-					"title": "Negablast Grenades",
-					"Fight": "You get +3 Attack.",
-				},
-				{
-					"title": "Ruthless Dictator",
-					"Fight": "Look at the top three cards of your deck. KO one, discard one and put one back on top of your deck.",
-				}
-			],
-		}
-	}
-
-]
-},
-{
-"Ant-Man": [
-
-	{
-		"Ultron": {
-
-			"Always Leads": "Ultron's Legacy",
-			"Master Strike": "Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or puts a non-grey Hero from their discard pile into a \"Threat Analysis pile\" next to Ultron. Ultron is [b]Empowered[/b] by each color in his Threat Analysis pile.",
-			"Attack": "9+",
- 			"VP": "6",
- 
-	},
-	{
-		"Epic Ultron": {
-
-			"Always Leads": "Ultron's Legacy",
-			"Master Strike": "Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or puts a non-grey Hero from their discard pile into a \"Threat Analysis pile\" next to Ultron. Ultron is [b]Triple Empowered[/b] by each color in his Threat Analysis pile.",
-			"Attack": "10+",
- 			"VP": "6",
-
- 			"Mastermind Tactics": [
-				{
-					"title": "Arrogant Blindspot",
-					"Fight": "You may gain a Hero from Ultron's Threat Analysis pile.",
-				},
-				{
-					"title": "Paralyzing Encephalo-Ray",
-					"Fight": "Each other player reveals their hand and discards each card that has the same card name as any card in Ultron's Threat Analysis pile.",
-				},
-				{
-					"title": "Predictive Analysis",
-					"Fight": "Put the top three cards of the Hero Deck into Ultron's Threat Analysis pile.",
-				},
-				{
-					"title": "Self-Repairing Legions",
-					"Fight": "Each other player in turn reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or puts an Ultron's Legacy Villain from the Victory Pile into an empty city space.",
-				},
-			]
-		},
-	},
-	{
-		"Morgana Le Fay": {
-
-[b]Chivalrous Duel[/b]
-			"Always Leads": "Queen's Vengeance",
-			"Master Strike": "Each player in turn reveals a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero or gains a 0-cost Hero or Wound from the KO pile.",
-			"Attack": "7*",
- 			"VP": "6",
- 
-		},
-	},
-	{
-		"Epic Morgan Le Fay": {
-
-[b]Chivalrous Duel[/b]
-			"Always Leads": "Queen's Vengeance",
-			"Master Strike": "Each player in turn gains a Wound, then gains a 0-cost Hero from the KO pile.",
-			"Attack": "9*",
- 			"VP": "6",
- 
- 			"Mastermind Tactics": [
-				{
-					"title": "Reverse the Flow of Time",
-					"Fight": "For the rest of the game, players take turns in the opposite order around the table.",
-				},
-				{
-					"title": "Sorcerous Blasts",
-					"Fight": "Each other player discards a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero or gains a Wound.",
-				},
-				{
-					"title": "Stolen Tomes of Merlin",
-					"Fight": "You get +4 Recruit usable only for recruiting [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] and/or [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Heroes.",
-				},
-				{
-					"title": "Transmogrify",
-					"Fight": "Each other player in turn KOs a non-grey Hero from their discard pile, then gains a card from the KO pile that has a lower cost.",
-				},
-			]
-		}
-	}
-
-]
-},
-{
-"Venom": [
-
-	{
-		"Hybrid": {
-If you fight Hybrid while he's bonded to a Villain, defeat that Villain and rescue three Bystanders instead of taking a Tactic.
-			"Always Leads": "Life Foundation",
-			"Master Strike": "A Villain from the city [b]Symbiote Bonds[/b] with Hybrid, If Hybrid was already bonded, then each player gains a Wound instead.",
-			"Attack": "6",
-			"VP": "6",
-
-	},
-	{
-		"Epic Hybrid": {
-If you fight Hybrid while he's bonded to a Villain, defeat that Villain and rescue three Bystanders instead of taking a Tactic.
-			"Always Leads": "Life Foundation",
-			"Master Strike": "The highest Attack unbonded Villain from the city and/or Escape Pile [b]Symbiote Bonds[/b] with Hybrid. If no new bond could occur, then each player gains a Wound instead.",
-			"Attack": "8",
-			"VP": "6",
-
-			"Mastermind Tactics": [
-				{
-					"title": "Alien Awakening",
-					"Fight": "If this is not the final tactic, a Henchman Villain from any Victory Pile [b]Symbiote Bonds[/b] with Hybrid.",
-				},
-				{
-					"title": "Escaped Monstrosity",
-					"Fight": "If this is not the final Tactic, a Villain from the city or Escape Pile [b]Symbiote Bonds[/b] with Hybrid.",
-				},
-				{
-					"title": "Life Foundation Research",
-					"Fight": "You get +1 Recruit for each Life Foundation Villain in your Victory Pile.",
-				},
-				{
-					"title": "Symbiotic Call",
-					"Fight": "If this is not the final Tactic, reveal the top four cards of the Villain Deck. A Henchman Villain you revealed [b]Symbiote Bonds[/b] with Hybrid. Put the rest back in any order.",
-				},
-			]
-		},
-	},
-	{
-		"Poison Thanos": {
-Poison Thanos gets +1 Attack for each different cost among cards in his \"Poisoned Souls\" pile.
-			"Always Leads": "Poisons",
-			"Master Strike": "Each player reveals their hand and puts one of their non-grey Heroes next to Thanos in a \"Poisoned Souls: pile.\"",
-			"Attack": "12+",
-			"VP": "7",
-
-			"Mastermind Tactics": [
-				{
-					"title": "Desperate Rescue",
-					"Fight": "You may gain a Hero from Poison Thanos' \"Poisoned Souls\" pile.",
-				},
-				{
-					"title": "Poisoned Loyalties",
-					"Fight": "Each other player puts a Poisons card from their discard pile into Poison Thanos' \"Poisoned Souls\" pile.",
-				},
-				{
-					"title": "Searing Poisons",
-					"Fight": "Each other player discards a Poisons card from their hand or gains a Wound.",
-				},
-				{
-					"title": "Soul Seize",
-					"Fight": "Put all Heroes that cost 5 or more from the HQ into Poison Thanos' \"Poisoned Souls\" pile.",
-				},
-			]
-		}
-	},
-	{
-		"Epic Poison Thanos": {
-Poison Thanos gets +2 Attack for each different cost among cards in his \"Poisoned Souls\" pile.
-			"Always Leads": "Poisons",
-			"Master Strike": "Each player reveals their hand and puts half (round up) of their non-grey Heroes net to Thanos in a \"Poisoned Souls\" pile. Each player that lost no Heroes this way gains a Wound.",
-			"Attack": "13+",
-			"VP": "7",
-
-			"Mastermind Tactics": [
-				{
-					"title": "Desperate Rescue",
-					"Fight": "You may gain a Hero from Poison Thanos' \"Poisoned Souls\" pile.",
-				},
-				{
-					"title": "Poisoned Loyalties",
-					"Fight": "Each other player puts a Poisons card from their discard pile into Poison Thanos' \"Poisoned Souls\" pile.",
-				},
-				{
-					"title": "Searing Poisons",
-					"Fight": "Each other player discards a Poisons card from their hand or gains a Wound.",
-				},
-				{
-					"title": "Soul Seize",
-					"Fight": "Put all Heroes that cost 5 or more from the HQ into Poison Thanos' \"Poisoned Souls\" pile.",
-				},
-			]
-		}
-	}
-
-]
-},
-{
-"Dimensions": [
-
-	{
-		"J. Jonah Jameson": {
-
-			"Start of Game": "Put 2 S.H.I.E.L.D. Officers per player into a face down \"Angry Mobs\" stack.",
-			"Special Rules": "You can spend 4 Attack to reveal a random Angry Mob and put it into any player's discard pile. You can't fight J. Jonah Jameson while he has Angry Mobs.",
-			"Always Leads": "Spider-Slayers",
-			"Master Strike": "Each player [b]Investigates[/b] their deck for a card and puts it into the Angry Mobs stack.",
-			"Attack": "4*",
- 			"VP": "5",
- 
- 			"Mastermind Tactics": [
-				{
-					"title": "Incite Violent Riots",
-					"Fight": "Each player puts a Wound from the Wound Stack into the Angry Mobs stack.",
-				},
-				{
-					"title": "Promote Spider-Slayer Security",
-					"Fight": "Each other player puts a Spider-Slayer from their Victory Pile into the Angry Mobs stack. When a Spider-Slayer is revealed from the Angry Mobs, it enters the city.",
-				},
-				{
-					"title": "Slanderous Editorial",
-					"Fight": "Each other player [b]Investigates[/b] their deck for a non-grey Hero and puts it into the Angry Mobs stack. Players reveal all the cards they investigated.",
-				},
-				{
-					"title": "That Menace Spider-Man!",
-					"Fight": "Each other player reveals their hand and discard a Spider-Friends Hero. Any player who cannot must instead put a non-grey card from their hand into the Angry Mobs stack.",
-				},
-			]
- 		}, 
-	},
-	{
-		"Epic J. Jonah Jameson": {
-
-			"Start of Game": "Put 3 S.H.I.E.L.D. Officers per player into a face down \"Angry Mobs\" stack.",
-			"Special Rules": "You can spend 5 Attack to reveal a random Angry Mob and put it into any player's discard pile. You can't fight J. Jonah Jameson while he has Angry Mobs.",
-			"Always Leads": "Spider-Slayers",
-			"Master Strike": "Each player [b]Investigates[/b] their deck for a card and puts it into the Angry Mobs stack. If that card cost 0, that player gains a Wound.",
-			"Attack": "5*",
- 			"VP": "5",
- 
- 			"Mastermind Tactics": [
-				{
-					"title": "Incite Violent Riots",
-					"Fight": "Each player puts a Wound from the Wound Stack into the Angry Mobs stack.",
-				},
-				{
-					"title": "Promote Spider-Slayer Security",
-					"Fight": "Each other player puts a Spider-Slayer from their Victory Pile into the Angry Mobs stack. When a Spider-Slayer is revealed from the Angry Mobs, it enters the city.",
-				},
-				{
-					"title": "Slanderous Editorial",
-					"Fight": "Each other player [b]Investigates[/b] their deck for a non-grey Hero and puts it into the Angry Mobs stack. Players reveal all the cards they investigated.",
-				},
-				{
-					"title": "That Menace Spider-Man!",
-					"Fight": "Each other player reveals their hand and discard a Spider-Friends Hero. Any player who cannot must instead put a non-grey card from their hand into the Angry Mobs stack.",
-				},
-			]
-		},
-
-]
+	]
 }
