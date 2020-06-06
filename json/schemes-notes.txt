@@ -1,0 +1,21 @@
+Schemes Notes
+
+
+Escape and quotes
+Search: "
+Replace: \\"
+
+First line of scheme ( },{ name: "name of scheme" )
+Search: \[size=10\]\[i\]\[b\](.+)\[\/b\]\[\/i\]\[\/size\]
+Replace: \t},\n\t{\n\t\t\"name\": \"$1\",
+
+
+Reformat most of rest of fields.
+Search: \[b\](.+)\[\/b\]: (.+)
+Search2: ^\[b\](.+):\[\/b\] (.+)
+Replace: \t\t"$1": "$2",
+
+Add set field
+Search: \t\t(\"name\": \".+,)
+Replace: \t\t$1\n\t\t\"set\": \"1234567890\",
+
