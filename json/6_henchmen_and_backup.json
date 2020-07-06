@@ -1,0 +1,246 @@
+[
+	{
+		"henchmen": "Doombot Legion",
+		"fight": "Look at the top two cards of your deck. KO one of them and put the other back.",
+		"attack": "3",
+		"VP": "1",
+		"set": "Core"
+	},
+	{
+		"henchmen": "Hand Ninjas",
+		"fight": "You get +1 Recruit.",
+		"attack": "3",
+		"VP": "1",
+		"set": "Core"
+	},
+	{
+		"henchmen": "Savage Land Mutates",
+		"fight": "When you draw a new hand of cards at the end of this turn, draw an extra card.",
+		"attack": "3",
+		"VP": "1",
+		"set": "Core"
+	},
+	{
+		"henchmen": "Sentinel",
+		"fight": "KO one of your Heroes.",
+		"attack": "3",
+		"VP": "1",
+		"set": "Core"	},
+	{
+		"henchmen": "Maggia Goons",
+		"keyword": "Bribe",
+		"fight": "KO one of your Heroes.",
+		"attack": "4*",
+		"VP": "1",
+		"set": "Dark City"
+	},
+	{
+		"henchmen": "Phalanx",
+		"fight": "Reveal a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or KO one of your Heroes with an Attack icon.",
+		"attack": "3",
+		"VP": "1",
+		"set": "Dark City"	},
+	{
+		"henchmen": "Asgardian Warriors",
+		"fight": "Draw a card.",
+		"attack": "3",
+		"VP": "1",
+		"set": "Villains"
+	},
+	{
+		"henchmen": "Cops",
+		"fight": "Gain a New Recruit.",
+		"attack": "3",
+		"VP": "1",
+		"set": "Villains"
+	},
+	{
+		"henchmen": "Multiple Man",
+		"fight": "KO one of your Allies for each other Multiple Man in your Victory Pile.",
+		"attack": "3",
+		"VP": "1",
+		"set": "Villains"
+	},
+	{
+		"henchmen": "S.H.I.E.L.D. Assault Squad",
+		"fight": "Discard the top card of your deck. Then KO an Ally from your discard pile.",
+		"attack": "3",
+		"VP": "1",
+		"set": "Villains"	},
+	{
+		"henchmen": "Ghost Racers",
+		"Ambush": "Rise of the Living Dead",
+		"fight": "Reveal a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero or KO one of your Heroes with an Attack icon.",
+		"attack": "3",
+		"VP": "1",
+		"set": "Secret Wars Volume 1"
+	},
+	{
+		"henchmen": "M.O.D.O.K.s",
+		"fight": "KO a Hero from your discard pile or the HQ. If that Hero has a Recruit icon, you get +1 Recruit.",
+		"attack": "3",
+		"VP": "1",
+		"set": "Secret Wars Volume 1"
+	},
+	{
+		"henchmen": "Thor Corps",
+		"fight": "Gain this as a Hero.",
+		"attack": "3",
+		"Team": "Avengers",
+		"Class": "[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]/[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]",
+		"description": "2+ Recruit - Strength - Ranged: You get +1 Recruit.",
+		"set": "Secret Wars Volume 1"	},
+	{
+		"henchmen": "Khonshu Guardians",
+		"description": "While in the Sewers, Rooftops or Bridge, this is in \"wolf form\" and gets +2 Attack.",
+		"fight": "KO one of your Heroes.",
+		"attack": "3",
+		"VP": "1",
+		"set": "Secret Wars Volume 2"
+	},
+	{
+		"henchmen": "Magma Men",
+		"fight": "KO one of your Heroes.",
+		"keyword": "Fateful Resurrection",
+		"attack": "3",
+		"VP": "1",
+		"set": "Secret Wars Volume 2"
+	},
+	{
+		"henchmen": "Spider-Infected",
+		"Ambush": "This captures a Bystander.",
+		"fight": "The next Hero you gain this turn has Wall-Crawl.",
+		"attack": "3",
+		"VP": "1",
+		"set": "Secret Wars Volume 2"	},
+	{
+		"henchmen": "Mandroid",
+		"description": "This gets +1 Attack for each other Mandroid in your Victory Pile.",
+		"fight": "KO one of your Heroes.",
+		"attack": "2+",
+		"VP": "1",
+		"set": "Civil War"
+	},
+	{
+		"henchmen": "Cape-Killers",
+		"keyword": "S.H.I.E.L.D. Clearance",
+		"fight": "KO a card from your discard pile.",
+		"attack": "3*",
+		"VP": "1",
+		"set": "Civil War"
+	},
+	{
+		"henchmen": "The Brood",
+		"description": "This Villain gets +1 Attack for each Bystander in the KO pile.",
+		"fight": "KO one of your Heroes. Then KO a Bystander from the Bystander Stack.",
+		"attack": "1+",
+		"VP": "1",
+		"set": "X-Men"
+	},
+	{
+		"henchmen": "Hellfire Cult",
+		"fight": "Reveal the top card of your deck. If it costs 0, KO it. Otherwise, you get +1 Recruit.",
+		"attack": "3",
+		"VP": "1",
+		"set": "X-Men"
+	},
+	{
+		"henchmen": "Sapien League",
+		"fight": "KO one of your Heroes. Then, reveal the top card of the Villain Deck. If it's a Henchman Villain, play it.",
+		"attack": "3",
+		"VP": "1",
+		"set": "X-Men"
+	},
+	{
+		"henchmen": "Shi'ar Death Commandos",
+		"Ambush": "The Villain captures a Human Shield.",
+		"fight": "KO one of your Heroes.",
+		"attack": "2*",
+		"VP": "1",
+		"set": "X-Men"
+	},
+	{
+		"henchmen": "Shi'ar Patrol Craft",
+		"fight": "The next Hero you recruit this turn has [b]Soaring Flight[/b].",
+		"attack": "3",
+		"VP": "1",
+		"set": "X-Men"
+	},
+	{
+		"henchmen": "Circus of Crime",
+		"fight": "Reveal the top card of your deck. If it costs 0, KO it. Otherwise, draw it.",
+		"attack": "3",
+		"VP": "1",
+		"set": "3D"
+	},
+	{
+		"henchmen": "Spider Slayer",
+		"fight": "Reveal the top two cards of your deck. Put any that cost 2 or less into your hand. Put the rest back in any order.",
+		"attack": "3",
+		"VP": "1",
+		"set": "3D"
+	},
+	{
+		"henchmen": "Cytoplasm Spikes",
+		"fight": "[b]Feast[/b]. If Cytoplasm Spikes feasts on a non-grey Hero, you get +2 Recruit.",
+		"attack": "3",
+		"VP": "1",
+		"set": "World War Hulk"
+	},
+	{
+		"henchmen": "Death's Heads",
+		"fight": "If you [b]Outwit[/b] these Death's Heads, KO one of your cards that costs 0.",
+		"attack": "3",
+		"VP": "1",
+		"set": "World War Hulk"
+	},
+	{
+		"henchmen": "Sakaaran Hivelings",
+		"fight": "Look at the top card of your deck. Put it back on the top or bottom. Then [b]Feast[/b].",
+		"attack": "3",
+		"VP": "1",
+		"set": "World War Hulk"
+	},
+	{
+		"henchmen": "Hammer Drone Army",
+		"fight": "KO one of your Heroes.",
+		"attack": "3",
+		"VP": "1",
+		"set": "Marvel Studios Phase 1"
+	},
+	{
+		"henchmen": "HYDRA Pilots",
+		"fight": "You get +1 Recruit.",
+		"attack": "3",
+		"VP": "1",
+		"set": "Marvel Studios Phase 1"
+	},
+	{
+		"henchmen": "HYDRA Spies",
+		"fight": "When you draw a new hand of cards at the end of this turn, draw an extra card.",
+		"attack": "3",
+		"VP": "1",
+		"set": "Marvel Studios Phase 1"
+	},
+	{
+		"henchmen": "Ten Rings Fanatics",
+		"fight": "Look at the top two cards of your deck. KO one of them and put the other back.",
+		"attack": "3",
+		"VP": "1",
+		"set": "Marvel Studios Phase 1"
+	},
+	{
+		"henchmen": "Circus of Crime",
+		"fight": "Reveal the top card of your deck. If it costs 0 Cost, KO it. Otherwise, draw it.",
+		"attack": "3",
+		"VP": "1",
+		"set": "Dimensions"
+	},
+	{
+		"henchmen": "Spider-Slayer",
+		"fight": "Reveal the top two cards of your deck. Put any that cost 2 Cost or less into your hand. Put the rest back in any order.",
+		"attack": "3",
+		"VP": "1",
+		"set": "Dimensions"
+	}
+]
