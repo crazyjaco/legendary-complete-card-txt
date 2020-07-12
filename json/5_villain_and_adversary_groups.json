@@ -1,0 +1,3843 @@
+[
+	{
+		"set": "Core",
+		"adversaryGroup": "Brotherhood",
+		"adversary": "Blob",
+		"quantity": "2",
+		"description": "You can't defeat Blob unless you have an X-Men Hero.",
+		"Attack": "4",
+		"VP": "2"
+	},
+	{
+		"set": "Core",
+		"adversaryGroup": "Brotherhood",
+		"adversary": "Juggernaut",
+		"quantity": "2",
+		"Ambush": "Each player KOs two Heroes from their discard pile.",
+		"Escape": "Each player KOs two Heroes from their hand.",
+		"Attack": "6",
+		"VP": "4"
+	},
+	{
+		"set": "Core",
+		"adversaryGroup": "Brotherhood",
+		"adversary": "Mystique",
+		"quantity": "2",
+		"Escape": "Mystique becomes a Scheme Twist that takes effect immediately.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "Core",
+		"adversaryGroup": "Brotherhood",
+		"adversary": "Sabretooth",
+		"quantity": "2",
+		"Fight": "Each player reveals an X-Men Hero or gains a Wound.",
+		"Escape": "Same effect.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "Core",
+		"adversaryGroup": "Enemies of Asgard",
+		"adversary": "Destroyer",
+		"quantity": "1",
+		"Fight": "KO all your S.H.I.E.L.D. Heroes.",
+		"Escape": "Each player KOs two of their Heroes.",
+		"Attack": "7",
+		"VP": "5"
+	},
+	{
+		"set": "Core",
+		"adversaryGroup": "Enemies of Asgard",
+		"adversary": "Enchantress",
+		"quantity": "2",
+		"Fight": "Draw three cards",
+		"Attack": "6",
+		"VP": "4"
+	},
+	{
+		"set": "Core",
+		"adversaryGroup": "Enemies of Asgard",
+		"adversary": "Frost Giant",
+		"quantity": "3",
+		"Fight": "Each player reveals a [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Hero or gains a Wound.",
+		"Escape": "Same effect.",
+		"Attack": "4",
+		"VP": "2"
+	},
+	{
+		"set": "Core",
+		"adversaryGroup": "Enemies of Asgard",
+		"adversary": "Ymir, Frost Giant King",
+		"quantity": "2",
+		"Ambush": "Each player reveals a [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Hero or gains a Wound.",
+		"Fight": "Choose a player. That player KOs any number of Wounds from their hand and discard pile.",
+		"Attack": "6",
+		"VP": "4"
+	},
+	{
+		"set": "Core",
+		"adversaryGroup": "HYDRA",
+		"adversary": "Endless Armies of HYDRA",
+		"quantity": "3",
+		"Fight": "Play the top two cards of the Villain Deck.",
+		"Attack": "4",
+		"VP": "3"
+	},
+	{
+		"set": "Core",
+		"adversaryGroup": "HYDRA",
+		"adversary": "HYDRA Kidnappers",
+		"quantity": "3",
+		"Fight": "You may gain a S.H.I.E.L.D. Officer.",
+		"Attack": "3",
+		"VP": "1"
+	},
+	{
+		"set": "Core",
+		"adversaryGroup": "HYDRA",
+		"adversary": "Supreme HYDRA",
+		"quantity": "1",
+		"description": "Supreme HYDRA is worth +3 VP for each other HYDRA Villain in your Victory Pile.",
+		"Attack": "6",
+		"VP": "3*"
+	},
+	{
+		"set": "Core",
+		"adversaryGroup": "HYDRA",
+		"adversary": "Viper",
+		"quantity": "1",
+		"Fight": "Each player without another HYDRA Villain in their Victory Pile gains a Wound.",
+		"Escape": "Same effect.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "Core",
+		"adversaryGroup": "Masters of Evil",
+		"adversary": "Baron Zemo",
+		"quantity": "2",
+		"Fight": "For each of your Avengers Heroes, rescue a Bystander.",
+		"Attack": "6",
+		"VP": "4"
+	},
+	{
+		"set": "Core",
+		"adversaryGroup": "Masters of Evil",
+		"adversary": "Melter",
+		"quantity": "2",
+		"Fight": "Each player reveals the top card of their deck. For each card, you choose to KO it or put it back.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "Core",
+		"adversaryGroup": "Masters of Evil",
+		"adversary": "Ultron",
+		"quantity": "2",
+		"description": "Ultron is worth +1 VP for each [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero you have among all your cards at the end of the game.",
+		"Escape": "Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or gains a Wound.",
+		"Attack": "6",
+		"VP": "2+"
+	},
+	{
+		"set": "Core",
+		"adversaryGroup": "Masters of Evil",
+		"adversary": "Whirlwind",
+		"quantity": "2",
+		"Fight": "If you fight Whirlwind on the Rooftops or Bridge, KO two of your Heroes.",
+		"Attack": "4",
+		"VP": "2"
+	},
+	{
+		"set": "Core",
+		"adversaryGroup": "Radiation",
+		"adversary": "Abomination",
+		"quantity": "2",
+		"Fight": "If you fight Abomination on the Streets or Bridge, rescue three Bystanders.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "Core",
+		"adversaryGroup": "Radiation",
+		"adversary": "The Leader",
+		"quantity": "2",
+		"Ambush": "Play the top card of the Villain Deck.",
+		"Attack": "4",
+		"VP": "2"
+	},
+	{
+		"set": "Core",
+		"adversaryGroup": "Radiation",
+		"adversary": "Maestro",
+		"quantity": "2",
+		"Fight": "For each of your [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Heroes, KO one of your Heroes.",
+		"Attack": "6",
+		"VP": "4"
+	},
+	{
+		"set": "Core",
+		"adversaryGroup": "Radiation",
+		"adversary": "Zzzax",
+		"quantity": "2",
+		"Fight": "Each player reveals a [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero or gains a Wound.",
+		"Escape": "Same effect.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "Core",
+		"adversaryGroup": "Skrulls",
+		"adversary": "Paibok the Power Skrull",
+		"quantity": "1",
+		"Fight": "Choose a Hero in the HQ for each player. Each player gains that Hero.",
+		"Attack": "8",
+		"VP": "3"
+	},
+	{
+		"set": "Core",
+		"adversaryGroup": "Skrulls",
+		"adversary": "Skrull Queen Veranke",
+		"quantity": "1",
+		"Ambush": "Put the highest-cost Hero from the HQ under this Villain. This Villain's Attack is equal to that Hero's Cost.",
+		"Fight": "Gain that Hero.",
+		"Attack": "*",
+		"VP": "4"
+	},
+	{
+		"set": "Core",
+		"adversaryGroup": "Skrulls",
+		"adversary": "Skrull Shapeshifters",
+		"quantity": "3",
+		"Ambush": "Put the rightmost Hero from the HQ under this Villain. This Villain's Attack is equal to that Hero's Cost.",
+		"Fight": "Gain that Hero",
+		"Attack": "*",
+		"VP": "2"
+	},
+	{
+		"set": "Core",
+		"adversaryGroup": "Skrulls",
+		"adversary": "Super-Skrull",
+		"quantity": "3",
+		"Fight": "Each player KOs one of their Heroes.",
+		"Attack": "4",
+		"VP": "2"
+	},
+	{
+		"set": "Core",
+		"adversaryGroup": "Spider-Foes",
+		"adversary": "Doctor Octopus",
+		"quantity": "2",
+		"Fight": "When you draw a new hand of cards at the end of this turn, draw eight cards instead of six.",
+		"Attack": "4",
+		"VP": "2"
+	},
+	{
+		"set": "Core",
+		"adversaryGroup": "Spider-Foes",
+		"adversary": "Green Goblin",
+		"quantity": "2",
+		"Ambush": "Green Goblin captures a Bystander.",
+		"Attack": "6",
+		"VP": "4"
+	},
+	{
+		"set": "Core",
+		"adversaryGroup": "Spider-Foes",
+		"adversary": "The Lizard",
+		"quantity": "2",
+		"Fight": "If you fight the Lizard in the Sewers, each other player gains a Wound.",
+		"Attack": "3",
+		"VP": "2"
+	},
+	{
+		"set": "Core",
+		"adversaryGroup": "Spider-Foes",
+		"adversary": "Venom",
+		"quantity": "2",
+		"description": "You can't defeat Venom unless you have a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero.",
+		"Escape": "Each player gains a Wound.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "Dark City",
+		"adversaryGroup": "Emissaries of Evil",
+		"adversary": "Egghead",
+		"quantity": "2",
+		"Ambush": "Reveal the top card of the Villain Deck. If it's a Villain, play it.",
+		"Attack": "4",
+		"VP": "2"
+	},
+	{
+		"set": "Dark City",
+		"adversaryGroup": "Emissaries of Evil",
+		"adversary": "Electro",
+		"quantity": "2",
+		"Ambush": "Reveal the top card of the Villain Deck. If it's a Scheme Twist, play it.",
+		"Attack": "6",
+		"VP": "4"
+	},
+	{
+		"set": "Dark City",
+		"adversaryGroup": "Emissaries of Evil",
+		"adversary": "Gladiator",
+		"quantity": "2",
+		"Ambush": "Reveal the top card of the Villain Deck. If it's a Bystander, Gladiator captures it.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "Dark City",
+		"adversaryGroup": "Emissaries of Evil",
+		"adversary": "Rhino",
+		"quantity": "2",
+		"Ambush": "Reveal the top card of the Villain Deck. If it's a Master Strike, each player gains a Wound.",
+		"Escape": "Each player gains a Wound.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "Dark City",
+		"adversaryGroup": "Four Horsemen",
+		"adversary": "Death",
+		"quantity": "2",
+		"Fight": "Each other player reveals their hand and KOs one of their Heroes that costs 1 or more.",
+		"Escape": "Each player does that same effect.",
+		"Attack": "7",
+		"VP": "5"
+	},
+	{
+		"set": "Dark City",
+		"adversaryGroup": "Four Horsemen",
+		"adversary": "Famine",
+		"quantity": "2",
+		"Fight": "Each other player reveals an [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] Hero or discards a card.",
+		"Escape": "Each player does that same effect.",
+		"Attack": "4",
+		"VP": "2"
+	},
+	{
+		"set": "Dark City",
+		"adversaryGroup": "Four Horsemen",
+		"adversary": "Pestilence",
+		"quantity": "2",
+		"Fight": "Each other player reveals the top three cards of their deck, discards each of those cards that costs 1 or more, and puts the rest back in any order.",
+		"Escape": "Each player does that same effect.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "Dark City",
+		"adversaryGroup": "Four Horsemen",
+		"adversary": "War",
+		"quantity": "2",
+		"Fight": "Each other player reveals an [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] Hero or gains a Wound.",
+		"Escape": "Each player does that same effect.",
+		"Attack": "6",
+		"VP": "4"
+	},
+	{
+		"set": "Dark City",
+		"adversaryGroup": "Marauders",
+		"adversary": "Blockbuster",
+		"quantity": "2",
+		"description": "Blockbuster gets +2 Attack for each Bystander he has.",
+		"Ambush": "If there is a Villain in the Bank that Villain and Blockbuster each capture a Bystander.",
+		"Attack": "4+",
+		"VP": "2"
+	},
+	{
+		"set": "Dark City",
+		"adversaryGroup": "Marauders",
+		"adversary": "Chimera",
+		"quantity": "2",
+		"description": "Chimera gets +3 Attack for each Bystander she has.",
+		"Ambush": "Reveal the top three cards of the Villain Deck. Chimera captures all the Bystander cards you revealed. Put the rest back in random order.",
+		"Attack": "3+",
+		"VP": "3"
+	},
+	{
+		"set": "Dark City",
+		"adversaryGroup": "Marauders",
+		"adversary": "Scalphunter",
+		"quantity": "2",
+		"description": "Scalphunter gets +1 Attack for each Bystander he has.",
+		"Ambush": "Each player chooses a Bystander from their Victory Pile. Scalphunter captures those Bystanders.",
+		"Attack": "4+",
+		"VP": "2"
+
+	},
+	{
+		"set": "Dark City",
+		"adversaryGroup": "Marauders",
+		"adversary": "Vertigo",
+		"quantity": "2",
+		"Fight": "Each player discards all the cards in their hand, then draws as many cards as they discarded.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "Dark City",
+		"adversaryGroup": "MLF",
+		"adversary": "Forearm",
+		"quantity": "2",
+		"description": "To fight Forearm, you must also reveal four Hero cards with different card names.",
+		"Attack": "4*",
+		"VP": "4"
+	},
+	{
+		"set": "Dark City",
+		"adversaryGroup": "MLF",
+		"adversary": "Reignfire",
+		"quantity": "2",
+		"Escape": "Reignfire becomes a Master Strike that takes effect immediately.",
+		"Attack": "6",
+		"VP": "4"
+	},
+	{
+		"set": "Dark City",
+		"adversaryGroup": "MLF",
+		"adversary": "Wildside",
+		"quantity": "2",
+		"Fight": "If you fight Wildside in the Sewers or Bank, KO two of your Heroes.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "Dark City",
+		"adversaryGroup": "MLF",
+		"adversary": "Zero",
+		"quantity": "2",
+		"description": "To fight Zero, you must also discard three cards that cost 0.",
+		"Attack": "0*",
+		"VP": "2"
+	},
+	{
+		"set": "Dark City",
+		"adversaryGroup": "MLF",
+		"adversary": "Bullseye",
+		"quantity": "2",
+		"Fight": "KO one of your Heroes with a Recruit icon and one of your Heroes with an Attack icon.",
+		"Attack": "6",
+		"VP": "4"
+	},
+	{
+		"set": "Dark City",
+		"adversaryGroup": "MLF",
+		"adversary": "Hammerhead",
+		"quantity": "2",
+		"keyword": "Bribe",
+		"Fight": "KO one of your Heroes with a Recruit icon.",
+		"Attack": "5*",
+		"VP": "2"
+	},
+	{
+		"set": "Dark City",
+		"adversaryGroup": "MLF",
+		"adversary": "Jigsaw",
+		"quantity": "2",
+		"Ambush": "Each player discards three cards, then draws two cards.",
+		"keyword": "Bribe",
+		"Attack": "11*",
+		"VP": "5"
+	},
+	{
+		"set": "Dark City",
+		"adversaryGroup": "MLF",
+		"adversary": "Tombstone",
+		"quantity": "2",
+		"keyword": "Bribe",
+		"Escape": "Each player reveals a [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero or gains a Wound.",
+		"Attack": "8*",
+		"VP": "4"
+	},
+	{
+		"set": "Dark City",
+		"adversaryGroup": "Underworld",
+		"adversary": "Azazel",
+		"quantity": "2",
+		"Fight": "A card in your hand gains Teleport this turn.",
+		"Attack": "4",
+		"VP": "2"
+	},
+	{
+		"set": "Dark City",
+		"adversaryGroup": "Underworld",
+		"adversary": "Blackheart",
+		"quantity": "2",
+		"Ambush": "The player to your right reveals a Marvel Knights Hero or gains a Wound.",
+		"Fight": "Same effect.",
+		"Escape": "Same effect.",
+		"Attack": "6",
+		"VP": "4"
+	},
+	{
+		"set": "Dark City",
+		"adversaryGroup": "Underworld",
+		"adversary": "Dracula",
+		"quantity": "2",
+		"Ambush": "Dracula captures the top card of the Hero Deck. Dracula gets + Attack equal to that card's Cost.",
+		"Fight": "Gain that card.",
+		"Attack": "3+",
+		"VP": "4"
+	},
+	{
+		"set": "Dark City",
+		"adversaryGroup": "Underworld",
+		"adversary": "Lilith, Daughter of Dracula",
+		"quantity": "2",
+		"Escape": "Each player without Dracula in their Victory Pile gains a Wound.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "Fantastic Four",
+		"adversaryGroup": "Heralds of Galactus",
+		"adversary": "Firelord",
+		"quantity": "2",
+		"keyword": "Cosmic Threat: [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]",
+		"Fight": "Each player reveals a [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Hero or gains a Wound.",
+		"Escape": "Same effect.",
+		"Attack": "9*",
+		"VP": "4"
+	},
+	{
+		"set": "Fantastic Four",
+		"adversaryGroup": "Heralds of Galactus",
+		"adversary": "Morg",
+		"quantity": "2",
+		"keyword": "Cosmic Threat: [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]",
+		"Ambush": "Put each non-[BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] Hero from the HQ on the bottom of the Hero Deck.",
+		"Attack": "12*",
+		"VP": "6"
+	},
+	{
+		"set": "Fantastic Four",
+		"adversaryGroup": "Heralds of Galactus",
+		"adversary": "Stardust",
+		"quantity": "2",
+		"keyword": "Cosmic Threat: [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]",
+		"Fight": "Choose one of your [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Heroes. When you draw a new hand of cards at the end of this turn, add that Hero to your hand as a seventh card.",
+		"Attack": "10*",
+		"VP": "5"
+	},
+	{
+		"set": "Fantastic Four",
+		"adversaryGroup": "Heralds of Galactus",
+		"adversary": "Terrax the Tamer",
+		"quantity": "2",
+		"keyword": "Cosmic Threat: [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]",
+		"Ambush": "For each [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero in the HQ, Terrax captures a Bystander.",
+		"Attack": "11*",
+		"VP": "5"
+	},
+	{
+		"set": "Fantastic Four",
+		"adversaryGroup": "Subterranea",
+		"adversary": "Giganto",
+		"quantity": "2",
+		"Fight": "When you draw a new hand of cards at the end of this turn, draw two extra cards.",
+		"keyword": "Burrow",
+		"Attack": "7",
+		"VP": "4"
+	},
+	{
+		"set": "Fantastic Four",
+		"adversaryGroup": "Subterranea",
+		"adversary": "Megataur",
+		"quantity": "2",
+		"Ambush": "Megataur captures two Bystanders.",
+		"keyword": "Burrow",
+		"Attack": "6",
+		"VP": "4"
+	},
+	{
+		"set": "Fantastic Four",
+		"adversaryGroup": "Subterranea",
+		"adversary": "Moloids",
+		"quantity": "2",
+		"Fight": "KO one of your Heroes.",
+		"keyword": "Burrow",
+		"Attack": "3",
+		"VP": "2"
+	},
+	{
+		"set": "Fantastic Four",
+		"adversaryGroup": "Subterranea",
+		"adversary": "Ra'ktar the Molan King",
+		"quantity": "2",
+		"Ambush": "Any Villain in the Streets moves to the Bridge, pushing any Villain already there to escape.",
+		"keyword": "Burrow",
+		"Attack": "4",
+		"VP": "2"
+	},
+	{
+		"set": "Paint the Town Red",
+		"adversaryGroup": "Maximum Carnage",
+		"adversary": "Carrion",
+		"quantity": "2",
+		"keyword": "Feast",
+		"description": "Whenever Carrion feasts on a Hero that costs 1 or more, put Carrion back in the city space where he was.",
+		"Attack": "4",
+		"VP": "3"
+	},
+	{
+		"set": "Paint the Town Red",
+		"adversaryGroup": "Maximum Carnage",
+		"adversary": "Demogoblin",
+		"quantity": "2",
+		"Ambush": "Demogoblin captures a Bystander.",
+		"keyword": "Feast",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "Paint the Town Red",
+		"adversaryGroup": "Maximum Carnage",
+		"adversary": "Doppelganger",
+		"quantity": "2",
+		"description": "Doppelganger's Attack is equal to the Cost of the Hero in the HQ space under him.",
+		"keyword": "Feast",
+		"Attack": "*",
+		"VP": "3"
+	},
+	{
+		"set": "Paint the Town Red",
+		"adversaryGroup": "Maximum Carnage",
+		"adversary": "Shriek",
+		"quantity": "2",
+		"keyword": "Feast",
+		"description": "When Shriek feasts on a 0-cost Hero, each other player gains a Wound.",
+		"Escape": "Each player gains a Wound.",
+		"Attack": "6",
+		"VP": "4"
+	},
+	{
+		"set": "Paint the Town Red",
+		"adversaryGroup": "Sinister Six",
+		"adversary": "Chameleon",
+		"quantity": "1",
+		"Fight": "Copy the effects of the Hero in the HQ space under Chameleon, including its Recruit and Attack.",
+		"Attack": "6",
+		"VP": "2"
+	},
+	{
+		"set": "Paint the Town Red",
+		"adversaryGroup": "Sinister Six",
+		"adversary": "Hobgoblin",
+		"quantity": "1",
+		"Ambush": "Each Sinister Six Villain captures a Bystander.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "Paint the Town Red",
+		"adversaryGroup": "Sinister Six",
+		"adversary": "Kraven the Hunter",
+		"quantity": "1",
+		"description": "Kraven's Attack is equal to the Cost of the highest-cost Hero in the HQ.",
+		"Escape": "(After you do the normal escape KO) KO a Hero from the HQ with the highest cost.",
+		"Attack": "*",
+		"VP": "4"
+	},
+	{
+		"set": "Paint the Town Red",
+		"adversaryGroup": "Sinister Six",
+		"adversary": "Sandman",
+		"quantity": "1",
+		"description": "Sandman's Attack is twice the number of Villains in the city.",
+		"Escape": "Each player reveals an [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] Hero or gains a Wound.",
+		"Attack": "*",
+		"VP": "4"
+	},
+	{
+		"set": "Paint the Town Red",
+		"adversaryGroup": "Sinister Six",
+		"adversary": "Shocker",
+		"quantity": "2",
+		"Ambush": "Each player reveals an [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] Hero or discards a card.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "Paint the Town Red",
+		"adversaryGroup": "Sinister Six",
+		"adversary": "Vulture",
+		"quantity": "2",
+		"Ambush": "(After Vulture enters the city) If there is a Villain on the Rooftops or Bridge, swap Vulture with one of those Villains.",
+		"Escape": "Each player reveals an [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] Hero or gains a Wound.",
+		"Attack": "4",
+		"VP": "2"
+	},
+	{
+		"set": "Villains",
+		"adversaryGroup": "Avengers",
+		"adversary": "Ant-Man",
+		"quantity": "2",
+		"Attack": "3*",
+		"VP": "2",
+		"keyword": "Elusive 4"
+
+	},
+	{
+		"set": "Villains",
+		"adversaryGroup": "Avengers",
+		"adversary": "Captain America",
+		"quantity": "1",
+		"Attack": "4+",
+		"VP": "5",
+		"Ambush": "Each player reveals three colors of Allies or gains a Bindings. (Grey is a color.)",
+		"Fight": "Same effect. Captain America gets +1 Attack for each color of Ally in the Lair.",
+		"Overrun": "Demolish each player."
+
+	},
+	{
+		"set": "Villains",
+		"adversaryGroup": "Avengers",
+		"adversary": "Hulk",
+		"quantity": "1",
+		"Attack": "8",
+		"VP": "6",
+		"Ambush": "Demolish each player twice.",
+		"Fight": "Same effect.",
+		"Overrun": "Same effect."
+
+	},
+	{
+		"set": "Villains",
+		"adversaryGroup": "Avengers",
+		"adversary": "Iron Man",
+		"quantity": "1",
+		"Attack": "7",
+		"VP": "5",
+		"Ambush": "Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Ally or gains a Bindings.",
+		"Fight": "Same effect.",
+		"Overrun": "Demolish each player."
+
+	},
+	{
+		"set": "Villains",
+		"adversaryGroup": "Avengers",
+		"adversary": "Thor",
+		"quantity": "1",
+		"Attack": "7",
+		"VP": "5",
+		"Ambush": "KO each Ally from the Lair that costs 7 Cost or more.",
+		"Fight": "Same effect.",
+		"Overrun": "Demolish each player."
+
+	},
+	{
+		"set": "Villains",
+		"adversaryGroup": "Avengers",
+		"adversary": "Wasp",
+		"quantity": "2",
+		"Attack": "1*",
+		"VP": "4",
+		"keyword": "Elusive 7"
+
+	},
+	{
+		"set": "Villains",
+		"adversaryGroup": "Defenders",
+		"adversary": "Daredevil",
+		"quantity": "2",
+		"Attack": "5",
+		"VP": "3",
+		"Fight": "The next Ally you recruit this turn goes on top of your deck.",
+		"Overrun": "Each player reveals the top card of their deck and if it costs 1 Cost or more, discards it."
+
+	},
+	{
+		"set": "Villains",
+		"adversaryGroup": "Defenders",
+		"adversary": "Iron Fist",
+		"quantity": "2",
+		"Attack": "3*",
+		"VP": "2",
+		"description": "To fight Iron Fist, you must also reveal three Allies with different costs."
+
+	},
+	{
+		"set": "Villains",
+		"adversaryGroup": "Defenders",
+		"adversary": "Namor, The Sub-Mariner",
+		"quantity": "2",
+		"Attack": "6",
+		"VP": "4",
+		"Ambush": "If any other Defenders Adversaries are in the city, each player gains a Bindings.",
+		"Fight": "Same Effect.",
+		"Overrun": "Same Effects."
+
+	},
+	{
+		"set": "Villains",
+		"adversaryGroup": "Defenders",
+		"adversary": "Luke Cage",
+		"quantity": "2",
+		"Attack": "4",
+		"VP": "2",
+		"Fight": "Each player reveals the top three cards of their deck. You choose which players discard them and which players put them back on top in the order of their choice."
+	},
+	{
+		"set": "Villains",
+		"adversaryGroup": "Marvel Knights",
+		"adversary": "Black Panther",
+		"quantity": "2",
+		"Attack": "4",
+		"VP": "2",
+		"Fight": "Each player draws a card."
+	},
+	{
+		"set": "Villains",
+		"adversaryGroup": "Marvel Knights",
+		"adversary": "Elektra",
+		"quantity": "2",
+		"Attack": "4",
+		"VP": "2",
+		"Fight": "KO one of your Allies. Then KO a Bindings from your hand or discard pile."
+	},
+	{
+		"set": "Villains",
+		"adversaryGroup": "Marvel Knights",
+		"adversary": "Punisher",
+		"quantity": "2",
+		"Attack": "6",
+		"VP": "4",
+		"Fight": "Reveal the top card of your deck. If it costs 0 Cost, KO it.",
+		"Overrun": "Each player reveals the top card of their deck and if it costs 1 Cost or more, KOs it."
+
+	},
+	{
+		"set": "Villains",
+		"adversaryGroup": "Marvel Knights",
+		"adversary": "Ghost Rider",
+		"quantity": "2",
+		"Attack": "5",
+		"VP": "3",
+		"Fight": "You may KO another Adversary from your Victory Pile. If you do, you get +3 Recruit.",
+		"Overrun": "Each player may KO an Adversary from their Victory Pile. Any player who does not do so gains a Bindings."
+
+	},
+	{
+		"set": "Villains",
+		"adversaryGroup": "Spider Friends",
+		"adversary": "Black Cat",
+		"quantity": "2",
+		"Attack": "2*",
+		"VP": "2",
+		"keyword": "Elusive 6.",
+		"Fight": "Each player reveals the top card of their deck. Choose any number of those cards to be discarded."
+	},
+	{
+		"set": "Villains",
+		"adversaryGroup": "Spider Friends",
+		"adversary": "Firestar",
+		"quantity": "2",
+		"Attack": "5",
+		"VP": "3",
+		"Fight": "Reveal the top card of your deck. If it has a Recruit icon, KO it.",
+		"Overrun": "Each player reveals the top card of their deck, and if it has an Attack icon, KO it."
+
+	},
+	{
+		"set": "Villains",
+		"adversaryGroup": "Spider Friends",
+		"adversary": "Moon Knight",
+		"quantity": "2",
+		"Attack": "4",
+		"VP": "2",
+		"Fight": "KO one of your Allies. Then, if you fought Moon Knight on the Rooftops, KO another of your Allies."
+	},
+	{
+		"set": "Villains",
+		"adversaryGroup": "Spider Friends",
+		"adversary": "Spider-Man",
+		"quantity": "2",
+		"Attack": "2",
+		"VP": "3",
+		"Fight": "Reveal the top card of the Adversary Deck. If that card is worth 2 Victory Points or less, play it. If you play a card from the Adversary Deck this way, put Spider-Man back on top of the Adversary Deck.",
+		"Overrun": "Each player gains a Bindings."
+
+	},
+	{
+		"set": "Villains",
+		"adversaryGroup": "Uncanny Avengers",
+		"adversary": "Havok",
+		"quantity": "2",
+		"Attack": "4+",
+		"VP": "2",
+		"keyword": "X-Treme Attack",
+		"Ambush": "Each player who does not reveal a Ranged Ally discards two cards, then draws a card."
+	},
+	{
+		"set": "Villains",
+		"adversaryGroup": "Uncanny Avengers",
+		"adversary": "Rogue",
+		"quantity": "2",
+		"Attack": "4+",
+		"VP": "2",
+		"keyword": "X-Treme Attack",
+		"Fight": "Each other player discards the top card of their deck. Play a copy of one of those Allies."
+	},
+	{
+		"set": "Villains",
+		"adversaryGroup": "Uncanny Avengers",
+		"adversary": "Scarlet Witch",
+		"quantity": "2",
+		"Attack": "5",
+		"VP": "3",
+		"Fight": "Reveal the top three cards of your deck. Put any that have odd-numbered costs into your hand and discard the rest. (0 is even.)"
+	},
+	{
+		"set": "Villains",
+		"adversaryGroup": "Uncanny Avengers",
+		"adversary": "Wolverine",
+		"quantity": "2",
+		"Attack": "7+",
+		"VP": "5",
+		"keyword": "X-Treme Attack",
+		"description": "Wolverine gets +1 Attack for each card you've drawn this turn.",
+		"Overrun": "Each player reveals an [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] Ally or gains a Bindings. Then shuffle Wolverine back into the Adversary deck."
+	},
+	{
+		"set": "Villains",
+		"adversaryGroup": "Uncanny X-Men",
+		"adversary": "Colossus",
+		"quantity": "2",
+		"Attack": "5+",
+		"VP": "3",
+		"keyword": "X-Treme Attack",
+		"Fight": "You may KO a Bindings from your hand or discard pile. If you don't, each other player gains a Bindings."
+	},
+	{
+		"set": "Villains",
+		"adversaryGroup": "Uncanny X-Men",
+		"adversary": "Nightcrawler",
+		"quantity": "2",
+		"Attack": "4+",
+		"VP": "2",
+		"keyword": "X-Treme Attack",
+		"Fight": "Choose an Ally you played this turn. When you draw a new hand of cards at the end of this turn, add that Ally to your new hand as an extra card."
+	},
+	{
+		"set": "Villains",
+		"adversaryGroup": "Uncanny X-Men",
+		"adversary": "Shadowcat",
+		"quantity": "2",
+		"Attack": "2*+",
+		"VP": "2",
+		"keyword": "X-Treme Attack, Elusive 5"
+	},
+	{
+		"set": "Villains",
+		"adversaryGroup": "Uncanny X-Men",
+		"adversary": "Storm",
+		"quantity": "2",
+		"Attack": "4+",
+		"VP": "2",
+		"keyword": "X-Treme Attack",
+		"Ambush": "(After Storm enters the city.) Move Storm to the Rooftops. If another Adversary is already there, swap them.",
+		"Fight": "If you fight Storm on the Rooftops, each other player gains a Bindings."
+	},
+	{
+		"set": "Villains",
+		"adversaryGroup": "X-Men First Class",
+		"adversary": "Angel",
+		"quantity": "2",
+		"Attack": "4+",
+		"VP": "2",
+		"keyword": "X-Treme Attack",
+		"Fight": "Draws two cards, then discard a card."
+	},
+	{
+		"set": "Villains",
+		"adversaryGroup": "X-Men First Class",
+		"adversary": "Iceman",
+		"quantity": "2",
+		"Attack": "5+",
+		"VP": "3",
+		"keyword": "X-Treme Attack",
+		"Fight": "Draw a card for each [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Ally you played this turn."
+	},
+	{
+		"set": "Villains",
+		"adversaryGroup": "X-Men First Class",
+		"adversary": "Jean Grey",
+		"quantity": "1",
+		"Attack": "6+",
+		"VP": "4",
+		"keyword": "X-Treme Attack",
+		"Ambush": "Jean Grey guards a Bystander for each Adversary in the city with X-Treme Attack (including Jean).",
+		"Fight": "You get +1 Recruit for each Bystander you kidnapped this turn."
+	},
+	{
+		"set": "Villains",
+		"adversaryGroup": "X-Men First Class",
+		"adversary": "Beast",
+		"quantity": "2",
+		"Attack": "5+",
+		"VP": "3",
+		"keyword": "X-Treme Attack",
+		"Fight": "KO one of your Allies. Then KO another of your Allies if there are any other Adversaries in the city with X-Treme Attack."
+	},
+	{
+		"set": "Villains",
+		"adversaryGroup": "X-Men First Class",
+		"adversary": "Cyclops",
+		"quantity": "1",
+		"Attack": "6+",
+		"VP": "4",
+		"keyword": "X-Treme Attack", 
+		"description": "To Fight Cyclops, you must also discard a card.",
+		"Overrun": "Each player reveals a Brotherhood Ally or discards a card."
+	},
+	{
+		"set": "Guardians of the Galaxy",
+		"adversaryGroup": "Kree Starforce",
+		"adversary": "Captain Atlas",
+		"quantity": "1",
+		"description": "Captain Atlas gets +1 Attack for each Shard on the Mastermind.",
+		"Escape": "Each player loses a Shard. Each player that cannot do so gains a Wound.",
+		"Attack": "6+",
+		"VP": "4"
+	},
+	{
+		"set": "Guardians of the Galaxy",
+		"adversaryGroup": "Kree Starforce",
+		"adversary": "Demon Druid",
+		"quantity": "1",
+		"Ambush": "Another Villain in the city gains two Shards.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "Guardians of the Galaxy",
+		"adversaryGroup": "Kree Starforce",
+		"adversary": "Dr. Minerva",
+		"quantity": "1",
+		"Ambush": "Each Kree Villain in the city gains a Shard (including this Villain).",
+		"Attack": "5",
+		"VP": "3"
+
+	},
+	{
+		"set": "Guardians of the Galaxy",
+		"adversaryGroup": "Kree Starforce",
+		"adversary": "Korath the Pursuer",
+		"quantity": "1",
+		"Ambush": "Each player may draw a card. Korath gains a Shard for each card drawn this way.",
+		"Escape": "If Korath had any Shards, each player gains a Wound.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "Guardians of the Galaxy",
+		"adversaryGroup": "Kree Starforce",
+		"adversary": "Ronan the Accuser",
+		"quantity": "1",
+		"Ambush": "Each player simultaneously points their finger to accuse another player. Each player who was accused the most gains a Wound.",
+		"Escape": "Same effect.",
+		"Attack": "7",
+		"VP": "5"
+	},
+	{
+		"set": "Guardians of the Galaxy",
+		"adversaryGroup": "Kree Starforce",
+		"adversary": "Shatterax",
+		"quantity": "1",
+		"Fight": "Put a Shard on each Hero in the HQ. When a player gains that Hero, they gain that Shard. If that Hero leaves the HQ some other way, return that Shard to the supply.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "Guardians of the Galaxy",
+		"adversaryGroup": "Kree Starforce",
+		"adversary": "Supremor",
+		"quantity": "2",
+		"Ambush": "Supremor and the Mastermind each gain a Shard.",
+		"Attack": "3",
+		"VP": "2"
+	},
+	{
+		"set": "Guardians of the Galaxy",
+		"adversaryGroup": "Infinity Gems",
+		"adversary": "Mind Gem",
+		"quantity": "1",
+		"Ambush": "Mind Gem gains a Shard for each Scheme Twist in the KO pile and/or stacked next to the Scheme.",
+		"Fight": "Put this into your discard pile as an Artifact.",
+		"keyword": "Artifact - Once per turn, you get +2 Recruit.",
+		"Attack": "6",
+		"VP": "0"
+	},
+	{
+		"set": "Guardians of the Galaxy",
+		"adversaryGroup": "Infinity Gems",
+		"adversary": "Power Gem",
+		"quantity": "1",
+		"Ambush": "Power Gem gains a Shard for each Master Strike in the KO pile and/or stacked next to the Mastermind.",
+		"Fight": "Put this into your discard pile as an Artifact.",
+		"keyword": "Artifact - Once per turn, you get +2 Attack.",
+		"Attack": "7",
+		"VP": "0"
+	},
+	{
+		"set": "Guardians of the Galaxy",
+		"adversaryGroup": "Infinity Gems",
+		"adversary": "Reality Gem",
+		"quantity": "2",
+		"Ambush": "Reality Gem gains a Shard for each Infinity Gem Villain card in the city and/or Escape pile.",
+		"Fight": "Put this into your discard pile as an Artifact.",
+		"keyword": "Artifact - Before you play a card from the Villain Deck, you may first reveal the top card of the Villain Deck. If it's not a Scheme Twist, you may put it on the bottom of the Villain Deck. If you do, gain a Shard.",
+		"Attack": "5",
+		"VP": "0"
+	},
+	{
+		"set": "Guardians of the Galaxy",
+		"adversaryGroup": "Infinity Gems",
+		"adversary": "Soul Gem",
+		"quantity": "1",
+		"Ambush": "Soul Gem gains a Shard for each Villain in the city.",
+		"Fight": "Put this into your discard pile as an Artifact.",
+		"keyword": "Artifact - Whenever you defeat a Villain, put a Shard on Soul Gem from the supply. Once per turn, you get + Attack equal to the number of Shards on Soul Gem.",
+		"Attack": "6",
+		"VP": "0"
+	},
+	{
+		"set": "Guardians of the Galaxy",
+		"adversaryGroup": "Infinity Gems",
+		"adversary": "Space Gem",
+		"quantity": "2",
+		"Ambush": "Space Gem gains a Shard for each empty space in the city.",
+		"Fight": "Put this into your discard pile as an Artifact.",
+		"keyword": "Artifact - Once per turn, you may move a Villain to another city space. If another Villain is already there, swap them. If you moved any Villains this way, gain a Shard.",
+		"Attack": "5",
+		"VP": "0"
+	},
+	{
+		"set": "Guardians of the Galaxy",
+		"adversaryGroup": "Infinity Gems",
+		"adversary": "Time Gem",
+		"quantity": "1",
+		"Ambush": "Play another card from the Villain Deck. Time Gem gains Shards equal to that card's printed Victory Points.",
+		"Fight": "Put this into your discard pile as an Artifact.",
+		"keyword": "Artifact - When you play this Artifact, take another turn after this one. Use this ability only if this is the fist time any player has played the Time Gem this game.",
+		"Attack": "6",
+		"VP": "0"
+	},
+	{
+		"set": "Fear Itself",
+		"adversaryGroup": "The Mighty",
+		"adversary": "Black Widow",
+		"quantity": "1",
+		"keyword": "2 Uru-Enchanted Weapons",
+		"description": "Fight or Fail: If her Uru-Enchanted Weapons revealed any Bystanders, kidnap them.",
+		"Attack": "3*",
+		"VP": "4"
+	},
+	{
+		"set": "Fear Itself",
+		"adversaryGroup": "The Mighty",
+		"adversary": "Dr. Strange",
+		"quantity": "1",
+		"keyword": "Uru-Enchanted Weapon",
+		"Ambush": "Reveal the top three cards of the Adversary Deck. Put the Adversary you revealed with the highest printed VP on top of that deck. Put the rest on the bottom of that deck in random order.",
+		"description": "Fight or Fail: You get +2 Recruit.",
+		"Attack": "5*",
+		"VP": "4"
+	},
+	{
+		"set": "Fear Itself",
+		"adversaryGroup": "The Mighty",
+		"adversary": "Hawkeye",
+		"quantity": "1",
+		"keyword": "Uru-Enchanted Weapon",
+		"description": "Fight or Fail: Choose one: Each other player draws a card, or each other player discards a card.",
+		"Attack": "3*",
+		"VP": "2"
+	},
+	{
+		"set": "Fear Itself",
+		"adversaryGroup": "The Mighty",
+		"adversary": "Iron Fist",
+		"quantity": "1",
+		"keyword": "Uru-Enchanted Weapon",
+		"description": "If his Uru-Enchanted Weapon revealed an Adversary, KO one of your Allies.",
+		"Attack": "3*",
+		"VP": "2"
+	},
+	{
+		"set": "Fear Itself",
+		"adversaryGroup": "The Mighty",
+		"adversary": "Ms. Marvel",
+		"quantity": "1",
+		"keyword": "Uru-Enchanted Weapon",
+		"description": "Fight or Fail: If her Uru-Enchanted Weapon revealed a Command Strike or Plot Twist, play it.",
+		"Overrun": "Each player reveals a [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Ally or gains a Bindings.",
+		"Attack": "4*",
+		"VP": "3"
+	},
+	{
+		"set": "Fear Itself",
+		"adversaryGroup": "The Mighty",
+		"adversary": "Red She-Hulk",
+		"quantity": "1",
+		"keyword": "Uru-Enchanted Weapon",
+		"description": "Fight or Fail: If her Uru-Enchanted Weapon revealed an Adversary, put that Adversary into your Victory Pile.",
+		"Attack": "4*",
+		"VP": "2"
+	},
+	{
+		"set": "Fear Itself",
+		"adversaryGroup": "The Mighty",
+		"adversary": "Spider-Man",
+		"quantity": "1",
+		"keyword": "2 Uru-Enchanted Weapons",
+		"description": "Fight or Fail: Play all the cards revealed by his Uru-Enchanted Weapon that are worth 2 VP or less.",
+		"Overrun": "Each player gains a Bindings.",
+		"Attack": "2*",
+		"VP": "3"
+	},
+	{
+		"set": "Fear Itself",
+		"adversaryGroup": "The Mighty",
+		"adversary": "Wolverine",
+		"quantity": "1",
+		"keyword": "2 Uru-Enchanted Weapons",
+		"description": "Fight or Fail: Draw two cards.",
+		"Overrun": "Each player reveals an [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] Ally or gains a Bindings. Then put Wolverine on top of the Adversary Deck.",
+		"Attack": "5*",
+		"VP": "6"
+	},
+	{
+		"set": "Secret Wars Volume 1",
+		"adversaryGroup": "The Deadlands",
+		"adversary": "Zombie Baron Zemo",
+		"quantity": "1",
+		"Ambush": "[b]Rise of the Living Dead[/b]",
+		"Fight": "For each of your Avengers Heroes, rescue a Bystander.",
+		"Attack": "6",
+		"VP": "4"
+	},
+	{
+		"set": "Secret Wars Volume 1",
+		"adversaryGroup": "The Deadlands",
+		"adversary": "Zombie Loki",
+		"quantity": "1",
+		"Ambush": "[b]Rise of the Living Dead[/b]",
+		"Escape": "Loki ascends to become a new Mastermind. He gains the ability, \"Master Strike\": \"Each player reveals a [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]  Hero or gains a Wound.\"",
+		"Attack": "8",
+		"VP": "6"
+	},
+	{
+		"set": "Secret Wars Volume 1",
+		"adversaryGroup": "The Deadlands",
+		"adversary": "Zombie Madame Hydra",
+		"quantity": "1",
+		"Ambush": "[b]Rise of the Living Dead[/b]",
+		"Fight": "KO one of your [BGCOLOR=#AAAAAA][COLOR=#FFFFFF]S.H.I.E.L.D.[/COLOR][/BGCOLOR] Heroes or [BGCOLOR=#AAAAAA][COLOR=#FFFFFF]HYDRA[/COLOR][/BGCOLOR] Allies.",
+		"Attack": "4",
+		"VP": "2"
+	},
+	{
+		"set": "Secret Wars Volume 1",
+		"adversaryGroup": "The Deadlands",
+		"adversary": "Zombie Mr. Sinister",
+		"quantity": "1",
+		"Ambush": "[b]Rise of the Living Dead[/b]",
+		"Escape": "Sinister ascends to become a new Mastermind. He gains the ability, \"[b]Master Strike\": \"Sinister captures a Bystander. Then, each player with exactly 6 cards reveals a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero or discards cards equal to the number of Bystanders Sinister has.\"",
+		"Attack": "7",
+		"VP": "5"
+	},
+	{
+		"set": "Secret Wars Volume 1",
+		"adversaryGroup": "The Deadlands",
+		"adversary": "Zombie M.O.D.O.K.",
+		"quantity": "1",
+		"Ambush": "[b]Rise of the Living Dead[/b]",
+		"Fight": "KO one of your heroes with a Recruit icon.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "Secret Wars Volume 1",
+		"adversaryGroup": "The Deadlands",
+		"adversary": "Zombie Mysterio",
+		"quantity": "1",
+		"Ambush": "[b]Rise of the Living Dead[/b]",
+		"Escape:[/b] Shuffle this card into the Mastermind's face-down Tactics. It becomes a Mastermind Tactic that says \"Fight": "Draw two cards.\"",
+		"Attack": "6",
+		"VP": "6"
+	},
+	{
+		"set": "Secret Wars Volume 1",
+		"adversaryGroup": "The Deadlands",
+		"adversary": "Zombie Thanos",
+		"quantity": "1",
+		"Ambush": "[b]Rise of the Living Dead[/b]",
+		"Escape": "Thanos ascends to become a new Mastermind. He gains the ability, \"Master Strike\": \"Each player reveals their hand and KOs one of their non-grey Heroes.\"",
+		"Attack": "9",
+		"VP": "6"
+	},
+	{
+		"set": "Secret Wars Volume 1",
+		"adversaryGroup": "The Deadlands",
+		"adversary": "Zombie Venom",
+		"quantity": "1",
+		"Ambush": "[b]Rise of the Living Dead[/b]",
+		"description": "You can't defeat Zombie Venom unless you have a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero.",
+		"Escape": "Each player gains a Wound.",
+		"Attack": "5*",
+		"VP": "3"
+	},
+	{
+		"set": "Secret Wars Volume 1",
+		"adversaryGroup": "Domain of Apocalypse",
+		"adversary": "Apocalyptic Blink",
+		"quantity": "3",
+		"Fight": "Reveal the top card of your deck. Draw it or [b]Teleport[/b] it.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "Secret Wars Volume 1",
+		"adversaryGroup": "Domain of Apocalypse",
+		"adversary": "Apocalyptic Magneto",
+		"quantity": "1",
+		"Fight": "Gain an X-Men Hero from the HQ for free.",
+		"Escape": "Magneto ascends to become a new Mastermind. He gains the ability, \"Master Strike\": \"Each player reveals an X-Men Hero or discards down to four cards.\"",
+		"Attack": "8",
+		"VP": "6"
+	},
+	{
+		"set": "Secret Wars Volume 1",
+		"adversaryGroup": "Domain of Apocalypse",
+		"adversary": "Apocalyptic Rogue",
+		"quantity": "2",
+		"Fight": "Reveal the top card of the Hero deck. The player of your choice gains it.",
+		"Escape": "Reveal the top card of the Hero deck. Each player reveals their hand and discards a card of that class.",
+		"Attack": "6",
+		"VP": "4"
+	},
+	{
+		"set": "Secret Wars Volume 1",
+		"adversaryGroup": "Domain of Apocalypse",
+		"adversary": "Apocalyptic Weapon X",
+		"quantity": "2",
+		"Fight": "KO one of your heroes.",
+		"Escape": "[b]Cross-Dimensional Wolverine Rampage[/b]",
+		"Attack": "7",
+		"VP": "5"
+	},
+	{
+		"set": "Secret Wars Volume 1",
+		"adversaryGroup": "Limbo",
+		"adversary": "Inferno Colossus",
+		"quantity": "2",
+		"Ambush": "The Mastermind captures a Bystander.",
+		"Fight": "KO one of your Heroes.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "Secret Wars Volume 1",
+		"adversaryGroup": "Limbo",
+		"adversary": "Inferno Cyclops",
+		"quantity": "2",
+		"Ambush": "Inferno Cyclops captures a Bystander.",
+		"Escape": "The Mastermind captures all the Bystanders this Villain had.",
+		"description": "(Players still discard for the Bystander being carried away.)",
+		"Attack": "6",
+		"VP": "4"
+	},
+	{
+		"set": "Secret Wars Volume 1",
+		"adversaryGroup": "Limbo",
+		"adversary": "Inferno Darkchilde",
+		"quantity": "2",
+		"Fight": "Reveal the top card of your deck. KO it or [b]Teleport[/b] it.",
+		"Escape": "Each player [b]Teleports[/b] a random card from their hand.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "Secret Wars Volume 1",
+		"adversaryGroup": "Limbo",
+		"adversary": "Inferno Nightcrawler",
+		"quantity": "2",
+		"Fight": "Up to two cards in your hand that have a Recruit icon gain [b]Teleport[/b] this turn.",
+		"Attack": "4",
+		"VP": "2"
+	},
+	{
+		"set": "Secret Wars Volume 1",
+		"adversaryGroup": "Manhattan (Earth-1610)",
+		"adversary": "Ultimate Captain America",
+		"quantity": "2",
+		"Fight": "Gain this as a Hero.",
+		"Attack": "6",
+		"gainedAlly": {
+			"class": "Strength",
+			"ability": "You get +1 Attack for each color of Hero you have",
+			"Attack": "0+"
+		}
+	},
+	{
+		"set": "Secret Wars Volume 1",
+		"adversaryGroup": "Manhattan (Earth-1610)",
+		"adversary": "Ultimate Captain Marvel",
+		"quantity": "2",
+		"Fight": "Gain this as a Hero.",
+		"Attack": "4",
+		"gainedAlly": {
+			"class": "Ranged",
+			"keyword": "Teleport",
+			"recruit": "2"
+		}
+	},
+	{
+		"set": "Secret Wars Volume 1",
+		"adversaryGroup": "Manhattan (Earth-1610)",
+		"adversary": "Ultimate Thor",
+		"quantity": "2",
+		"Fight": "Gain this as a Hero.",
+		"Escape": "[b]Cross-Dimensional Thor Rampage[/b]",
+		"Attack": "7",
+		"gainedAlly": {
+			"class": "Ranged",
+			"abilityMatch": "Ranged",
+			"ability": "Ranged: You get +3 Attack.",
+			"attack": "3"
+		}
+	},
+	{
+		"set": "Secret Wars Volume 1",
+		"adversaryGroup": "Manhattan (Earth-1610)",
+		"adversary": "Ultimate Wasp",
+		"quantity": "2",
+		"Fight": "Gain this as a Hero.",
+		"Attack": "5",
+		"gainedAlly": {
+			"class": "Covert",
+			"abilityMatch": "Covert",
+			"ability": "Covert: You get +2 Attack.",
+			"Attack": "2+"
+		}
+	},
+	{
+		"set": "Secret Wars Volume 1",
+		"adversaryGroup": "Sentinel Territories",
+		"adversary": "Colossus of Future Past",
+		"quantity": "2",
+		"Fight": "[i]Colossus changes the future:[/i] Don't play a Villain card at the beginning of next turn.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "Secret Wars Volume 1",
+		"adversaryGroup": "Sentinel Territories",
+		"adversary": "Kate Pryde of Future Past",
+		"quantity": "2",
+		"Fight": "You get +1 Recruit. Then, [i]Kate Pryde alters the future:[/i] At the beginning of the next player's turn, that player gets +1 Recruit.",
+		"Attack": "4",
+		"VP": "2"
+	},
+	{
+		"set": "Secret Wars Volume 1",
+		"adversaryGroup": "Sentinel Territories",
+		"adversary": "Rachel Summers of Future Past",
+		"quantity": "2",
+		"Fight:[/b] [i]Rachel Summers alters the future:[/i] During the next player's turn, all Villains and the Mastermind get -1 Attack. [b]Escape": "This turn, All Villains and the Mastermind get +1 Attack.",
+		"Attack": "6",
+		"VP": "4"
+	},
+	{
+		"set": "Secret Wars Volume 1",
+		"adversaryGroup": "Sentinel Territories",
+		"adversary": "Wolverine of Future Past",
+		"quantity": "2",
+		"Fight": "[i]Wolverine alters the future:[/i] At the start of the next player's turn, you draw a card, and that player draws a card.",
+		"Escape": "[b]Cross-Dimensional Wolverine Rampage[/b]",
+		"Attack": "7",
+		"VP": "5"
+	},
+	{
+		"set": "Secret Wars Volume 1",
+		"adversaryGroup": "Wasteland",
+		"adversary": "The Hulk Gang",
+		"quantity": "3",
+		"Fight:[/b] [b]Cross-Dimensional Hulk Rampage[/b] [b]Escape": "Same effect.",
+		"Attack:[/b] 5 [b]VP": "3"
+	},
+	{
+		"set": "Secret Wars Volume 1",
+		"adversaryGroup": "Wasteland",
+		"adversary": "Wasteland Kingpin",
+		"quantity": "1"
+	},
+	{
+		"set": "Secret Wars Volume 1",
+		"adversaryGroup": "Wasteland",
+		"adversary": "Bribe",
+		"quantity": "2",
+		"Escape": "Kingpin ascends to become a new Mastermind. He gains the ability, \"Master Strike\": \"Each player reveals an [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] Hero or discards their hand and draws 5 cards.\"",
+		"Attack": "11*",
+		"VP": "6"
+	},
+	{
+		"set": "Secret Wars Volume 1",
+		"adversaryGroup": "Wasteland",
+		"adversary": "Wasteland Hawkeye",
+		"quantity": "2",
+		"Ambush": "Wasteland Hawkeye captures a Bystander. \"Fight\": \"Choose one: Each other player draws a card, or each other player discards a card.\"",
+		"Attack": "6",
+		"VP": "4"
+	},
+	{
+		"set": "Secret Wars Volume 1",
+		"adversaryGroup": "Wasteland",
+		"adversary": "Wasteland Spider-Girl",
+		"quantity": "2",
+		"Fight": "Reveal the top card of your deck. If it costs 2 or less, KO it.",
+		"Attack": "4",
+		"VP": "2"
+	},
+	{
+		"set": "Secret Wars Volume 2",
+		"adversaryGroup": "Deadpool's Secret Secret Wars",
+		"adversary": "Deadpool",
+		"quantity": "1"
+	},
+	{
+		"set": "Secret Wars Volume 2",
+		"adversaryGroup": "Deadpool's Secret Secret Wars",
+		"adversary": "5th Circle of Kung-Fu",
+		"quantity": "2",
+		"Fight": "[b]Fateful Resurrection[/b]",
+		"Escape": "Deadpool ascends to become a new Mastermind. He gains the ability, \"Master Strike\": \"Each player reveals a Hero with an odd-numbered cost or gains a Wound.\" (0 is even).",
+		"Attack": "5+",
+		"VP": "5"
+	},
+	{
+		"set": "Secret Wars Volume 2",
+		"adversaryGroup": "Deadpool's Secret Secret Wars",
+		"adversary": "Doop",
+		"quantity": "2",
+		"description": "You can't fight Doop if there is a Villain in an adjacent city space.",
+		"Attack": "2*",
+		"VP": "2"
+	},
+	{
+		"set": "Secret Wars Volume 2",
+		"adversaryGroup": "Deadpool's Secret Secret Wars",
+		"adversary": "Howard the Duck",
+		"quantity": "2",
+		"Ambush": "Howard the Duck captures [i](the heart of)[/i] a Bystander.",
+		"keyword": "7th Circle of Quack-Fu",
+		"Attack": "1+",
+		"VP": "4"
+	},
+	{
+		"set": "Secret Wars Volume 2",
+		"adversaryGroup": "Deadpool's Secret Secret Wars",
+		"adversary": "Pink Sphinx",
+		"quantity": "3",
+		"Fight:[/b] [b]Spectrum": "KO one of your Heroes.",
+		"Attack": "4",
+		"VP": "2"
+	},
+	{
+		"set": "Secret Wars Volume 2",
+		"adversaryGroup": "Guardians of Knowhere",
+		"adversary": "Angela",
+		"quantity": "1",
+		"Fight": "[b]Fateful Resurrection[/b]",
+		"Escape": "Angela ascends to become a new Mastermind. She gains the ability, \"Master Strike\": \"Each player KOs a Hero from their discard pile that costs 1 or more.\"",
+		"Attack": "7",
+		"VP": "5"
+	},
+	{
+		"set": "Secret Wars Volume 2",
+		"adversaryGroup": "Guardians of Knowhere",
+		"adversary": "Drax the Destroyer",
+		"quantity": "2",
+		"Fight": "Reveal the top card of your deck. KO it or put it back. [b]Fateful Resurrection.[/b]",
+		"Attack": "5",
+		"VP": "4"
+	},
+	{
+		"set": "Secret Wars Volume 2",
+		"adversaryGroup": "Guardians of Knowhere",
+		"adversary": "Gamora",
+		"quantity": "1",
+		"Ambush": "[b]Charge[/b] one space.",
+		"Fight:[/b] [i](After this goes to your victory pile.)[/i] [b]Patrol the Sewers": "If it's empty, each other player gains a Wound.",
+		"Escape": "Each player gains a Wound.",
+		"Attack": "6",
+		"VP": "4"
+	},
+	{
+		"set": "Secret Wars Volume 2",
+		"adversaryGroup": "Guardians of Knowhere",
+		"adversary": "Groot",
+		"quantity": "2",
+		"Fight": "[b]Fateful Resurrection.[/b] If Groot resurrects this way, then he becomes Tiny Dancing Groot with Attack 1 and no abilities for the rest of the turn.",
+		"Attack": "5",
+		"VP": "4"
+	},
+	{
+		"set": "Secret Wars Volume 2",
+		"adversaryGroup": "Guardians of Knowhere",
+		"adversary": "Rocket Raccoon",
+		"quantity": "2",
+		"Fight:[/b] [i](After this goes to your Victory Pile.)[/i] [b]Patrol the Bank": "If it's empty, draw a card. If it's not empty, KO one of your Heroes.",
+		"Attack": "4",
+		"VP": "2"
+	},
+	{
+		"set": "Secret Wars Volume 2",
+		"adversaryGroup": "K'un-lun",
+		"adversary": "Laughing Skull",
+		"quantity": "2",
+		"keyword": "5th Circle of Kung-Fu",
+		"Escape": "Each player reveals a Hero that costs 5 or more, or they discard a card.",
+		"Attack": "5+",
+		"VP": "5"
+	},
+	{
+		"set": "Secret Wars Volume 2",
+		"adversaryGroup": "K'un-lun",
+		"adversary": "Rand K'ai",
+		"quantity": "2",
+		"keyword": "6th Circle of Kung-Fu",
+		"Escape": "Each player reveals a Hero that costs 6 or more, or they gain a wound.",
+		"Attack": "6+",
+		"VP": "6"
+	},
+	{
+		"set": "Secret Wars Volume 2",
+		"adversaryGroup": "K'un-lun",
+		"adversary": "Razor Fist",
+		"quantity": "2",
+		"keyword": "3rd Circle of Kung-Fu",
+		"Fight": "For each of your Heroes that costs 3, KO one of your Heroes.",
+		"Attack": "3+",
+		"VP": "3"
+	},
+	{
+		"set": "Secret Wars Volume 2",
+		"adversaryGroup": "K'un-lun",
+		"adversary": "Red Sai",
+		"quantity": "2",
+		"keyword": "4th Circle of Kung-Fu",
+		"Fight": "Draw a card for each of your Heroes that costs 4.",
+		"Attack": "4+",
+		"VP": "4"
+	},
+	{
+		"set": "Secret Wars Volume 2",
+		"adversaryGroup": "Monster Metropolis",
+		"adversary": "Bug, Shiklah's Dragon",
+		"quantity": "2",
+		"Fight": "KO a card from your discard pile. [b]Fateful Resurrection[/b]",
+		"Attack": "4",
+		"VP": "3"
+	},
+	{
+		"set": "Secret Wars Volume 2",
+		"adversaryGroup": "Monster Metropolis",
+		"adversary": "Ghost Deadpool",
+		"quantity": "2",
+		"Fight": "[b]Fateful Resurrection[/b]. Then, [b]Cross-Dimensional Deadpool Rampage[/b]",
+		"Escape": "[b]Cross-Dimensional Deadpool Rampage[/b]",
+		"Attack": "5",
+		"VP": "5"
+	},
+	{
+		"set": "Secret Wars Volume 2",
+		"adversaryGroup": "Monster Metropolis",
+		"adversary": "Man-Thing",
+		"quantity": "2",
+		"Ambush": "Each Monster Metropolis Villain captures a Bystander.",
+		"Fight": "[b]Fateful Resurrection[/b]",
+		"Attack": "5",
+		"VP": "4"
+	},
+	{
+		"set": "Secret Wars Volume 2",
+		"adversaryGroup": "Monster Metropolis",
+		"adversary": "Marcus Symbiote Centaur",
+		"quantity": "2",
+		"Ambush": "[b]Charge[/b] two spaces.",
+		"description": "When in the Sewers, Rooftops or Bridge, he is in \"wolf form\" and gets +3 Attack.",
+		"Attack": "3+",
+		"VP": "3"
+	},
+	{
+		"set": "Secret Wars Volume 2",
+		"adversaryGroup": "Utopolis",
+		"adversary": "Doctor Spectrum",
+		"quantity": "3",
+		"Ambush": "[b]Charge[/b] one space.",
+		"Fight": "[b]Spectrum:[/b] KO a card from your discard pile.",
+		"Escape": "Each player who doesn't have [b]Spectrum[/b] discards a card.",
+		"Attack": "6",
+		"VP": "4"
+	},
+	{
+		"set": "Secret Wars Volume 2",
+		"adversaryGroup": "Utopolis",
+		"adversary": "Nighthawk",
+		"quantity": "2",
+		"description": "While in the Sewers, Rooftops or Bridge, Nighthawk gains +4 Attack.",
+		"Escape": "Nighthawk becomes a Scheme Twist that takes effect immediately.",
+		"Attack": "4+",
+		"VP": "4"
+	},
+	{
+		"set": "Secret Wars Volume 2",
+		"adversaryGroup": "Utopolis",
+		"adversary": "Warrior Woman",
+		"quantity": "1",
+		"Ambush": "[b]Charge[/b] one space.",
+		"Escape": "Warrior Woman ascends to become a new Mastermind. She gains the ability, \"Master Strike\": \"Patrol the Bank\": \"If there's a Villain there, each player discards a card with a Recruit icon.\"",
+		"Attack": "8",
+		"VP": "6"
+	},
+	{
+		"set": "Secret Wars Volume 2",
+		"adversaryGroup": "Utopolis",
+		"adversary": "Whizzer",
+		"quantity": "2",
+		"Ambush": "[b]Charge[/b] three spaces.",
+		"Fight": "(After he goes to your victory pile.) \"Patrol the Bridge\": \"If there's a Villain there, each other player gains a Wound.\"",
+		"Escape": "Each player gains a Wound.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "Secret Wars Volume 2",
+		"adversaryGroup": "X-Men '92",
+		"adversary": "'92 Beast",
+		"quantity": "2",
+		"Ambush": "Charge one space.",
+		"Fight": "Gain this as a Hero.",
+		"Attack": "5",
+		"gainedAlly": {
+			"class": "Strength",
+			"abilityMatch": "Tech",
+			"ability": "Tech: Draw a card.",
+			"attack": "2"
+		}
+	},
+	{
+		"set": "Secret Wars Volume 2",
+		"adversaryGroup": "X-Men '92",
+		"adversary": "'92 Jubilee",
+		"quantity": "3",
+		"Fight": "Gain this as a Hero.",
+		"Attack": "4",
+		"gainedAlly": {
+			"class": "Ranged",
+			"abilityMatch": "Spectrum",
+			"ability": "Spectrum: You get +2 Attack.",
+			"attack": "2+"
+		}
+	},
+	{
+		"set": "Secret Wars Volume 2",
+		"adversaryGroup": "X-Men '92",
+		"adversary": "'92 Professor X",
+		"quantity": "1",
+		"Escape": "'92 Professor X ascends to become a new Mastermind. He gains the ability, \"Master Strike\": \"Stack the two heroes from the HQ with the highest cost next to '92 Professor X. He gets +1 Attack for each Hero stacked there. Players can recruit the top card of the stack.\"",
+		"Attack": "8+",
+		"VP": "6"
+	},
+	{
+		"set": "Secret Wars Volume 2",
+		"adversaryGroup": "X-Men '92",
+		"adversary": "'92 Wolverine",
+		"quantity": "2",
+		"Fight": "Gain this as a Hero.",
+		"Escape": "[b]Cross-Dimensional Wolverine Rampage[/b]",
+		"Attack": "7",
+		"gainedAlly": {
+			"class": "Instinct",
+			"abilityMatch": "Instinct",
+			"ability": "Instinct: Draw two cards.",
+			"attack": "2"
+		}
+	},
+	{
+		"set": "Captain America 75th Anniversary",
+		"adversaryGroup": "Zola's Creations",
+		"adversary": "Captain Zolandia",
+		"quantity": "2",
+		"keyword": "Abomination",
+		"Fight": "You get +1 Recruit for each Hero Class you have.",
+		"Attack": "6+",
+		"VP": "5"
+	},
+	{
+		"set": "Captain America 75th Anniversary",
+		"adversaryGroup": "Zola's Creations",
+		"adversary": "Doughboy",
+		"quantity": "2",
+		"keyword": "Abomination",
+		"Fight": "KO one of your Heroes.",
+		"Attack": "4+",
+		"VP": "3"
+	},
+	{
+		"set": "Captain America 75th Anniversary",
+		"adversaryGroup": "Zola's Creations",
+		"adversary": "Man-Fish",
+		"quantity": "2",
+		"keyword": "Abomination",
+		"Fight": "If you fought Man-Fish in the Sewers or Bridge, then each other player gains a Wound.",
+		"Escape": "Each player gains a Wound.",
+		"Attack": "5+",
+		"VP": "4"
+	},
+	{
+		"set": "Captain America 75th Anniversary",
+		"adversaryGroup": "Zola's Creations",
+		"adversary": "Primus",
+		"quantity": "2",
+		"description": "To fight Primus, you must also discard a card that costs 2, 3, 5, or 7.",
+		"Escape": "each player discards a Hero that costs 2, 3, 5, or 7.",
+		"Attack": "3*",
+		"VP": "3"
+	},
+	{
+		"set": "Captain America 75th Anniversary",
+		"adversaryGroup": "Masters of Evil (WWII)",
+		"adversary": "Black Knight",
+		"quantity": "2",
+		"Ambush": "Black Knight captures a Bystander.",
+		"Fight": "Savior: KO one of your Heroes.",
+		"Attack": "4",
+		"VP": "2"
+	},
+	{
+		"set": "Captain America 75th Anniversary",
+		"adversaryGroup": "Masters of Evil (WWII)",
+		"adversary": "Executioner",
+		"quantity": "2",
+		"Ambush": "Executioner captures a Bystander",
+		"Fight": "Savior: Draw a card.",
+		"Escape": "KO a Bystander from each player's Victory Pile.",
+		"Attack": "6",
+		"VP": "4"
+	},
+	{
+		"set": "Captain America 75th Anniversary",
+		"adversaryGroup": "Masters of Evil (WWII)",
+		"adversary": "Melter (WWII)",
+		"quantity": "2",
+		"Ambush": "Melter captures a Bystander.",
+		"Fight": "Savior: Each player reveals the top card of their deck. For each card, you choose to KO it or put it back.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "Captain America 75th Anniversary",
+		"adversaryGroup": "Masters of Evil (WWII)",
+		"adversary": "Radioactive Man",
+		"quantity": "2",
+		"Ambush": "Radioactive Man captures a Bystander.",
+		"Fight": "Each player who is not a Savior gains a Wound.",
+		"Escape": "Same effect.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "Civil War",
+		"adversaryGroup": "CSA Special Marshals",
+		"adversary": "Bullseye",
+		"quantity": "2",
+		"Fight": "KO one of your heroes with a Recruit icon.",
+		"Escape": "Each player KOs one of their Heroes that has printed Attack of 2 or more.",
+		"Attack": "6",
+		"VP": "4"
+	},
+	{
+		"set": "Civil War",
+		"adversaryGroup": "CSA Special Marshals",
+		"adversary": "Moonstone",
+		"quantity": "2",
+		"Fight": "Each other player discards two cards, and then draws a card.",
+		"Attack": "4",
+		"VP": "2"
+	},
+	{
+		"set": "Civil War",
+		"adversaryGroup": "CSA Special Marshals",
+		"adversary": "Penance",
+		"quantity": "2",
+		"description": "Penance gets +1 Attack for each Villain in your Victory Pile.",
+		"Attack": "2+",
+		"VP": "3"
+	},
+	{
+		"set": "Civil War",
+		"adversaryGroup": "CSA Special Marshals",
+		"adversary": "Venom",
+		"quantity": "2",
+		"keyword": "Size-Changing: Covert",
+		"Escape": "Fortify the Bystander Stack. While it's fortified, if a Bystander would be rescued from there, KO that Bystander instead.",
+		"Attack": "7*",
+		"VP": "4"
+	},
+	{
+		"set": "Civil War",
+		"adversaryGroup": "Great Lakes Avengers",
+		"adversary": "Big Bertha",
+		"quantity": "2",
+		"keyword": "Size-Changing: Strength",
+		"Fight": "Each player reveals a Strength Hero or gains a Wound.",
+		"Escape": "Same effect.",
+		"Attack": "7*",
+		"VP": "4"
+	},
+	{
+		"set": "Civil War",
+		"adversaryGroup": "Great Lakes Avengers",
+		"adversary": "Flatman",
+		"quantity": "2",
+		"keyword": "Size-Changing: Covert",
+		"Fight": "KO a card from your discard pile.",
+		"Attack": "5*",
+		"VP": "2"
+	},
+	{
+		"set": "Civil War",
+		"adversaryGroup": "Great Lakes Avengers",
+		"adversary": "Mr. Immortal",
+		"quantity": "2",
+		"Fight": "Reveal the top card of the Villain Deck. If it's a Villain or Bystander, Mr. Immortal reenters the Sewers.",
+		"Attack": "2",
+		"VP": "2"
+	},
+	{
+		"set": "Civil War",
+		"adversaryGroup": "Great Lakes Avengers",
+		"adversary": "Squirrel Girl",
+		"quantity": "2",
+		"description": "You can't fight Squirrel Girl if you played more than one card this turn.",
+		"Escape": "Fortify the Sidekick Stack. While it's fortified, Sidekicks can't be recruited or gained.",
+		"Attack": "3*",
+		"VP": "2"
+	},
+	{
+		"set": "Civil War",
+		"adversaryGroup": "Heroes for Hire",
+		"adversary": "Colleen Wing",
+		"quantity": "2",
+		"keyword": "Bribe",
+		"Escape": "Fortify the Mastermind. While it's fortified, the Mastermind can't be fought.",
+		"Attack": "9*",
+		"VP": "5"
+	},
+	{
+		"set": "Civil War",
+		"adversaryGroup": "Heroes for Hire",
+		"adversary": "Humbug",
+		"quantity": "2",
+		"keyword": "Bribe",
+		"Fight": "KO one of your Heroes.",
+		"Attack": "5*",
+		"VP": "3"
+	},
+	{
+		"set": "Civil War",
+		"adversaryGroup": "Heroes for Hire",
+		"adversary": "Shang-Chi",
+		"quantity": "2",
+		"keyword": "Bribe",
+		"Fight": "If you have any cards in your discard pile, then shuffle them into your deck, and Shang-Chi reenters the Sewers.",
+		"Attack": "3*",
+		"VP": "2"
+	},
+	{
+		"set": "Civil War",
+		"adversaryGroup": "Heroes for Hire",
+		"adversary": "Tarantula",
+		"quantity": "2",
+		"keyword": "Bribe",
+		"Fight": "Each player discards two cards or gains a Wound.",
+		"Escape": "Same effect.",
+		"Attack": "7*",
+		"VP": "5"
+	},
+	{
+		"set": "Civil War",
+		"adversaryGroup": "Registration Enforcers",
+		"adversary": "Blade",
+		"quantity": "2",
+		"Fight": "If you fight Blade in the Sewers or Rooftops, you get +2 Recruit.",
+		"Attack": "4",
+		"VP": "2"
+	},
+	{
+		"set": "Civil War",
+		"adversaryGroup": "Registration Enforcers",
+		"adversary": "Captain Marvel",
+		"quantity": "2",
+		"Fight": "Each player swaps a card from their hand with the top card of their deck.",
+		"Escape": "Each player swaps their hand with the top four cards of their deck.",
+		"Attack": "6",
+		"VP": "4"
+	},
+	{
+		"set": "Civil War",
+		"adversaryGroup": "Registration Enforcers",
+		"adversary": "Deadpool",
+		"quantity": "2",
+		"Ambush": "Each player reveals a card that costs 5 or discards down to 5 cards.",
+		"Fight": "Same effect.",
+		"Escape": "Same effect.",
+		"Attack": "5",
+		"VP": "5"
+	},
+	{
+		"set": "Civil War",
+		"adversaryGroup": "Registration Enforcers",
+		"adversary": "Micromax",
+		"quantity": "2",
+		"keyword": "Size-Changing: Instinct",
+		"Fight": "KO one of your Heroes.",
+		"Attack": "6*",
+		"VP": "3"
+	},
+	{
+		"set": "Civil War",
+		"adversaryGroup": "S.H.I.E.L.D. Elite",
+		"adversary": "Agent Eric Marshall",
+		"quantity": "2",
+		"keyword": "S.H.I.E.L.D. Clearance",
+		"Ambush": "A S.H.I.E.L.D. Officer enters the city as a 3 Attack Villain. When you fight it, gain it as a Hero.",
+		"Attack": "1*",
+		"VP": "2"
+	},
+	{
+		"set": "Civil War",
+		"adversaryGroup": "S.H.I.E.L.D. Elite",
+		"adversary": "Agent Gabe Jones",
+		"quantity": "2",
+		"keyword": "S.H.I.E.L.D. Clearance",
+		"Fight": "A S.H.I.E.L.D. Officer enters the city as a 3 Attack Villain. When you fight it, gain it as a Hero.",
+		"Attack": "2*",
+		"VP": "2"
+	},
+	{
+		"set": "Civil War",
+		"adversaryGroup": "S.H.I.E.L.D. Elite",
+		"adversary": "Dum Dum Dugan",
+		"quantity": "2",
+		"keyword": "S.H.I.E.L.D. Clearance",
+		"Fight": "Each player with no S.H.I.E.L.D. Officers in their discard pile gains a Wound.",
+		"Escape": "Same effect.",
+		"Attack": "4*",
+		"VP": "3"
+	},
+	{
+		"set": "Civil War",
+		"adversaryGroup": "S.H.I.E.L.D. Elite",
+		"adversary": "Sharon Carter, Agent 13",
+		"quantity": "2",
+		"keyword": "S.H.I.E.L.D. Clearance",
+		"Escape": "Fortify the S.H.I.E.L.D. Officer stack. While it's fortified, whenever any number of S.H.I.E.L.D. Officers become Villains, an extra one becomes a Villain.",
+		"Attack": "6*",
+		"VP": "5"
+	},
+	{
+		"set": "Civil War",
+		"adversaryGroup": "Superhuman Registration Act",
+		"adversary": "Iron Spider",
+		"quantity": "2",
+		"Ambush": "Fortify your deck. While Iron Spider fortifies a players deck, that player draws one fewer card at the end of their turn.",
+		"Fight": "Reveal the top card of the Villain Deck. If that card is worth 2 VP or less, Iron Spider fortifies the deck of the player on your left.",
+		"Attack": "2",
+		"VP": "3"
+	},
+	{
+		"set": "Civil War",
+		"adversaryGroup": "Superhuman Registration Act",
+		"adversary": "Ms. Marvel",
+		"quantity": "2",
+		"Escape": "Fortify an HQ space. While its fortified, Heroes can't be gained from that space.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "Civil War",
+		"adversaryGroup": "Superhuman Registration Act",
+		"adversary": "She-Hulk",
+		"quantity": "2",
+		"keyword": "Size-Changing: Strength",
+		"Escape": "Fortify the Villain Deck. When a Master Strike is completed from that deck, each player gains a Wound and She-Hulk enters the Sewers.",
+		"Attack": "8*",
+		"VP": "5"
+	},
+	{
+		"set": "Civil War",
+		"adversaryGroup": "Superhuman Registration Act",
+		"adversary": "Yellowjacket",
+		"quantity": "2",
+		"keyword": "Size-Changing: Tech",
+		"Escape": "Fortify the Hero Deck. While it's fortified, whenever a Hero in the HQ costs 7 or more, KO that Hero.",
+		"Attack": "7*",
+		"VP": "4"
+	},
+	{
+		"set": "Civil War",
+		"adversaryGroup": "Thunderbolts",
+		"adversary": "Fixer",
+		"quantity": "2",
+		"Fight": "Look at the top three cards of your deck. KO one and put the rest back in any order.",
+		"Attack": "4",
+		"VP": "2"
+	},
+	{
+		"set": "Civil War",
+		"adversaryGroup": "Thunderbolts",
+		"adversary": "Mach-IV",
+		"quantity": "2",
+		"Fight": "Each player reveals a Tech Hero or gains a Wound.",
+		"Escape": "Same effect.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "Civil War",
+		"adversaryGroup": "Thunderbolts",
+		"adversary": "Radioactive Man",
+		"quantity": "2",
+		"Escape": "Fortify the Wound Stack. While it's fortified, whenever a player gains a Wound, that player gains an extra Wound.",
+		"Attack": "6",
+		"VP": "4"
+	},
+	{
+		"set": "Civil War",
+		"adversaryGroup": "Thunderbolts",
+		"adversary": "Songbird",
+		"quantity": "2",
+		"Fight": "Each player without another Thunderbolts Villain in their Victory Pile gains a Wound.",
+		"Escape": "Same effect.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "Deadpool",
+		"adversaryGroup": "Deadpool's \"Friends\"",
+		"adversary": "Blind Al and Deuce",
+		"quantity": "2",
+		"keyword": "Revenge for Deadpool's \"Friends\"",
+		"description": "To fight Blind Al, you also gotta drop a Deuce [i](discard a card with a \"2\" printed anywhere on it)[/i]. Deuce is her dog, obviously.",
+		"Escape": "Everybody drop a Deuce.",
+		"Attack": "2+",
+		"VP": "3"
+	},
+	{
+		"set": "Deadpool",
+		"adversaryGroup": "Deadpool's \"Friends\"",
+		"adversary": "Sluggo",
+		"quantity": "2",
+		"keyword": "Revenge for Deadpool's \"Friends\"",
+		"Fight": "\"Excessive Violence\": \"Gain the Hero from the HQ with the lowest cost [i](or tied for lowest)[/i].\"",
+		"Escape": "Each player gains a Wound.",
+		"Attack": "5+",
+		"VP": "4"
+	},
+	{
+		"set": "Deadpool",
+		"adversaryGroup": "Deadpool's \"Friends\"",
+		"adversary": "Taskmaster",
+		"quantity": "2",
+		"Ambush": "Taskmaster captures a Bystander.",
+		"description": "During your turn, Taskmaster gets + Attack equal to the cost of the highest-cost Hero you played this turn.",
+		"Attack": "3+",
+		"VP": "4",
+		"flavor": "They call it Photographic Reflexes: I can copy any fighting move I've ever seen. And I've seen Howard the Duck."
+
+	},
+	{
+		"set": "Deadpool",
+		"adversaryGroup": "Deadpool's \"Friends\"",
+		"adversary": "Weasel",
+		"quantity": "2",
+		"keyword": "Revenge for Deadpool's \"Friends\"",
+		"Ambush": "Each player simultaneously passes a card from their hand to the player on their left.",
+		"Fight": "Same effect.",
+		"Attack": "4+",
+		"VP": "3"
+	},
+	{
+		"set": "Deadpool",
+		"adversaryGroup": "Evil Deadpool Corpse",
+		"adversary": "D.E.A.D.P.O.O.L.",
+		"quantity": "2",
+		"keyword": "Revenge for Evil Deadpool Corpse",
+		"Fight": "Excessive Violence: KO one of your Heroes. Remind them that if they were better at hero-ing, these accidents wouldn't happen.",
+		"Attack": "4+",
+		"VP": "3",
+		"flavor": "Destructive Engine of Assassination Despite Panpygoptosis Obsessed with Opponent Liquidation."
+
+	},
+	{
+		"set": "Deadpool",
+		"adversaryGroup": "Evil Deadpool Corpse",
+		"adversary": "The Deadpool Kid",
+		"quantity": "2",
+		"keyword": "Revenge for Evil Deadpool Corpse",
+		"Escape": "Old West Shootout. Each player reveals the top card of their deck. KO the card with the highest cost (or tied for highest.)",
+		"Attack": "5+",
+		"VP": "4",
+		"flavor": "If you're going to lose an 8-coster, distract the other players and cheat, varmint!"
+
+	},
+	{
+		"set": "Deadpool",
+		"adversaryGroup": "Evil Deadpool Corpse",
+		"adversary": "Ultimate Deadpool",
+		"quantity": "2",
+		"keyword": "Revenge for Evil Deadpool Corpse",
+		"Fight": "Excessive Violence: Draw a card for each \"Ultimate\" in the HQ. You know, those totally kickass cards that cost 7 or more.",
+		"Escape": "KO all Ultimates from the HQ.",
+		"Attack": "5+",
+		"VP": "4"
+	},
+	{
+		"set": "Deadpool",
+		"adversaryGroup": "Evil Deadpool Corpse",
+		"adversary": "Wolverinepool",
+		"quantity": "2",
+		"keyword": "Revenge for Evil Deadpool Corpse",
+		"Ambush": "Each player reveals a card with an odd-numbered cost or gains a Wound. Ya know, the number 0 is pretty weird, but it's not odd.",
+		"Fight": "Same effect.",
+		"Escape": "Same effect. Then, shuffle me back into the Villain Deck so I can kick your ass again!",
+		"Attack": "7+",
+		"VP": "6"
+	},
+	{
+		"set": "Noir",
+		"adversaryGroup": "Goblin's Freak Show",
+		"adversary": "Vulture, Carnival Cannibal",
+		"quantity": "2",
+		"Ambush": "The Vulture captures 2 [b]Hidden Witnesses[/b].",
+		"Fight": "Each other player KOs a Bystander from their Victory Pile or gains a Wound.",
+		"Escape": "Each player gains a Wound.",
+		"Attack": "5*",
+		"VP": "3"
+	},
+	{
+		"set": "Noir",
+		"adversaryGroup": "Goblin's Freak Show",
+		"adversary": "The Chameleon",
+		"quantity": "2",
+		"Ambush": "Chameleon captures a [b]Hidden Witness[/b].",
+		"Fight": "Reveal the top card of the Villain Deck. If it's a Villain, it enters the city space where the Chameleon was.",
+		"Attack": "4*",
+		"VP": "2"
+	},
+	{
+		"set": "Noir",
+		"adversaryGroup": "Goblin's Freak Show",
+		"adversary": "Kraven, Animal Trainer",
+		"quantity": "1",
+		"Ambush": "For each Hero in the HQ that costs 7 or more, Kraven captures a [b]Hidden Witness[/b]. Kraven's Attack is equal to the cost of the highest-cost card in the HQ.",
+		"Attack": "*",
+		"VP": "3"
+	},
+	{
+		"set": "Noir",
+		"adversaryGroup": "Goblin's Freak Show",
+		"adversary": "Ox",
+		"quantity": "1",
+		"Ambush": "Each other player reveals a Strength Hero or Ox captures a random Bystander from their Victory Pile as a [b]Hidden Witness[/b].",
+		"Attack": "5*",
+		"VP": "3"
+	},
+	{
+		"set": "Noir",
+		"adversaryGroup": "Goblin's Freak Show",
+		"adversary": "Montana",
+		"quantity": "1",
+		"Ambush": "Each Goblin's Freak Show Villain captures a [b]Hidden Witness[/b].",
+		"Attack": "4*",
+		"VP": "2"
+	},
+	{
+		"set": "Noir",
+		"adversaryGroup": "Goblin's Freak Show",
+		"adversary": "Fancy Dan",
+		"quantity": "1",
+		"Ambush": "Fancy Dan captures 3 [b]Hidden Witnesses[/b].",
+		"Fight": "KO one of your Heroes.",
+		"Attack": "1*",
+		"VP": "2"
+	},
+	{
+		"set": "Noir",
+		"adversaryGroup": "X-Men Noir",
+		"adversary": "Bobby \"Iceman\" Drake",
+		"quantity": "1",
+		"Fight": "[b]Investigate[/b] for a card with a Recruit icon.",
+		"Attack": "4",
+		"VP": "2"
+	},
+	{
+		"set": "Noir",
+		"adversaryGroup": "X-Men Noir",
+		"adversary": "Comrade Rasputin, Steel Wall",
+		"quantity": "2",
+		"Fight": "[b]Investigate[/b] for a Hero that costs 0 and KO it.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "Noir",
+		"adversaryGroup": "X-Men Noir",
+		"adversary": "Henry \"Beast\" McCoy",
+		"quantity": "1",
+		"Fight": "[b]Investigate[/b] for any card that's Tech or Strength.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "Noir",
+		"adversaryGroup": "X-Men Noir",
+		"adversary": "Jean Grey Noir",
+		"quantity": "1",
+		"Fight": "When you draw a new hand of cards at the end of your turn, [b]Investigate[/b] for an extra card.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "Noir",
+		"adversaryGroup": "X-Men Noir",
+		"adversary": "Scott \"Cyclops\" Summers",
+		"quantity": "1",
+		"Escape": "Each player [b]Investigates[/b] their deck for a card that costs 1 or more and KOs it. Players reveal the cards they investigated.",
+		"Attack": "6",
+		"VP": "4"
+	},
+	{
+		"set": "Noir",
+		"adversaryGroup": "X-Men Noir",
+		"adversary": "Warden Emma Frost",
+		"quantity": "1",
+		"Escape": "[b]Investigate[/b] the Villain Deck for a Scheme Twist and play it. Reveal all the cards you [b]Investigated[/b].",
+		"Attack": "6",
+		"VP": "4"
+	},
+	{
+		"set": "Noir",
+		"adversaryGroup": "X-Men Noir",
+		"adversary": "Ororo Munroe, Storm-Tossed",
+		"quantity": "1",
+		"Fight": "KO a Hero from the HQ. [b]Investigate[/b] the Hero Deck for a card to put in that emptied HQ space.",
+		"Attack": "4",
+		"VP": "2"
+	},
+	{
+		"set": "X-Men",
+		"adversaryGroup": "Dark Descendants",
+		"adversary": "Fatale",
+		"quantity": "2",
+		"Fight": "KO one of your Heroes.",
+		"Escape": "The Mastermind Dominates the top card of the Hero Deck.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "X-Men",
+		"adversaryGroup": "Dark Descendants",
+		"adversary": "Havok, Brainwashed",
+		"quantity": "2",
+		"Fight": "Gain this as a Hero.",
+		"Escape": "Havok becomes a Hero Dominated by the Mastermind.",
+		"Attack": "6",
+		"gainedAlly": {
+			"affiliation": "X-Men",
+			"class": "Ranged",
+			"keyword": "X-Gene",
+			"abilityMatch": "Ranged",
+			"ability": "X-Gene: Ranged: You get +2 Attack.",
+			"attack": "2+"
+		}
+	},
+	{
+		"set": "X-Men",
+		"adversaryGroup": "Dark Descendants",
+		"adversary": "Nemesis",
+		"quantity": "1",
+		"Ambush": "Each player reveals their hand and chooses one of their non-grey Heroes. Nemesis Dominates those Heroes.",
+		"Attack": "5",
+		"VP": "5"
+	},
+	{
+		"set": "X-Men",
+		"adversaryGroup": "Dark Descendants",
+		"adversary": "Psychic Subjugation",
+		"quantity": "1",
+		"keyword": "Trap!",
+		"By End of Turn": "Recruit the left-most and right-most Heroes in the HQ.",
+		"Or Suffer": "Each of those Heroes you didn't recruit enters the city as a Villain with Attack equal to that Hero's cost. When you fight one, you gain it.",
+		"VP": "3"
+	},
+	{
+		"set": "X-Men",
+		"adversaryGroup": "Dark Descendants",
+		"adversary": "Random",
+		"quantity": "2",
+		"Ambush": "Random Dominates the top card of the Hero Deck. Then, each player reveals their hand and chooses one of their Heroes with that same cost. Random Dominates those Heroes.",
+		"Attack": "4+",
+		"VP": "3"
+	},
+	{
+		"set": "X-Men",
+		"adversaryGroup": "Hellfire Club",
+		"adversary": "Corrupt the Phoenix Force",
+		"quantity": "1",
+		"keyword": "Trap!",
+		"By End of Turn": "Have no Hellfire Villains in the city.",
+		"Or Suffer": "This Trap becomes a 6 Attack \"Phoenix Force\" Token Villain that enters the city and Dominates all the Heroes in the HQ that cost 6 or less.",
+		"VP": "3"
+	},
+	{
+		"set": "X-Men",
+		"adversaryGroup": "Hellfire Club",
+		"adversary": "Emma Frost (White Queen)",
+		"quantity": "2",
+		"Ambush": "Each player chooses an X-Men Hero from their discard pile. Emma Frost Dominates those Heroes.",
+		"Attack": "4+",
+		"VP": "4"
+	},
+	{
+		"set": "X-Men",
+		"adversaryGroup": "Hellfire Club",
+		"adversary": "Harry Leland (Black Bishop)",
+		"quantity": "2",
+		"Ambush": "Heroes cost 1 more to recruit this turn.",
+		"Escape": "Same effect.",
+		"Attack": "5",
+		"VP": "3",
+		"flavor": "Increasing his opponents' mass to 20,000 pounds puts a real weight on their shoulders."
+	},
+	{
+		"set": "X-Men",
+		"adversaryGroup": "Hellfire Club",
+		"adversary": "Mastermind (Jason Wyngarde)",
+		"quantity": "1",
+		"Ambush": "The Villain ascends to become a new Mastermind. He gains the ability \"Master Strike\": \"Each player simultaneously reveals a non-grey Hero. Mastermind dominates the revealed Hero with the highest cost (and tied for highest.)\"",
+		"Attack": "8+",
+		"VP": "6"
+	},
+	{
+		"set": "X-Men",
+		"adversaryGroup": "Hellfire Club",
+		"adversary": "Sebastian Shaw (Black King)",
+		"quantity": "2",
+		"description": "Sebastian Shaw has +1 Attack for each card you've played from your hand this turn.",
+		"Escape": "Each player gains a Wound.",
+		"Attack": "3+",
+		"VP": "4"
+	},
+	{
+		"set": "X-Men",
+		"adversaryGroup": "Mojoverse",
+		"adversary": "Mindwarping TV Broadcast",
+		"quantity": "1",
+		"keyword": "Trap!",
+		"Ambush": "A Villain captures a Bystander.",
+		"By End of Turn": "Have no Bystanders in the city captured by Villains.",
+		"Or Suffer": "After you draw your new hand at end of turn, each player discards down to four cards in hand.",
+		"VP": "3"
+	},
+	{
+		"set": "X-Men",
+		"adversaryGroup": "Mojoverse",
+		"adversary": "Minor Domo",
+		"quantity": "2",
+		"Ambush": "Minor Domo captures 2 [b]Human Shields[/b].",
+		"Escape": "Each player simultaneously reveals a card from their hand. Whoever revealed the lowest cost card (or tied for lowest) gains a Wound.",
+		"attack": "2*",
+		"VP": "2"
+	},
+	{
+		"set": "X-Men",
+		"adversaryGroup": "Mojoverse",
+		"adversary": "Major Domo",
+		"quantity": "2",
+		"Ambush": "Major Domo captures a [b]Human Shield[/b].",
+		"Escape": "Each player simultaneously reveals a card from their hand. Whoever reveals the highest-costing card (or tied for highest) gains a Wound.",
+		"attack": "4*",
+		"VP": "3"
+	},
+	{
+		"set": "X-Men",
+		"adversaryGroup": "Mojoverse",
+		"adversary": "Spiral",
+		"quantity": "1",
+		"Ambush": "Each player reveals a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero or discards their hand. Each player who discarded their hand this way draws 5 cards.",
+		"Escape": "Same effect.",
+		"attack": "6",
+		"VP": "4"
+	},
+	{
+		"set": "X-Men",
+		"adversaryGroup": "Mojoverse",
+		"adversary": "Warwolves",
+		"quantity": "2",
+		"Ambush": "These Warwolves capture a [b]Human Shield[/b].",
+		"Fight": "KO one of your Heroes.",
+		"attack": "3*",
+		"VP": "2"
+	},
+	{
+		"set": "X-Men",
+		"adversaryGroup": "Murderworld",
+		"adversary": "Animatronic Killer Clowns",
+		"quantity": "2",
+		"keyword": "Trap!",
+		"By End of Turn": "Recruit two Heroes.",
+		"Or Suffer": "This Trap enters the city as a 3 Attack \"Animatronic Killer Clown\" Token Villain that captures a [b]Human Shield[/b].",
+		"VP": "2"
+	},
+	{
+		"set": "X-Men",
+		"adversaryGroup": "Murderworld",
+		"adversary": "Guillotine Rollercoaster",
+		"quantity": "1",
+		"keyword": "Trap!",
+		"By End of Turn": "Have at least four different costs of Heroes in the HQ.",
+		"Or Suffer": "After you draw your new hand at the end of this turn, each palyer reveals their hand and discards each card with the same cost as the cards in the HQ.",
+		"VP": "3"
+	},
+	{
+		"set": "X-Men",
+		"adversaryGroup": "Murderworld",
+		"adversary": "Miss Locke",
+		"quantity": "2",
+		"Ambush": "Miss Locke captures 2 [b]Human Shields[/b]. Then reveal the top card of the Villain Deck. If it's a Trap or Master Strike, play it.",
+		"Attack": "2*",
+		"VP": "2"
+	},
+	{
+		"set": "X-Men",
+		"adversaryGroup": "Murderworld",
+		"adversary": "Monstrous Pinball Machine",
+		"quantity": "1",
+		"keyword": "Trap!",
+		"By End of Turn": "Pay any amount of Recruit. Then you must reveal the top card of the Hero Deck. If you paid enough, recruit that Hero and put this Trap in your Victory Pile.",
+		"Or Suffer": "KO that Hero. Play two extra cards from the Villain Deck next turn.",
+		"VP": "3"
+	},
+	{
+		"set": "X-Men",
+		"adversaryGroup": "Murderworld",
+		"adversary": "Sulfuric Acid Water Slide",
+		"quantity": "2",
+		"keyword": "Trap!",
+		"Ambush": "Play another card from the Villain Deck.",
+		"By End of Turn": "Have no Villains in the Sewers.",
+		"Or Suffer": "Each player gains a Wound.",
+		"VP": "2"
+	},
+	{
+		"set": "X-Men",
+		"adversaryGroup": "Shadow-X",
+		"adversary": "Betrayal of the Shadow",
+		"quantity": "1",
+		"By End of Turn": "You may pay 6 Recruit.",
+		"Or Suffer": "Each player reveals their hand. Then, each player chooses a Shadow-X card from their hand or discard pile to enter the city as a Villain."
+	},
+	{
+		"set": "X-Men",
+		"adversaryGroup": "Shadow-X",
+		"adversary": "Dark Angel",
+		"quantity": "2",
+		"Fight": "Gain this as a Hero.",
+		"Attack": "4",
+		"gainedAlly": {
+			"class": "Instinct",
+			"keyword": "X-Gene",
+			"abilityMatch": "Instinct",
+			"ability": "X-Gene: Instinct: The next Hero you recruit from the HQ has Soaring Flight.",
+			"attack": "2"
+		}
+	},
+	{
+		"set": "X-Men",
+		"adversaryGroup": "Shadow-X",
+		"adversary": "Dark Beast",
+		"quantity": "1",
+		"Fight": "Gain this as a Hero.",
+		"Attack": "5",
+		"gainedAlly": {
+			"class": "Tech",
+			"keyword": "X-Gene",
+			"abilityMatch": "Tech",
+			"ability": "X-Gene: Tech: You may KO a card from your hand or discard pile.",
+			"attack": "2"
+		}
+	},
+	{
+		"set": "X-Men",
+		"adversaryGroup": "Shadow-X",
+		"adversary": "Dark Cyclops",
+		"quantity": "1",
+		"Ambush": "Each player reveals a [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Hero or discards a card.",
+		"Fight": "Gain this as a Hero.",
+		"Attack": "7",
+		"gainedAlly": {
+			"class": "Ranged",
+			"keyword": "X-Gene",
+			"abilityMatch": "Ranged",
+			"ability": "X-Gene: Ranged: Return a Ranged Hero from your discard pile to your hand.",
+			"attack": "3"
+		}
+	},
+	{
+		"set": "X-Men",
+		"adversaryGroup": "Shadow-X",
+		"adversary": "Dark Iceman",
+		"quantity": "2",
+		"Fight": "Gain this as a Hero.",
+		"Attack": "5",
+		"gainedAlly": {
+			"class": "Strength",
+			"keyword": "X-Gene",
+			"abilityMatch": "Strength",
+			"ability": "X-Gene: Strength: Draw a card.",
+			"attack": "2"
+		}
+	},
+	{
+		"set": "X-Men",
+		"adversaryGroup": "Shadow-X",
+		"adversary": "Dark Marvel Girl",
+		"quantity": "1",
+		"Ambush": "Dark Marvel Girl Dominates each X-Men Hero that costs 4 or less from the HQ.",
+		"Fight": "Gain this as a Hero.",
+		"Attack": "4+",
+		"gainedAlly": {
+			"class": "Covert",
+			"keyword": "X-Gene",
+			"abilityMatch": "Covert",
+			"ability": "X-Gene: Covert: Rescue a Bystander.",
+			"attack": "2"
+		}
+	},
+	{
+		"set": "X-Men",
+		"adversaryGroup": "Shi'ar Imperial Guard",
+		"adversary": "Blackthorn",
+		"quantity": "2",
+		"Fight": "If you fought Blackthorn in the Sewers or Streets, each other player gains a Wound.",
+		"Escape": "Each player gains a Wound.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "X-Men",
+		"adversaryGroup": "Shi'ar Imperial Guard",
+		"adversary": "Gladiator",
+		"quantity": "1",
+		"Ambush": "Each player discards an X-Men Hero or gains a Wound.",
+		"Escape": "Same effect.",
+		"Attack": "7",
+		"VP": "5"
+	},
+	{
+		"set": "X-Men",
+		"adversaryGroup": "Shi'ar Imperial Guard",
+		"adversary": "Oracle",
+		"quantity": "2",
+		"Ambush": "Each player discards the top four cards of their deck and chooses one of those cards that costs 1 to 4. Oracle Dominates those Heroes.",
+		"Attack": "4+",
+		"VP": "4"
+	},
+	{
+		"set": "X-Men",
+		"adversaryGroup": "Shi'ar Imperial Guard",
+		"adversary": "Shi'ar Trial by Combat",
+		"quantity": "1",
+		"keyword": "Trap!",
+		"Ambush": "If the Bridge is empty, reveal the top card of the Villain Deck. If it's a Villain, put it on the Bridge.",
+		"By End of Turn": "Have no Villains on the Bridge.",
+		"Or Suffer": "After you draw a new hand at end of turn, each player KOs a non-grey Hero from their discard pile.",
+		"VP": "2"
+	},
+	{
+		"set": "X-Men",
+		"adversaryGroup": "Shi'ar Imperial Guard",
+		"adversary": "Smasher",
+		"quantity": "2",
+		"Ambush": "Each player reveals a [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero or discards a card.",
+		"Fight": "KO a card from your discard pile.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "X-Men",
+		"adversaryGroup": "Sisterhood of Mutants",
+		"adversary": "Lady Deathstrike",
+		"quantity": "2",
+		"Fight": "KO one of your Heroes.",
+		"Escape": "Each player reveals an [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] Hero or gains a Wound.",
+		"Attack": "6",
+		"VP": "4"
+	},
+	{
+		"set": "X-Men",
+		"adversaryGroup": "Sisterhood of Mutants",
+		"adversary": "Lady Mastermind",
+		"quantity": "1",
+		"Ambush": "This Villain ascends to become a new Mastermind. She gains the ability \"Master Strike\": \"Each player simultaneously reveals a non-grey Hero. Lady Mastermind Dominates the revealed Hero with the lowest cost (and tied for lowest.)\"",
+		"Attack": "7+",
+		"VP": "5"
+	},
+	{
+		"set": "X-Men",
+		"adversaryGroup": "Sisterhood of Mutants",
+		"adversary": "Resurrect Madelyne Pryor",
+		"quantity": "1",
+		"keyword": "Trap!",
+		"By End of Turn": "You may pay 3 Recruit. If you do, shuffle this Trap back into the Villain Deck, then play a card from the Villain Deck.",
+		"Or Suffer": "This Trap becomes a Scheme Twist that takes effect immediately.",
+		"VP": "0"
+	},
+	{
+		"set": "X-Men",
+		"adversaryGroup": "Sisterhood of Mutants",
+		"adversary": "Selene",
+		"quantity": "2",
+		"Ambush": "Selene Dominates all of the 0-cost Heroes from the KO pile.",
+		"Fight": "KO all the Heroes Dominated by Selene.",
+		"Escape": "Put one Hero Dominated by Selene into each player's discard pile.",
+		"Attack": "3+",
+		"VP": "3"
+	},
+	{
+		"set": "X-Men",
+		"adversaryGroup": "Sisterhood of Mutants",
+		"adversary": "Typhoid Mary",
+		"quantity": "2",
+		"Ambush": "Each player reveals their hand and chooses a 3-cost Hero from it. Typhoid Mary Dominates those Heroes.",
+		"Attack": "3+",
+		"VP": "3"
+	},
+	{
+		"set": "X-Men",
+		"adversaryGroup": "Murderworld",
+		"adversarySubGroup": "Token Villains",
+		"adversary": "Animatronic Killer Clown",
+		"quantity": "2",
+		"Ambush": "Animatronic Killer Clown captures a Human Shield.",
+		"Attack": "4",
+		"VP": "2"
+	},
+	{
+		"set": "X-Men",
+		"adversarySubGroup": "Token Villains",
+		"adversary": "Master Plan",
+		"quantity": "1",
+		"description": "Horror ascends to Mastermind",
+		"Master Strike": "Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or gains a Wound.",
+		"Attack": "9",
+		"VP": "5"
+	},
+	{
+		"set": "X-Men",
+		"adversaryGroup": "Hellfire Club",
+		"adversarySubGroup": "Token Villains",
+		"adversary": "Phoenix Force",
+		"quantity": "1",
+		"Ambush": "Phoenix Force Dominates all of the Heroes in the HQ that cost 6 or less.",
+		"Attack": "6",
+		"VP": "3"
+	},
+	{
+		"set": "X-Men",
+		"adversaryGroup": "Shi'ar Imperial Guard",
+		"adversarySubGroup": "Token Villains",
+		"adversary": "Shi'ar Battlecruiser",
+		"quantity": "5",
+		"Attack": "7",
+		"VP": "5"
+	},
+	{
+		"set": "Spider-Man Homecoming",
+		"adversaryGroup": "Salvagers",
+		"adversary": "Hybrid Alien Tech",
+		"quantity": "2",
+		"keyword": "Striker",
+		"Fight": "KO one of your 0-cost Heroes.",
+		"Escape": "The current player reveals a Ranged Hero or gains a 0-cost Hero from the KO pile.",
+		"Attack": "4+",
+		"VP": "4"
+	},
+	{
+		"set": "Spider-Man Homecoming",
+		"adversaryGroup": "Salvagers",
+		"adversary": "Shocker #1",
+		"quantity": "2",
+		"keyword": "Striker",
+		"Escape": "Each player reveals an Instinct Hero or discards a card.",
+		"Attack": "3+",
+		"VP": "3"
+	},
+	{
+		"set": "Spider-Man Homecoming",
+		"adversaryGroup": "Salvagers",
+		"adversary": "Shocker #2",
+		"quantity": "2",
+		"Ambush": "Each player reveals their hand and discards all cards with the same card name as a card in the HQ.",
+		"Escape": "[i](After the normal HQ KO for this escaping)[/i] Same effect.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "Spider-Man Homecoming",
+		"adversaryGroup": "Salvagers",
+		"adversary": "Tinkerer",
+		"quantity": "2",
+		"Fight": "You get +1 Recruit for each Tech Hero in the HQ.",
+		"Escape": "Each player reveals a Tech Hero or gains a Wound.",
+		"Attack": "4",
+		"VP": "2"
+	},
+	{
+		"set": "Spider-Man Homecoming",
+		"adversaryGroup": "Vulture Tech",
+		"adversary": "Chitauri Weapon Assault",
+		"quantity": "2",
+		"keyword": "Striker",
+		"Fight": "KO one of your Heroes with a Recruit icon.",
+		"Escape": "Each player discards a card with a Recruit icon.",
+		"Attack": "4+",
+		"VP": "4"
+	},
+	{
+		"set": "Spider-Man Homecoming",
+		"adversaryGroup": "Vulture Tech",
+		"adversary": "High Tech Helmet",
+		"quantity": "2",
+		"keyword": "Striker",
+		"Fight": "Danger Sense 3",
+		"Attack": "3+",
+		"VP": "3"
+	},
+	{
+		"set": "Spider-Man Homecoming",
+		"adversaryGroup": "Vulture Tech",
+		"adversary": "Razor Talons",
+		"quantity": "2",
+		"keyword": "Striker",
+		"Fight": "The next Hero you gain this turn has Wall Crawl.",
+		"VP": "2",
+		"Attack": "2+"
+	},
+	{
+		"set": "Spider-Man Homecoming",
+		"adversaryGroup": "Vulture Tech",
+		"adversary": "Turbine Powered",
+		"quantity": "2",
+		"keyword": "Striker",
+		"Ambush": "Turbine Powered captures a Bystander. Then move this Villain to the Rooftops. If there's already a Villain there, swap them.",
+		"Attack": "5+",
+		"VP": "5"
+	},
+	{
+		"set": "Champions",
+		"adversaryGroup": "Monsters Unleashed",
+		"adversary": "Goom",
+		"quantity": "1",
+		"Ambush": "Goom captures a Bystander.",
+		"Fight": "KO one of your Heroes.",
+		"VP": "4",
+		"Attack": "6"
+	},
+	{
+		"set": "Champions",
+		"adversaryGroup": "Monsters Unleashed",
+		"adversary": "Groot from Planet X",
+		"quantity": "1",
+		"Size-Changing": "[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]",
+		"Fight": "Two Bystanders from the Bystander Stack enter the city as 3 Attack \"Splintered Half-Groot\" Villains. When you fight one, rescue it as a Bystander.",
+		"Attack": "6*",
+		"VP": "2"
+	},
+	{
+		"set": "Champions",
+		"adversaryGroup": "Monsters Unleashed",
+		"adversary": "Monsteroso",
+		"quantity": "1",
+		"Size-Changing": "[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]",
+		"Fight": "When you draw a new hand of cards at the end of this turn, draw an extra card.",
+		"Attack": "5*",
+		"VP": "2"
+	},
+	{
+		"set": "Champions",
+		"adversaryGroup": "Monsters Unleashed",
+		"adversary": "Orrgo",
+		"quantity": "1",
+		"description": "You can't fight Orrgo unless you have already defeated another Villain this turn.",
+		"Attack": "2*",
+		"VP": "2"
+	},
+	{
+		"set": "Champions",
+		"adversaryGroup": "Monsters Unleashed",
+		"adversary": "Sporr",
+		"quantity": "1",
+		"Size-Changing": "[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]",
+		"Fight": "A Hero in the HQ gains",
+		"keyword": "Size-Changing: \"[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Recruit this turn.\"",
+		"Attack": "7*",
+		"VP": "3"
+	},
+	{
+		"set": "Champions",
+		"adversaryGroup": "Monsters Unleashed",
+		"adversary": "Tim Boo Ba",
+		"quantity": "1",
+		"Size-Changing": "[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR], [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR], [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]",
+		"Fight": "All Heroes currently in the HQ cost 1 less this turn.",
+		"Attack": "12*",
+		"VP": "5"
+	},
+	{
+		"set": "Champions",
+		"adversaryGroup": "Monsters Unleashed",
+		"adversary": "Trull the Unhuman",
+		"quantity": "1",
+		"Size-Changing": "[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR], [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]",
+		"Ambush": "Trull captures a Bystander. Then [b]Demolish[/b] each player.",
+		"Attack": "8*",
+		"VP": "4",
+		"flavor": "Why yes, that is an alien entity possessing the world's most terrifying steam shovel."
+	},
+	{
+		"set": "Champions",
+		"adversaryGroup": "Monsters Unleashed",
+		"adversary": "Zzutak",
+		"quantity": "1",
+		"Size-Changing": "[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR], [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]",
+		"Escape": "[b]Demolish[/b] each player.",
+		"Attack": "9*",
+		"VP": "5"
+	},
+	{
+		"set": "Champions",
+		"adversaryGroup": "Wrecking Crew",
+		"adversary": "Bulldozer",
+		"quantity": "2",
+		"Ambush": "Bulldozer moves an extra space forward. If this pushes any Villains forward, [b]Demolish[/b] each player.",
+		"Attack": "4",
+		"VP": "2"
+	},
+	{
+		"set": "Champions",
+		"adversaryGroup": "Wrecking Crew",
+		"adversary": "Piledriver",
+		"quantity": "2",
+		"Fight": "KO one of your Heroes.",
+		"Escape": "[b]Demolish[/b] each player.",
+		"Attack": "6",
+		"VP": "4"
+	},
+	{
+		"set": "Champions",
+		"adversaryGroup": "Wrecking Crew",
+		"adversary": "Thunderball",
+		"quantity": "2",
+		"Fight": "If you fight THunderball in the Sewers or Bank, [b]Demolish[/b] each other player.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "Champions",
+		"adversaryGroup": "Wrecking Crew",
+		"adversary": "The Wrecker",
+		"quantity": "2",
+		"Ambush": "For each Wrecking Crew Villain in the city, (including this one), [b]Demolish[/b] each player.",
+		"Attack": "7",
+		"VP": "5"
+	},
+	{
+		"set": "World War Hulk",
+		"adversaryGroup": "Aspects of the Void",
+		"adversary": "Black Anti-Hurricane",
+		"quantity": "2",
+		"Fight": "Each player simultaneously puts a card from their discard pile into the discard pile of the player to their right.",
+		"Escape": "Same effect.",
+		"Attack": "6",
+		"VP": "4"
+	},
+	{
+		"set": "World War Hulk",
+		"adversaryGroup": "Aspects of the Void",
+		"adversary": "Demonform",
+		"quantity": "1",
+		"Fight": "[b]Feast[/b]. If Demonform feasts on a non-grey Hero, gain a Hero from the HQ of that cost or less.",
+		"Attack": "7",
+		"VP": "5"
+	},
+	{
+		"set": "World War Hulk",
+		"adversaryGroup": "Aspects of the Void",
+		"adversary": "Infini-Tendrils",
+		"quantity": "2",
+		"keyword": "Wounded Fury",
+		"Ambush": "Infini-Tendrils captures a Bystander.",
+		"Attack": "6+",
+		"VP": "3"
+	},
+	{
+		"set": "World War Hulk",
+		"adversaryGroup": "Aspects of the Void",
+		"adversary": "Psychotic Break",
+		"quantity": "1",
+		"keyword": "Trap!",
+		"Ambush": "Play another card from the Villain Deck.",
+		"By End of Turn": "Defeat a Villain.",
+		"Or Suffer": "[i](After you draw your new hand)[/i] Psychotic Break becomes a Master Strike that takes effect immediately.",
+		"VP": "2"
+	},
+	{
+		"set": "World War Hulk",
+		"adversaryGroup": "Aspects of the Void",
+		"adversary": "Shadow Man",
+		"quantity": "2",
+		"Fight": "You get +2 Recruit.",
+		"Attack": "5",
+		"VP": "3",
+		"flavor": "Some briefly think the Shadow Man is the heroic Sentry. The thought doesn't last long."
+	},
+	{
+		"set": "World War Hulk",
+		"adversaryGroup": "Code Red",
+		"adversary": "Caught Red-Handed",
+		"quantity": "1",
+		"keyword": "Trap!",
+		"By End of Turn": "Recruit a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero or recruit any two Heroes.",
+		"Or Suffer": "[i](After you draw your new hand)[/i] Each player reveals a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero or gains a Wound.",
+		"VP": "3"
+	},
+	{
+		"set": "World War Hulk",
+		"adversaryGroup": "Code Red",
+		"adversary": "Crimson Dynamo",
+		"quantity": "2",
+		"Fight": "Choose a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero in the HQ. It costs 2 less this turn.",
+		"Attack": "4",
+		"VP": "2"
+	},
+	{
+		"set": "World War Hulk",
+		"adversaryGroup": "Code Red",
+		"adversary": "Elektra, Red Blades",
+		"quantity": "2",
+		"Fight": "If you played a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero this turn, KO one of your Heroes.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "World War Hulk",
+		"adversaryGroup": "Code Red",
+		"adversary": "Punisher, Red Dot Sniper",
+		"quantity": "1",
+		"Fight": "Reveal the top card of your deck. If it costs 0, KO it. If it's [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR], draw it.",
+		"Attack": "6",
+		"VP": "4"
+	},
+	{
+		"set": "World War Hulk",
+		"adversaryGroup": "Code Red",
+		"adversary": "Red She-Hulk",
+		"quantity": "1",
+		"keyword": "Wounded Fury",
+		"Fight": "Each player reveals a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero or gains a Wound.",
+		"Escape": "Same effect.",
+		"Attack": "6+",
+		"VP": "5"
+	},
+	{
+		"set": "World War Hulk",
+		"adversaryGroup": "Code Red",
+		"adversary": "Thundra",
+		"quantity": "1",
+		"description": "Thundra gets +2 Attack if there are any number of [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Heroes in the HQ.",
+		"Ambush": "Put each non-[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero from the HQ on the bottom of the Hero Deck.",
+		"Attack": "4+",
+		"VP": "3"
+	},
+	{
+		"set": "World War Hulk",
+		"adversaryGroup": "Illuminati",
+		"adversary": "Black Bolt",
+		"quantity": "2",
+		"description": "During your turn, any number of times, you may discard a card that has no rules text to give Black Bolt -2 Attack this turn.",
+		"Escape": "Each player discards a card with no rules text.",
+		"Attack": "13*",
+		"VP": "5"
+	},
+	{
+		"set": "World War Hulk",
+		"adversaryGroup": "Illuminati",
+		"adversary": "Dr. Strange",
+		"quantity": "2",
+		"Ambush": "Each player who can't [b]Outwit[/b] Dr. Strange discards a card.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "World War Hulk",
+		"adversaryGroup": "Illuminati",
+		"adversary": "Dr. Strange, Possessed by Zom",
+		"quantity": "1",
+		"description": "This Villain gets +1 Attack for each Bystander in the city.",
+		"Ambush": "This Villain captures 3 Bystanders.",
+		"Attack": "5+",
+		"VP": "3"
+	},
+	{
+		"set": "World War Hulk",
+		"adversaryGroup": "Illuminati",
+		"adversary": "Enchain the Hulk",
+		"quantity": "1",
+		"keyword": "Trap!",
+		"By End of Turn": "Discard two cards of the same Hero Class or recruit two cards of the same Hero Class. ([BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR], [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR], [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR], [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR], [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR], but not grey)",
+		"Or Suffer": "[i](After you draw your new hand)[/i] [b]Cross-Dimensional Hulk Rampage",
+		"VP": "4"
+	},
+	{
+		"set": "World War Hulk",
+		"adversaryGroup": "Illuminati",
+		"adversary": " Hulkbuster Iron Man",
+		"quantity": "2",
+		"description": "Hulkbuster Iron Man gets +3 Attack unless you [b]Outwit[/b] him.",
+		"Escape": "[b]Cross-Dimensional Illuminati Rampage",
+		"Attack": "6+",
+		"VP": "4"
+	},
+	{
+		"set": "World War Hulk",
+		"adversaryGroup": "Intelligencia",
+		"adversary": "Battle of Wits",
+		"quantity": "2",
+		"keyword": "Trap!",
+		"By the End of the Turn": "[b]Outwit[/b] this trap.",
+		"Or Suffer": "[i](After you draw your new turn)[/i] Each player discards down to 4 cards.",
+		"VP": "3"
+	},
+	{
+		"set": "World War Hulk",
+		"adversaryGroup": "Intelligencia",
+		"adversary": "Cosmic Hulk Robot",
+		"quantity": "2",
+		"keyword": "Wounded Fury",
+		"Ambush": "Each player who can't [b]Outwit[/b] Cosmic Hulk Robot gains a Wound.",
+		"Escape": "Same effect.",
+		"Attack": "5+",
+		"VP": "4"
+	},
+	{
+		"set": "World War Hulk",
+		"adversaryGroup": "Intelligencia",
+		"adversary": "Doc Samson",
+		"quantity": "2",
+		"description": "Doc Samson has +4 Attack unless you [b]Outwit[/b] him.",
+		"Fight": "KO one of your Heroes.",
+		"Attack": "4+",
+		"VP": "3"
+	},
+	{
+		"set": "World War Hulk",
+		"adversaryGroup": "Intelligencia",
+		"adversary": "The Leader, Gamma Fiend",
+		"quantity": "2",
+		"Ambush": "If you can't [b]Outwit[/b] the Leader, play the top card of the Villain Deck.",
+		"Fight": "Same effect.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "World War Hulk",
+		"adversaryGroup": "Sakaar Imperial Guard",
+		"adversary": "Gladiators' Colosseum",
+		"quantity": "1",
+		"keyword": "Trap!",
+		"By the End of the Turn": "Only play cards from a single Team of your choice this turn (e.g. S.H.I.E.L.D., AVENGERS, X-MEN, WARBOUND, etc.)",
+		"Or Suffer": "[i](After you draw your new hand)[/i] Each player reveals their hand, chooses a Team, and discards all cards that don't belong to that Team.",
+		"VP": "4"
+	},
+	{
+		"set": "World War Hulk",
+		"adversaryGroup": "Sakaar Imperial Guard",
+		"adversary": "Great Devil Corker",
+		"quantity": "2",
+		"Fight": "Look at the top three cards of your deck. Put them back in any order. Then [b]Feast[/b].",
+		"Attack": "6",
+		"VP": "4"
+	},
+	{
+		"set": "World War Hulk",
+		"adversaryGroup": "Sakaar Imperial Guard",
+		"adversary": "Headman Charr",
+		"quantity": "2",
+		"description": "During your turn, Headman Charr gets +1 Attack for each Villain in your Victory Pile.",
+		"Escape": "Each player gains a Wound.",
+		"Attack": "2+",
+		"VP": "2"
+	},
+	{
+		"set": "World War Hulk",
+		"adversaryGroup": "Sakaar Imperial Guard",
+		"adversary": "Lieutenant Caiera",
+		"quantity": "1",
+		"Fight": "If you [b]Outwit[/b] Lieutenant Caiera draw two cards.",
+		"Attack": "7",
+		"VP": "5"
+	},
+	{
+		"set": "World War Hulk",
+		"adversaryGroup": "Sakaar Imperial Guard",
+		"adversary": "Primus Vand",
+		"quantity": "2",
+		"description": "Primus Vand gets +1 Attack for each Villain next to him.",
+		"Fight": "KO one of your Heroes.",
+		"Attack": "3+",
+		"VP": "3"
+	},
+	{
+		"set": "World War Hulk",
+		"adversaryGroup": "U-Foes",
+		"adversary": "Ironclad",
+		"quantity": "1",
+		"Fight": "Each player reveals a [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero of KO's a Hero that costs 1 or more from their discard pile.",
+		"Escape": "Same effect.",
+		"Attack": "6",
+		"VP": "4"
+	},
+	{
+		"set": "World War Hulk",
+		"adversaryGroup": "U-Foes",
+		"adversary": "Vapor",
+		"quantity": "2",
+		"Fight": "Each player reveals a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero or gains a Wound.",
+		"Escape": "Same effect.",
+		"Attack": "4",
+		"VP": "2"
+	},
+	{
+		"set": "World War Hulk",
+		"adversaryGroup": "U-Foes",
+		"adversary": "Vector",
+		"quantity": "2",
+		"Fight": "Each player who reveals an [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] Hero draws a card.",
+		"Attack": "4",
+		"VP": "2"
+	},
+	{
+		"set": "World War Hulk",
+		"adversaryGroup": "U-Foes",
+		"adversary": "Unidentified Flying U-Foes",
+		"quantity": "1",
+		"keyword": "Trap!",
+		"By End of Turn": "Discard a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or discard three cards.",
+		"Or Suffer": "Play two extra cards from the Villain Deck next turn.",
+		"VP": "3"
+	},
+	{
+		"set": "World War Hulk",
+		"adversaryGroup": "U-Foes",
+		"adversary": "X-Ray",
+		"quantity": "2",
+		"Fight": "Each player who reveals a [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Hero may KO a card from their discard pile.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "World War Hulk",
+		"adversaryGroup": "Warbound",
+		"adversary": "Elloe Kaifi",
+		"quantity": "1",
+		"Fight": "Draw a card. Another player of your choice also draws a card.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "World War Hulk",
+		"adversaryGroup": "Warbound",
+		"adversary": "Hiroim",
+		"quantity": "1",
+		"Fight": "KO a card from the HQ. Each player reveals their hand and KO's a card with that same cost.",
+		"Escape": "Same effect.",
+		"Attack": "7",
+		"VP": "5"
+	},
+	{
+		"set": "World War Hulk",
+		"adversaryGroup": "Warbound",
+		"adversary": "Korg",
+		"quantity": "1",
+		"Ambush": "KO a Hero from the HQ. Each player reveals their hand and discards a card with that same cost.",
+		"Escape": "Same effect.",
+		"Attack": "6",
+		"VP": "4"
+	},
+	{
+		"set": "World War Hulk",
+		"adversaryGroup": "Warbound",
+		"adversary": "Miek The Unhived",
+		"quantity": "2",
+		"Fight": "Look at the top two cards of your deck. Put them back on the top and/or bottom. Then [b]Feast[/b].",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "World War Hulk",
+		"adversaryGroup": "Warbound",
+		"adversary": "No-Name, Brood Queen",
+		"quantity": "2",
+		"keyword": "Wounded Fury",
+		"Fight": "[b]Feast[/b]. If this feasts on a non-grey Hero, draw two cards.",
+		"Attack": "4+",
+		"VP": "3"
+	},
+	{
+		"set": "World War Hulk",
+		"adversaryGroup": "Warbound",
+		"adversary": "Warbound Rescue",
+		"quantity": "1",
+		"keyword": "Trap!",
+		"By End of Turn": "Put a Warbound Villain and Henchman Villain from your Victory Pile back into the city.",
+		"Or Suffer": "Each player gains a Wound.",
+		"VP": "7"
+	},
+	{
+		"set": "Marvel Studios Phase 1",
+		"adversaryGroup": "Chitauri",
+		"adversary": "Chitauri Soldier",
+		"quantity": "2",
+		"keyword": "Rooftops Conqueror 2",
+		"Ambush": "Chitauri Soldier captures a Bystander.",
+		"Attack": "3+",
+		"VP": "2"
+	},
+	{
+		"set": "Marvel Studios Phase 1",
+		"adversaryGroup": "Chitauri",
+		"adversary": "Chitauri Commander",
+		"quantity": "2",
+		"keyword": "Rooftops Conqueror 2",
+		"Ambush": "(After this enters the city) If the rooftops are empty, reveal the top card of the villain deck.  If it's a villain, that villain enters the rooftops.",
+		"Attack": "3+",
+		"VP": "2"
+	},
+	{
+		"set": "Marvel Studios Phase 1",
+		"adversaryGroup": "Chitauri",
+		"adversary": "Chitauri Leviathan",
+		"quantity": "2",
+		"keyword": "Rooftops Conqueror 2",
+		"Fight": "Each player with no Bystanders in their Victory Pile gains a wound.",
+		"Escape": "Same effect.",
+		"Attack": "5+",
+		"VP": "4"
+	},
+	{
+		"set": "Marvel Studios Phase 1",
+		"adversaryGroup": "Chitauri",
+		"adversary": "Chitauri Chariot",
+		"quantity": "2",
+		"keyword": "Rooftops Conqueror 2",
+		"Ambush": "(After this enters the city) If the rooftops are empty, move this Villain there.",
+		"Attack": "4+",
+		"VP": "3"
+	},
+	{
+		"set": "Marvel Studios Phase 1",
+		"adversaryGroup": "Enemies of Asgard",
+		"adversary": "Destroyer",
+		"quantity": "1",
+		"Fight": "KO all your S.H.I.E.L.D. Heroes.",
+		"Escape": "Each player KOs two of their Heroes.",
+		"Attack": "7",
+		"VP": "5"
+	},
+	{
+		"set": "Marvel Studios Phase 1",
+		"adversaryGroup": "Enemies of Asgard",
+		"adversary": "Enchantress",
+		"quantity": "2",
+		"Fight": "Draw three cards",
+		"Attack": "6",
+		"VP": "4"
+	},
+	{
+		"set": "Marvel Studios Phase 1",
+		"adversaryGroup": "Enemies of Asgard",
+		"adversary": "Frost Giant",
+		"quantity": "3",
+		"Fight": "Each player reveals a [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Hero or gains a Wound.",
+		"Escape": "Same effect.",
+		"Attack": "4",
+		"VP": "2"
+	},
+	{
+		"set": "Marvel Studios Phase 1",
+		"adversaryGroup": "Enemies of Asgard",
+		"adversary": "Ymir, Frost Giant King",
+		"quantity": "2",
+		"Ambush": "Each player reveals a [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Hero or gains a Wound.",
+		"Fight": "Choose a player. That player KOs any number of Wounds from their hand and discard pile.",
+		"Attack": "6",
+		"VP": "4"
+	},
+	{
+		"set": "Marvel Studios Phase 1",
+		"adversaryGroup": "Gamma Hunters",
+		"adversary": "Sonic Cannon",
+		"quantity": "2",
+		"Ambush": "Each Player discards two cards, then draws a card.",
+		"Escape": "Same Effect",
+		"Attack": "4",
+		"VP": "2"
+	},
+	{
+		"set": "Marvel Studios Phase 1",
+		"adversaryGroup": "Gamma Hunters",
+		"adversary": "Lt. Gen “Thunderbolt” Ross",
+		"quantity": "2",
+		"Ambush": "Each Player reveals their hand. Each player with any [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] cards must discard one of them or gain a wound.",
+		"Escape": "Same effect.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "Marvel Studios Phase 1",
+		"adversaryGroup": "Gamma Hunters",
+		"adversary": "Abomination, Raging Monster",
+		"quantity": "2",
+		"keyword": "Streets Conqueror 3",
+		"Ambush": "(After this enters the city.) If the streets are empty, move another villain from any city space to the streets.",
+		"Attack": "4+",
+		"VP": "4"
+	},
+	{
+		"set": "Marvel Studios Phase 1",
+		"adversaryGroup": "Gamma Hunters",
+		"adversary": "Fighter Jet",
+		"quantity": "2",
+		"keyword": "Streets Conqueror 2",
+		"Fight": "KO one of your heroes.",
+		"Attack": "3+",
+		"VP": "2"
+	},
+	{
+		"set": "Marvel Studios Phase 1",
+		"adversaryGroup": "HYDRA",
+		"adversary": "Endless Armies of HYDRA",
+		"quantity": "3",
+		"Fight": "Play the top two cards of the Villain Deck.",
+		"Attack": "4",
+		"VP": "3"
+	},
+	{
+		"set": "Marvel Studios Phase 1",
+		"adversaryGroup": "HYDRA",
+		"adversary": "HYDRA Kidnappers",
+		"quantity": "3",
+		"Fight": "You may gain a S.H.I.E.L.D. Officer.",
+		"Attack": "3",
+		"VP": "1"
+	},
+	{
+		"set": "Marvel Studios Phase 1",
+		"adversaryGroup": "HYDRA",
+		"adversary": "Supreme HYDRA",
+		"quantity": "1",
+		"description": "Supreme HYDRA is worth +3 VP for each other HYDRA Villain in your Victory Pile.",
+		"Attack": "6",
+		"VP": "3*"
+	},
+	{
+		"set": "Marvel Studios Phase 1",
+		"adversaryGroup": "HYDRA",
+		"adversary": "Viper",
+		"quantity": "1",
+		"Fight": "Each player without another HYDRA Villain in their Victory Pile gains a Wound.",
+		"Escape": "Same effect.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "Marvel Studios Phase 1",
+		"adversaryGroup": "Iron Foes",
+		"adversary": "Hammer Drone Marine",
+		"quantity": "2",
+		"Fight": "Look at the top three cards of your deck. KO one of them and put the rest back in any order.",
+		"Attack": "4",
+		"VP": "2"
+	},
+	{
+		"set": "Marvel Studios Phase 1",
+		"adversaryGroup": "Iron Foes",
+		"adversary": "Raza, Ten Rings Leader",
+		"quantity": "2",
+		"description": "Raza gets +1 Attack for each Bystander he has.",
+		"Ambush": "Raza captures a Bystander from the Bystander stack and a random Bystander from each player’s Victory Pile.",
+		"Attack": "4+",
+		"VP": "3"
+	},
+	{
+		"set": "Marvel Studios Phase 1",
+		"adversaryGroup": "Iron Foes",
+		"adversary": "Whiplash",
+		"quantity": "2",
+		"Fight": "Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] hero or gains a wound.",
+		"Escape": "Same effect.",
+		"Attack": "6",
+		"VP": "4"
+	},
+	{
+		"set": "Marvel Studios Phase 1",
+		"adversaryGroup": "Iron Foes",
+		"adversary": "Justin Hammer",
+		"quantity": "2",
+		"keyword": " Bank Conqueror 2",
+		"Fight": "You get +2 Recruit usable only to recruit heroes in the HQ space under the bank.",
+		"Attack": "3+",
+		"VP": "2"
+	},
+	{
+		"set": "Ant-Man",
+		"adversaryGroup": "Ultron's Legacy",
+		"adversary": "Ultron Roboticks",
+		"quantity": "1",
+		"Microscopic Size-chaning": "[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]",
+		"Fight": "KO one of your Heroes.",
+		"Attack": "3*",
+		"VP": "2"
+	},
+	{
+		"set": "Ant-Man",
+		"adversaryGroup": "Ultron's Legacy",
+		"adversary": "Original Ultron-1",
+		"quantity": "1",
+		"keyword": "Empowered by [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]",
+		"Fight": "KO one of your Heroes.",
+		"Attack": "3+",
+		"VP": "2"
+	},
+	{
+		"set": "Ant-Man",
+		"adversaryGroup": "Ultron's Legacy",
+		"adversary": "Legions of Ultron",
+		"quantity": "1",
+		"keyword": "Empowered by [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]",
+		"Fight": "Draw a card.",
+		"Attack": "4+",
+		"VP": "3"
+	},
+	{
+		"set": "Ant-Man",
+		"adversaryGroup": "Ultron's Legacy",
+		"adversary": "Alkhema",
+		"quantity": "1",
+		"keyword": "Empowered by [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR]",
+		"Fight": "KO a card from your discard pile.",
+		"Attack": "4+",
+		"VP": "3"
+	},
+	{
+		"set": "Ant-Man",
+		"adversaryGroup": "Ultron's Legacy",
+		"adversary": "Ultron-Pym",
+		"quantity": "1",
+		"Microscopic Size-Changing": "[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]",
+		"Fight": "A Hero in the HQ with no \"Size-Changing\" abilites gains \"Size-Changing\": \"[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] this turn.\"",
+		"Attack": "6*",
+		"VP": "3"
+	},
+	{
+		"set": "Ant-Man",
+		"adversaryGroup": "Ultron's Legacy",
+		"adversary": "Future Ultron Prime",
+		"quantity": "1",
+		"keyword": "Double Empowered by [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR]",
+		"Ambush": "Put all non-[BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Heroes from the HQ on the bottom of the Hero Deck.",
+		"Attack": "5+",
+		"VP": "5"
+	},
+	{
+		"set": "Ant-Man",
+		"adversaryGroup": "Ultron's Legacy",
+		"adversary": "Brutish Ultron-14",
+		"quantity": "1",
+		"keyword": "Empowered by [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]",
+		"Fight": "Each player reveals a [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero or gains a Wound.",
+		"Escape": "Same effect.",
+		"Attack": "5+",
+		"VP": "4"
+	},
+	{
+		"set": "Ant-Man",
+		"adversaryGroup": "Ultron's Legacy",
+		"adversary": "Crimson Cowl",
+		"quantity": "1",
+		"keyword": "Empowered by [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]",
+		"Ambush": "Crimson Cowl captures a Bystander.",
+		"Attack": "5+",
+		"VP": "4"
+	},
+	{
+		"set": "Ant-Man",
+		"adversaryGroup": "Queen's Vengeance",
+		"adversary": "Daystar",
+		"quantity": "1",
+		"Microscopic Size-Changing": "[BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR]",
+		"Fight": "Reveal the top card of your deck. You may KO it.",
+		"Attack": "5*",
+		"VP": "2"
+	},
+	{
+		"set": "Ant-Man",
+		"adversaryGroup": "Queen's Vengeance",
+		"adversary": "Blackbird",
+		"quantity": "1",
+		"keyword": "Chivalrous Duel",
+		"Fight": "KO one of your Heroes.",
+		"Attack": "3*",
+		"VP": "3"
+	},
+	{
+		"set": "Ant-Man",
+		"adversaryGroup": "Queen's Vengeance",
+		"adversary": "Gigantus",
+		"quantity": "1",
+		"Microscopic Size-Changing": "[BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR]",
+		"Fight": "KO one of your Heroes.",
+		"Attack": "7*",
+		"VP": "4"
+	},
+	{
+		"set": "Ant-Man",
+		"adversaryGroup": "Queen's Vengeance",
+		"adversary": "Iron Knight",
+		"quantity": "1",
+		"keyword": "Chivalrous Duel",
+		"Escape": "Each player reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or gains a Wound.",
+		"Attack": "4*",
+		"VP": "4"
+	},
+	{
+		"set": "Ant-Man",
+		"adversaryGroup": "Queen's Vengeance",
+		"adversary": "Yoeman America",
+		"quantity": "1",
+		"keyword": "Chivalrous Duel",
+		"Fight": "You get +1 Recruit for each color of Hero you have (including grey).",
+		"Attack": "5*",
+		"VP": "5"
+	},
+	{
+		"set": "Ant-Man",
+		"adversaryGroup": "Queen's Vengeance",
+		"adversary": "Star-Knight",
+		"quantity": "1",
+		"keyword": "Chivalrous Duel",
+		"Fight": "KO a card from your discard pile.",
+		"Attack": "3*",
+		"VP": "3"
+	},
+	{
+		"set": "Ant-Man",
+		"adversaryGroup": "Queen's Vengeance",
+		"adversary": "Pixie",
+		"quantity": "1",
+		"Microscopic Size-Changing": "[BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR].",
+		"Fight": "Reveal a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero or play another card from the Villain Deck.",
+		"Attack": "3*",
+		"VP": "2"
+	},
+	{
+		"set": "Ant-Man",
+		"adversaryGroup": "Queen's Vengeance",
+		"adversary": "Mordred the Evil",
+		"quantity": "1",
+		"Fight": "Choose a card in your discard pile. The player to your right gains it.",
+		"Escape": "Each player simultaneously does that same effect.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "Venom",
+		"adversaryGroup": "Life Foundation",
+		"adversary": "Agony",
+		"quantity": "1",
+		"Ambush": "Reveal the top three cards of the Villain Deck. A Villain you revealed [b]Symbiote Bonds[/b] with Agony. Put the rest back in any order.",
+		"Escape": "Each player reveals a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR]  Hero or gains a Wound.",
+		"Attack": "3",
+		"VP": "3"
+	},
+	{
+		"set": "Venom",
+		"adversaryGroup": "Life Foundation",
+		"adversary": "Dr. Carlton Drake",
+		"quantity": "1",
+		"Fight": "Each [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] and [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero currently in the HQ costs 1 less this turn.",
+		"Attack": "5",
+		"VP": "3"
+	},
+	{
+		"set": "Venom",
+		"adversaryGroup": "Life Foundation",
+		"adversary": "Lasher",
+		"quantity": "2",
+		"Ambush": "A Henchman Villain from your Victory Pile [b]Symbiote Bonds[/b] with Lasher.",
+		"Attack": "2",
+		"VP": "2"
+	},
+	{
+		"set": "Venom",
+		"adversaryGroup": "Life Foundation",
+		"adversary": "Phage",
+		"quantity": "1",
+		"Ambush": "A Villain from the Escape Pile or your Victory Pile [b]Symbiote Bonds[/b] with Phage.",
+		"Attack": "3",
+		"VP": "3"
+	},
+	{
+		"set": "Venom",
+		"adversaryGroup": "Life Foundation",
+		"adversary": "Riot",
+		"quantity": "2",
+		"Ambush": "Reveal the top card of the Villain Deck. If it's a Villain, it [b]Symbiote Bonds[/b] with Riot.",
+		"Fight": "KO one of your Heroes.",
+		"Attack": "2",
+		"VP": "2"
+	},
+	{
+		"set": "Venom",
+		"adversaryGroup": "Life Foundation",
+		"adversary": "Scream",
+		"quantity": "1",
+		"Ambush": "Reveal the top card of the Villain Deck. If it's a Henchman or Life Foundation Villain, it [b]Symbiote Bonds[/b] with Scream.",
+		"Attack": "4",
+		"VP": "4"
+	},
+	{
+		"set": "Venom",
+		"adversaryGroup": "Poisons",
+		"adversary": "Poison Captain America",
+		"quantity": "1",
+		"Fight": "This [b]Symbiote Bonds[/b] with another Villain in the city. If already bonded or unable to bond, gain this as a Hero instead.",
+		"Attack": "4",
+		"gainedAlly": {
+			"class": "Instinct",
+			"ability": "You get +1 Attack for each color of Hero you have. (including Instinct and grey)",
+			"attack": "0+"
+		}
+	},
+	{
+		"set": "Venom",
+		"adversaryGroup": "Poisons",
+		"adversary": "Poison Dr. Octopus",
+		"quantity": "1",
+		"Fight": "This [b]Symbiote Bonds[/b] with a Villain in the Bank. If already bonded or unable to bond, gain this as a Hero instead.",
+		"Attack": "3",
+		"gainedAlly": {
+			"class": "Tech",
+			"ability": "Draw a card.",
+			"attack": "1"
+		}
+	},
+	{
+		"set": "Venom",
+		"adversaryGroup": "Poisons",
+		"adversary": "Poison Hulk",
+		"quantity": "1",
+		"Fight": "This [b]Symbiote Bonds[/b] with a Henchman Villain in the city. If already bonded or unable to bond, gain this as a Hero instead.",
+		"Attack": "5",
+		"gainedAlly": {
+			"class": "Strength",
+			"abilityMatch": "Strength",
+			"ability": "Strength: You get +2 Attack.",
+			"attack": "2+"
+		}
+	},
+	{
+		"set": "Venom",
+		"adversaryGroup": "Poisons",
+		"adversary": "Poison Sabretooth",
+		"quantity": "1",
+		"Fight": "This [b]Symbiote Bonds[/b] with a Villain in the Streets. If already bonded or unable to bond, gain this as a Hero instead.",
+		"Attack": "4",
+		"gainedAlly": {
+			"class": "Instinct",
+			"abilityMatch": "Instinct",
+			"ability": "Instinct: Look at the top card of your deck. You may KO it.",
+			"attack": "2"
+		}
+	},
+	{
+		"set": "Venom",
+		"adversaryGroup": "Poisons",
+		"adversary": "Poison Scarlet Witch",
+		"quantity": "1",
+		"Fight": "This [b]Symbiote Bonds[/b] with another Villain in the city with an odd-numbered Attack. If already bonded or unable to bond, gain this as a Hero instead.",
+		"Attack": "3",
+		"gainedAlly": {
+			"class": "Covert",
+			"ability": "Reveal the top card of your deck. If it has an odd-numbered cost, draw it. (0 is even.)",
+			"attack": "2"
+		}
+	},
+	{
+		"set": "Venom",
+		"adversaryGroup": "Poisons",
+		"adversary": "Poison Spider-Man",
+		"quantity": "1",
+		"Fight": "This [b]Symbiote Bonds[/b] with another Villain in the city. If already bonded or unable to bond, gain this as a Hero instead.",
+		"Attack": "2",
+		"gainedAlly": {
+			"class": "Covert",
+			"ability": "Reveal the top card of your deck. If it costs 2 or less, draw it.",
+			"attack": "2"
+		}
+	},
+	{
+		"set": "Venom",
+		"adversaryGroup": "Poisons",
+		"adversary": "Poison Storm",
+		"quantity": "1",
+		"Fight": "This [b]Symbiote Bonds[/b] with a Villain on the Rooftops or Bridge. If already bonded or unable to bond, gain this as a Hero instead.",
+		"Attack": "3",
+		"gainedAlly": {
+			"class": "Ranged",
+			"abilityMatch": "Ranged",
+			"ability": "Ranged: You get +2 Attack usable only against the Mastermind.",
+			"attack": "2+"
+		}
+	},
+	{
+		"set": "Venom",
+		"adversaryGroup": "Poisons",
+		"adversary": "Symbiotic Armor",
+		"quantity": "1",
+		"Ambush": "This Symbiote Bonds with the Mastermind. When you fight the Mastermind, defeat Symbiotic Armor and KO one of your Heroes instead of taking a Tactic.",
+		"Attack": "1",
+		"VP": "6"
+	}
+]
