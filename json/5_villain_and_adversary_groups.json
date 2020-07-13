@@ -2566,6 +2566,7 @@
 		"Attack": "4",
 		"gainedAlly": {
 			"class": "Instinct",
+			"affiliation": "X-Men",
 			"keyword": "X-Gene",
 			"abilityMatch": "Instinct",
 			"ability": "X-Gene: Instinct: The next Hero you recruit from the HQ has Soaring Flight.",
@@ -2581,6 +2582,7 @@
 		"Attack": "5",
 		"gainedAlly": {
 			"class": "Tech",
+			"affiliation": "X-Men",
 			"keyword": "X-Gene",
 			"abilityMatch": "Tech",
 			"ability": "X-Gene: Tech: You may KO a card from your hand or discard pile.",
@@ -2597,6 +2599,7 @@
 		"Attack": "7",
 		"gainedAlly": {
 			"class": "Ranged",
+			"affiliation": "X-Men",
 			"keyword": "X-Gene",
 			"abilityMatch": "Ranged",
 			"ability": "X-Gene: Ranged: Return a Ranged Hero from your discard pile to your hand.",
@@ -2612,6 +2615,7 @@
 		"Attack": "5",
 		"gainedAlly": {
 			"class": "Strength",
+			"affiliation": "X-Men",
 			"keyword": "X-Gene",
 			"abilityMatch": "Strength",
 			"ability": "X-Gene: Strength: Draw a card.",
@@ -2628,6 +2632,7 @@
 		"Attack": "4+",
 		"gainedAlly": {
 			"class": "Covert",
+			"affiliation": "X-Men",
 			"keyword": "X-Gene",
 			"abilityMatch": "Covert",
 			"ability": "X-Gene: Covert: Rescue a Bystander.",
