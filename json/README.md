@@ -1,5 +1,5 @@
-Adversary is used in place of villains. Adversary is a more generic term that is used in the Villains set.
-Ally is used in place of Hero. Ally is a more generic term that is used in the Villains set. 
+* Adversary is used in place of villains. Adversary is a more generic term that is used in the Villains set.
+* Ally is used in place of Hero. Ally is a more generic term that is used in the Villains set. 
 
 Tokens:
 
@@ -15,6 +15,7 @@ Tokens:
 	}
 
 Villain turned Hero:
+
 	{
 		"set": "X-Men",
 		"adversaryGroup": "Shadow-X",
