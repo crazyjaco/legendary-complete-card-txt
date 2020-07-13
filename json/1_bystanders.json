@@ -1,0 +1,392 @@
+[
+	{
+		"name": "Bystander",
+		"set": "Core",
+		"quantity": "30",
+		"vp": "1"
+	},
+	{
+		"name": "News Reporter",
+		"set": "Dark City",
+		"quantity": "4",
+		"description": "When you rescue this Bystander, draw a card.",
+		"vp": "1"
+	},
+	{
+		"name": "Paramedic",
+		"set": "Dark City",
+		"quantity": "3",
+		"description": "When you rescue this Bystander, you may KO a Wound from your hand or from any player's discard pile.",
+		"vp": "1"
+	},
+	{
+		"name": "Radiation Scientist",
+		"set": "Dark City",
+		"quantity": "4",
+		"description": "When you rescue this Bystander, you may KO one of your Heroes or a Hero from your discard pile.",
+		"vp": "1"
+	},
+	{
+		"name": "Bystander",
+		"set": "Villains",
+		"quantity": "30",
+		"vp": "1"
+	},
+	{
+		"name": "Computer Hacker",
+		"set": "Villains",
+		"quantity": "3",
+		"description": "When you kidnap this Bystander, draw an extra card when you draw a new hand at the end of your turn.",
+		"vp": "1"
+	},
+	{
+		"name": "Engineer",
+		"set": "Villains",
+		"quantity": "3",
+		"description": "When you kidnap this Bystander, reveal the top card of your deck. If it costs 0 - KO it.",
+		"vp": "1"
+	},
+	{
+		"name": "Public Speaker",
+		"set": "Villains",
+		"quantity": "3",
+		"description": "When you kidnap this Bystander, gain 1 recruit.",
+		"vp": "1"
+	},
+	{
+		"name": "Rockstar",
+		"set": "Villains",
+		"quantity": "3",
+		"description": "When you kidnap this Bystander, kidnap another Bystander.",
+		"vp": "1"
+	},
+	{
+		"name": "Banker",
+		"set": "Secret Wars Volume 1",
+		"quantity": "3",
+		"description": "When you rescue this Bystander, you get +2 Recruit, usable only to recruit Heroes in the HQ space under the Bank.",
+		"vp": "1"
+	},
+	{
+		"name": "Alligator Trapper",
+		"set": "Secret Wars Volume 1",
+		"quantity": "3",
+		"description": "When you rescue this Bystander, [b]Patrol the Sewers:[/b] If it's empty, you get +2 Recruit.",
+		"vp": "1"
+	},
+	{
+		"name": "Shapeshifted Copycat",
+		"set": "Secret Wars Volume 1",
+		"quantity": "4",
+		"description": "When you rescue this Bystander, this card becomes a Villain with 3 Attack and enters the city. It gains the ability: \"[b]Fight[/b]: KO one of your Heroes.\"",
+		"vp": "1"
+	},
+	{
+		"name": "Undercover Agent",
+		"set": "Secret Wars Volume 1",
+		"quantity": "3",
+		"description": "When you rescue this Bystander, a player of your choice gains a S.H.I.E.L.D. Officer.",
+		"vp": "1"
+	},
+	{
+		"name": "Aspiring Hero",
+		"set": "Civil War",
+		"quantity": "4",
+		"description": "When you rescue this Bystander, gain a Sidekick.",
+		"vp": "1"
+	},
+	{
+		"name": "Comic Shop Keeper",
+		"set": "Civil War",
+		"quantity": "3",
+		"description": "When you rescue this Bystander, reveal the top three cards of the Hero Deck. The player of your choice gains one of them that costs 3 or less. Put the rest back in any order.",
+		"vp": "1"
+	},
+	{
+		"name": "Detective Wolverine",
+		"set": "Noir",
+		"quantity": "1",
+		"note": "first print run promo",
+		"description": "When you rescue this Bystander, [b]Investigate[/b] the Villain Deck for a Villain worth 1 VP and put it in your Victory Pile."
+	},
+	{
+		"name": "Cypher",
+		"set": "X-Men",
+		"quantity": "1",
+		"affiliation": "New Mutants",
+		"description": "When you rescue this Bystander, gain it as a Hero.",
+		"gainedAlly": {
+			"class": "Tech",
+			"affiliation": "X-Men",
+			"ability": "Look at the top two cards of your deck. Draw one and discard the other.",
+			"cost": "2"
+		}
+	},
+	{
+		"name": "Heartless Computer Scientist",
+		"set": "X-Men",
+		"quantity": "1",
+		"description": "When you rescue this Bystander",
+		"gainedAlly": {
+			"class": "Tech",
+			"abilityMatch": "Tech",
+			"ability": "Tech: You may KO a card from your hand or discard pile.",
+			"recruit": "2",
+			"cost": "3"
+		}
+	},
+	{
+		"name": "Karma",
+		"set": "X-Men",
+		"quantity": "1",
+		"affiliation": "New Mutants",
+		"description": "When you rescue this Bystander, gain it as a Hero.",
+		"gainedAlly": {
+			"class": "covert",
+			"affiliation": "X-Men",
+			"ability": "Reveal the top card of the Hero Deck. You get +Attack equal to its printed Attack.",
+			"attack": "0+",
+			"cost": "3"
+		}
+	},
+	{
+		"name": "Magik",
+		"set": "X-Men",
+		"quantity": "1",
+		"note": "first print run promo",
+		"affiliation": "New Mutants",
+		"description": "When you rescue this Bystander, gain it as a Hero.",
+		"gainedAlly": {
+			"class": "Ranged",
+			"affiliation": "X-Men",
+			"keyword": "Teleport",
+			"attack": "2",
+			"cost": "4"
+		}
+	},
+	{
+		"name": "Magma",
+		"set": "X-Men",
+		"quantity": "1",
+		"affiliation": "New Mutants",
+		"description": "When you rescue this Bystander, gain it as a Hero.",
+		"gainedAlly": {
+			"class": "Ranged",
+			"affiliation": "X-Men",
+			"ability": "Chose one: Draw a card or you get +2 Attack.",
+			"attack": "0+",
+			"cost": "3"
+		}
+	},
+	{
+		"name": "Martial Arts Master",
+		"set": "X-Men",
+		"quantity": "1",
+		"description": "When you rescue this Bystander, gain it as a Hero.",
+		"gainedAlly": {
+			"class": "Instinct",
+			"ability": "Draw a card.",
+			"attack": "1",
+			"cost": "3"
+		}
+	},
+	{
+		"name": "Mirage",
+		"set": "X-Men",
+		"quantity": "1",
+		"affiliation": "New Mutants",
+		"description": "When you rescue this Bystander, gain it as a Hero.",
+		"gainedAlly": {
+			"class": "Covert",
+			"affiliation": "X-Men",
+			"ability": "Draw a card.",
+			"recruit": "1",
+			"cost": "3"
+		}
+	},
+	{
+		"name": "Sunspot",
+		"set": "X-Men",
+		"quantity": "1",
+		"affiliation": "New Mutants",
+		"description": "When you rescue this Bystander, gain it as a Hero.",
+		"gainedAlly": {
+			"class": "Strength",
+			"affiliation": "X-Men",
+			"abilityMatch": "Strength",
+			"ability": "Strength: You get +1 Attack.",
+			"attack": "2+",
+			"cost": "3"
+		}
+	},
+	{
+		"name": "Warlock",
+		"set": "X-Men",
+		"quantity": "1",
+		"affiliation": "New Mutants",
+		"description": "When you rescue this Bystander, gain it as a Hero.",
+		"gainedAlly": {
+			"class": "Tech",
+			"affiliation": "X-Men",
+			"abilityMatch": "Tech",
+			"ability": "Tech: Draw a card.",
+			"attack": "2",
+			"cost": "3"
+		}
+	},
+	{
+		"name": "Wolfsbane",
+		"set": "X-Men",
+		"quantity": "1",
+		"affiliation": "New Mutants",
+		"description": "When you rescue this Bystander, gain it as a Hero.",
+		"gainedAlly": {
+			"class": "Instinct",
+			"affiliation": "X-Men",
+			"keyword": "Beserk",
+			"ability": "Berserk, Berserk, Berserk",
+			"attack": "0+",
+			"cost": "3"
+		}
+	},
+	{
+		"name": "Actor",
+		"set": "World War Hulk",
+		"quantity": "1",
+		"description": "When you rescue this Bystander, choose a Hero in the HQ that costs 4 or less. You get its printed Recruit and Attack.",
+		"vp": "1"
+	},
+	{
+		"name": "Animal Trainer",
+		"set": "World War Hulk",
+		"quantity": "1",
+		"description": "When you rescue this Bystander, each [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] and/or [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero currently in the HQ costs 1 less this turn.",
+		"vp": "1"
+	},
+	{
+		"name": "Tourist Couple",
+		"set": "World War Hulk",
+		"quantity": "1",
+		"description": "When you rescue this Bystander, you get +1 Recruit if the Rooftops are empty and +1 Recruit if the Bridge is empty.",
+		"vp": "1"
+	},
+	{
+		"name": "Triage Nurse",
+		"set": "World War Hulk",
+		"quantity": "1",
+		"description": "When you rescue this Bystander, look at the top three cards of your deck. KO one, discard one, and put one back.",
+		"vp": "1"
+	},
+	{
+		"name": "Bulldozer Driver",
+		"set": "3D",
+		"quantity": "?",
+		"description": "When you rescue this Bystander, you may move a Villain to an adjacent city space. If another Villain is already there, swap them.",
+		"vp": "1"
+	},
+	{
+		"name": "Double Agent Of S.H.I.E.L.D.",
+		"set": "3D",
+		"quantity": "?",
+		"description": "When you rescue this Bystander, play a copy of one of your S.H.I.E.L.D. Heroes or HYDRA allies.",
+		"vp": "1"
+	},
+	{
+		"name": "Fortune Teller",
+		"set": "3D",
+		"quantity": "?",
+		"description": "When you rescue this Bystander, guess \"zero\" or \"not zero.\" Then reveal the top card of your deck and check its cost. If you guessed right, draw that card.",
+		"vp": "1"
+	},
+	{
+		"name": "Photographer",
+		"set": "3D",
+		"quantity": "?",
+		"description": "This Bystander is worth +1 VP for each Hero you have that costs 7 or more among all your cards at the end of the game.",
+		"vp": "1"
+	},
+	{
+		"name": "Stan Lee",
+		"set": "3D",
+		"quantity": "?",
+		"description": "When you rescue this Bystander, say a Hero name. Then reveal the top three cards of your deck. Put one of those cards with that exact Hero name into your hand. Put the rest back in any order.",
+		"vp": "1"
+	},
+	{
+		"name": "Damage Control",
+		"set": "Spider-Man Homecoming",
+		"quantity": "1",
+		"note": "first print run promo",
+		"description": "When you rescue this Bystander, reveal the top two cards of your deck. Put any that cost 2 or less into your hand. Put the rest back in any order.",
+		"vp": "1"
+	},
+	{
+		"name": "Bystander",
+		"set": "Marvel Studios Phase 1",
+		"quantity": "30",
+		"vp": "1"
+	},
+	{
+		"name": "Happy Hogan",
+		"set": "Marvel Studios Phase 1",
+		"quantity": "3",
+		"description": "When you rescue this Bystander, you may KO a Wound from your hand or from any player's discard pile.",
+		"vp": "1"
+	},
+	{
+		"name": "Jane Foster",
+		"set": "Marvel Studios Phase 1",
+		"quantity": "3",
+		"description": "When you rescue this Bystander, you may KO one of your Heroes or a Hero from your discard pile.",
+		"vp": "1"
+	},
+	{
+		"name": "Peggy Carter",
+		"set": "Marvel Studios Phase 1",
+		"quantity": "3",
+		"description": "When you rescue this Bystander, draw a card.",
+		"vp": "1"
+	},
+	{
+		"name": "Pepper Potts",
+		"set": "Marvel Studios Phase 1",
+		"quantity": "3",
+		"description": "When you rescue this Bystander, you get +2 Recruit, usable only to recruit Heroes in the HQ space under the Bank.",
+		"vp": "1"
+	},
+	{
+		"name": "Bulldozer Driver",
+		"set": "Dimensions",
+		"quantity": "1",
+		"description": "When you rescue this Bystander, you may move a Villain to an adjacent city space. If another Villain is already there, swap them.",
+		"vp": "1"
+	},
+	{
+		"name": "Double Agent of S.H.I.E.L.D.",
+		"set": "Dimensions",
+		"quantity": "1",
+		"description": "When you rescue this Bystander, play a copy of one of your S.H.I.E.L.D. Heroes or HYDRA Allies.",
+		"vp": "1"
+	},
+	{
+		"name": "Forklift Driver",
+		"set": "Dimensions",
+		"quantity": "1",
+		"description": "When you rescue this Bystander, put any number of Heroes from the HQ on the bottom of the Hero Deck.",
+		"vp": "1"
+	},
+	{
+		"name": "Fortune Teller",
+		"set": "Dimensions",
+		"quantity": "1",
+		"description": "When you rescue this Bystander, guess \"zero\" or \"not zero.\" Then reveal the top card of your deck and check its cost. If you guessed right, draw that card.",
+		"vp": "1"
+	},
+	{
+		"name": "Photographer",
+		"set": "Dimensions",
+		"quantity": "1",
+		"description": "This Bystander is worth +1 Victory Points for each Hero you have that costs 7 Cost or more among all your cards at the end of the game.",
+		"vp": "1*"
+	}
+]
