@@ -1,0 +1,242 @@
+[
+	{
+		"name": "Pure Evil",
+		"set": "Secret Wars Volume 1",
+		"description": "[i]Starting Ambition[/i] Play a card from the Villain Deck. Keep this card in the Ambition Row. (This card starts the game in the Ambition Row and cannot be discarded from the Ambition Row. You can use this card multiple times in the same turn.)[/i]",
+		"attack": "5"
+	},
+	{
+		"name": "Crackdown",
+		"set": "Secret Wars Volume 1",
+		"description": "Choose a class. Each other player reveals their hand and discards all cards of that class.",
+		"attack": "7"
+	},
+	{
+		"name": "Tide of Destruction",
+		"set": "Secret Wars Volume 1",
+		"description": "Play two cards from the Villain Deck.",
+		"attack": "8"
+	},
+	{
+		"name": "Abduction",
+		"set": "Secret Wars Volume 1",
+		"description": "Put a Hero from the HQ on the bottom of the Hero Deck.",
+		"attack": "2"
+	},
+	{
+		"name": "Secret Plans",
+		"set": "Secret Wars Volume 1",
+		"description": "Put this card under a Villain in the Sewers or Bank. When that Villain escapes, this card becomes a Scheme Twist that takes effect immediately. If that Villain leaves the city another way, discard this.",
+		"attack": "4"
+	},
+	{
+		"name": "Wipe Out",
+		"set": "Secret Wars Volume 1",
+		"description": "Choose a class. Put all heroes of that class from the HQ on the bottom of the Hero Deck.",
+		"attack": "2"
+	},
+	{
+		"name": "Crush the Weak",
+		"set": "Secret Wars Volume 1",
+		"description": "The other player with the fewest Villains in their Victory Pile gains a Wound. [i](You choose how to break a tie.)[/i]",
+		"attack": "3"
+	},
+	{
+		"name": "Identity Theft",
+		"set": "Secret Wars Volume 1",
+		"description": "Each other player that has exactly six cards reveals a [BGCOLOR=#000000][COLOR=#FFFFFF]Tech[/COLOR][/BGCOLOR] Hero or puts two cards from their hand on top of their deck.",
+		"attack": "4"
+	},
+	{
+		"name": "Wave of Punishment",
+		"set": "Secret Wars Volume 1",
+		"description": "Each other player reveals a [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Hero or gains a Wound to the bottom of their deck.",
+		"attack": "5"
+	},
+	{
+		"name": "Force Field",
+		"set": "Secret Wars Volume 1",
+		"description": "Put this card under the Mastermind card. That Mastermind gets +3 Attack until the start of your next turn. Then, discard this card.",
+		"attack": "3"
+	},
+	{
+		"name": "Breakout",
+		"set": "Secret Wars Volume 1",
+		"description": "Choose a Villain from the Escape Pile. It enters the city.",
+		"attack": "4"
+	},
+	{
+		"name": "Last-Minute Escape",
+		"set": "Secret Wars Volume 1",
+		"description": "Pick a random Mastermind Tactic from all the ones in players' Victory Piles. Shuffle it back into the Mastermind's Tactics.",
+		"attack": "9"
+	},
+	{
+		"name": "Empower",
+		"set": "Secret Wars Volume 1",
+		"description": "Put this card under a Villain in the city. Until the start of your next turn, that Villain gets +3 Attack. Then, discard this card.",
+		"attack": "3"
+	},
+	{
+		"name": "Deceive",
+		"set": "Secret Wars Volume 1",
+		"description": "Each other player reveals a [BGCOLOR=#FF0000][COLOR=#FFFFFF]Covert[/COLOR][/BGCOLOR] Hero or discards their hand and draws five cards.",
+		"attack": "4"
+	},
+	{
+		"name": "Inflict Pain",
+		"set": "Secret Wars Volume 1",
+		"description": "Each other player puts a Wound from their discard pile on top of their deck.",
+		"attack": "2"
+	},
+	{
+		"name": "Bank Robbery",
+		"set": "Secret Wars Volume 1",
+		"description": "KO the Hero in the HQ space under the Bank. You get + Recruit equal to that Hero's printed Recruit.",
+		"attack": "3"
+	},
+	{
+		"name": "Pressure Point",
+		"set": "Secret Wars Volume 1",
+		"description": "Each other player reveals a [BGCOLOR=#CC9900][COLOR=#FFFFFF]Instinct[/COLOR][/BGCOLOR] Hero or gains a Wound to the top of their deck.",
+		"attack": "6"
+	},
+	{
+		"name": "Cleave",
+		"set": "Secret Wars Volume 1",
+		"description": "Choose a number besides 0. Each other player reveals their hand and discards all cards of that cost.",
+		"attack": "6"
+	},
+	{
+		"name": "Entrap",
+		"set": "Secret Wars Volume 1",
+		"description": "Put this card on a Hero in the HQ. Players can't recruit that Hero until the start of your next turn. Then, discard this card.",
+		"attack": "1"
+	},
+	{
+		"name": "Insane Twist",
+		"set": "Secret Wars Volume 1",
+		"description": "This card becomes a Scheme Twist that takes effect immediately.",
+		"attack": "9"
+	},
+	{
+		"name": "Kidnap",
+		"set": "Secret Wars Volume 1",
+		"description": "A Villain in the city captures a Bystander.",
+		"attack": "2"
+	},
+	{
+		"name": "Thirst for Power",
+		"set": "Secret Wars Volume 1",
+		"description": "Reveal the top two cards of the Villain Deck. Play a Scheme Twist you revealed. Put the rest back on the top and/or bottom in any order.",
+		"attack": "7"
+	},
+	{
+		"name": "Painful Choice",
+		"set": "Secret Wars Volume 1",
+		"description": "Each other player chooses Recruit or Attack, then discard all their cards with that icon.",
+		"attack": "8"
+	},
+	{
+		"name": "Crime Surge",
+		"set": "Secret Wars Volume 1",
+		"description": "Each Villain on the Rooftops and Streets captures a Bystander.",
+		"attack": "3"
+	},
+	{
+		"name": "Dark Apprentice",
+		"set": "Secret Wars Volume 1",
+		"description": "Add a random new Mastermind to the game with one Tactic.",
+		"attack": "10"
+	},
+	{
+		"name": "Collateral Damage",
+		"set": "Secret Wars Volume 1",
+		"description": "Each other player KOs a Bystander from their Victory Pile or gains a Wound.",
+		"attack": "4"
+	},
+	{
+		"name": "Ruthless Strike",
+		"set": "Secret Wars Volume 1",
+		"description": "This card becomes a Master Strike that takes effect immediately.",
+		"attack": "4"
+	},
+	{
+		"name": "Infiltrate S.H.I.E.L.D.",
+		"set": "Secret Wars Volume 1",
+		"description": "Choose a 0-cost Hero from the KO pile for each other player. Those players gain those Heroes.",
+		"attack": "4"
+	},
+	{
+		"name": "Thirst for Vengeance",
+		"set": "Secret Wars Volume 1",
+		"description": "Reveal the top two cards of the Villain Deck. Play a Master Strike you revealed. Put the rest back on the top and/or bottom in any order.",
+		"attack": "6"
+	},
+	{
+		"name": "Pummel",
+		"set": "Secret Wars Volume 1",
+		"description": "Each other player reveals a [BGCOLOR=#009933][COLOR=#FFFFFF]Strength[/COLOR][/BGCOLOR] Hero or gains a Wound.",
+		"attack": "4"
+	},
+	{
+		"name": "Puzzle Trap",
+		"set": "Secret Wars Volume 2",
+		"description": "Choose a class. Other players can't recruit heroes of that class until the start of your next turn. Then, discard this card.",
+		"attack": "6"
+	},
+	{
+		"name": "Seize the High Ground",
+		"set": "Secret Wars Volume 2",
+		"description": "[b]Patrol the Rooftops:[/b] If there's a Villain there, then all Villains everywhere get +1 Attack until the start of your next turn. Then, discard this card.",
+		"attack": "3"
+	},
+	{
+		"name": "Hostage Situation",
+		"set": "Secret Wars Volume 2",
+		"description": "[b]Patrol the Streets:[/b] If there's a Villain there, then each Villain in the city captures a Bystander.",
+		"attack": "2"
+	},
+	{
+		"name": "This is a Stickup",
+		"set": "Secret Wars Volume 2",
+		"description": "[b]Patrol the Bank:[/b] If there's a Villain there, each other player reveals their hand and discards a card with a Recruit icon.",
+		"attack": "4"
+	},
+	{
+		"name": "Shadowy Disciple",
+		"set": "Secret Wars Volume 2",
+		"description": "This ambition ascends to become a new 9 Attack Mastermind worth 5 VP. It gains the ability: \"[b]Master Strike[/b]: Each player reveals a [BGCOLOR=#0000FF][COLOR=#FFFFFF]Ranged[/COLOR][/BGCOLOR] Hero or gains a Wound.\"",
+		"attack": "9"
+	},
+	{
+		"name": "Detonate the Bridge",
+		"set": "Secret Wars Volume 2",
+		"description": "[b]Patrol the Bridge:[/b] If there's a Villain there, each player gains a Wound.",
+		"attack": "4"
+	},
+	{
+		"name": "Short Escape Tunnels",
+		"set": "Secret Wars Volume 2",
+		"description": "[b]Patrol the Sewers:[/b] If there's a Villain there, it escapes.",
+		"attack": "5"
+	},
+	{
+		"name": "Crazed Charge",
+		"set": "Secret Wars Volume 2",
+		"description": "A Villain in the city [b]charges[/b] two spaces.",
+		"attack": "3"
+	},
+	{
+		"name": "Devastate S.H.I.E.L.D.",
+		"set": "Secret Wars Volume 2",
+		"description": "Every other player reveals their hand and discards all their cards that cost 0.",
+		"attack": "7"
+	},
+	{
+		"name": "Rack and Ruin",
+		"set": "Secret Wars Volume 2",
+		"description": "This card becomes a Master Strike that takes effect immediately. Then, this card becomes a Scheme Twist that takes effect immediately.",
+		"attack": "10"
+	}
+]
